@@ -1,0 +1,66 @@
+---
+title: Accounts
+---
+
+<div class="container">
+    <h1>Konton</h1>
+    <ul class="posts">
+
+        {% if site.domain_site %}
+        <h3>Domän</h3>
+        <table>
+            <tr>
+                <td>domän: </td>
+                <td>{{ site.domain_site }}</td>
+            </tr>
+            <tr>
+                <td>Email: </td>
+                <td>{{ site.domain_email }}</td>
+            </tr>
+        </table>
+        {% endif %}
+
+        {% if site.github_account %}
+        <h3>Github</h3>
+        <table>
+            <tr>
+                <td>username: </td>
+                <td>{{ site.github_account }}</td>
+            </tr>
+            <tr>
+                <td>password: </td>
+                <td>{{ site.github_password }}</td>
+            </tr>
+        </table>
+        {% endif %}
+
+        {% if site.flickr_account %}
+        <h3>Flicke</h3>
+        <table>
+          <tr>
+            <td>username: </td>
+            <td>{{ site.flickr_account }}</td>
+          </tr>
+          <tr>
+            <td>password: </td>
+            <td>{{ site.flickr_password }}</td>
+          </tr>
+        </table>
+        {% endif %}
+
+        {% if site.embed_account %}
+        <h3>Embedly</h3>
+        <table>
+          <tr>
+            <td>username: </td>
+            <td>{{ site.embed_account }}</td>
+          </tr>
+          <tr>
+            <td>password: </td>
+            <td>{{ site.embed_password }}</td>
+          </tr>
+        </table>
+        {% endif %}
+
+    </ul>
+</div>

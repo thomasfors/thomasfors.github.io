@@ -1,0 +1,16 @@
+</div>
+<style>
+.showcase-wrapper {background-image: url("{{ site.baseurl }}/images/showcase.jpg");}
+</style>
+
+<div class="showcase-wrapper sticky">
+  <div class="showcase-text">
+      <span class="badge lazy" style="color:#8adcf2"><smaller>WIMSE</smaller></span><br>
+      {{ site.project }}<br>
+
+      {% if site.posts != empty %}
+      <a href="{{ site.baseurl }}/list"><button type="button" class="btn btn-default showcase-button">uppdateringar</button></a>
+      {% endif %}
+  </div>
+</div>
+<div class="container">

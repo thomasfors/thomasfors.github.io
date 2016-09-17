@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Thomas Fors</title>
+		<description>description</description>
+		<link>site url</link>
+		<atom:link href="site url/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Urban Decay</title>
+				
+				
+					<description>Thomas Fors is an Swedish artist, As a prominent...</description>
+				
+				<pubDate>Thu, 15 Sep 2016 03:00:00 +0200</pubDate>
+				<link>site url/Urban-decay</link>
+				<guid isPermaLink="true">site url/Urban-decay</guid>
+			</item>
+		
+			<item>
+				<title>Fresh Apples</title>
+				
+				
+					<description>Thomas Fors is an Swedish artist, As a prominent...</description>
+				
+				<pubDate>Thu, 15 Sep 2016 03:00:00 +0200</pubDate>
+				<link>site url/Fresh-Apples</link>
+				<guid isPermaLink="true">site url/Fresh-Apples</guid>
+			</item>
+		
+			<item>
+				<title>Facist Spanking</title>
+				
+				
+					<description>Thomas Fors is an Swedish artist, As a prominent...</description>
+				
+				<pubDate>Wed, 14 Sep 2016 03:00:00 +0200</pubDate>
+				<link>site url/Facist-Spanking</link>
+				<guid isPermaLink="true">site url/Facist-Spanking</guid>
+			</item>
+		
+			<item>
+				<title>Lobotomy or Therapy</title>
+				
+				
+					<description>Thomas Fors is an Swedish artist, As a prominent...</description>
+				
+				<pubDate>Tue, 13 Sep 2016 03:00:00 +0200</pubDate>
+				<link>site url/Thomas-Fors</link>
+				<guid isPermaLink="true">site url/Thomas-Fors</guid>
+			</item>
+		
+			<item>
+				<title>Smokey</title>
+				
+				
+					<description>Thomas Fors is an Swedish artist, As a prominent...</description>
+				
+				<pubDate>Mon, 12 Sep 2016 03:00:00 +0200</pubDate>
+				<link>site url/Smokey</link>
+				<guid isPermaLink="true">site url/Smokey</guid>
+			</item>
+		
+			<item>
+				<title>Vansinne Fever</title>
+				
+				
+					<description>Thomas Fors is an Swedish artist, As a prominent...</description>
+				
+				<pubDate>Sun, 11 Sep 2016 03:00:00 +0200</pubDate>
+				<link>site url/Vansinne-Fever</link>
+				<guid isPermaLink="true">site url/Vansinne-Fever</guid>
+			</item>
+		
+			<item>
+				<title>Times Are Changing</title>
+				
+				
+					<description>Thomas Fors is an Swedish artist, As a prominent...</description>
+				
+				<pubDate>Sun, 11 Sep 2016 03:00:00 +0200</pubDate>
+				<link>site url/Times-are-changing</link>
+				<guid isPermaLink="true">site url/Times-are-changing</guid>
+			</item>
+		
+	</channel>
+</rss>

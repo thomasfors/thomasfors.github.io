@@ -1,0 +1,29 @@
+---
+title: Disqus
+---
+<div class="container">
+  <h1>Forum</h1>
+  <p>Här kan du ställa frågor och diskutera din hemsida.
+    För att kunna ta del, har vi registrerat dig för tjänsten Disqus.
+    Logga in med hjälp av användarnamn: {{site.disqus_username}} och
+    lösenordet: {{site.disqus_password}}</p>
+  <p><strong>När du sedan återvänder hit så måste du vara inloggad på <a href="https://disqus.com">Disqus</strong></p>
+  <div id="disqus_thread">
+
+    <script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = '{{ site.disqus }}'; // required: replace example with your forum shortname
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function() {
+          var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+          dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+          (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript>
+      Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a>
+    </noscript>
+
+  </div>
+</div>
