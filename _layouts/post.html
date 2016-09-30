@@ -45,34 +45,7 @@ layout: default
 
     </div>
   </section>
-  <footer class="postFooter">
-    {% if page.previous.url %}
-      <section class="section--prePost is-darkBackgrounded u-table">
-        <div class="section-backgroundImage section-backgroundImage--previousPage">
-          <img class="post-featuredImage"
-          {% if page.previous.image.feature %}
-            src="{{ page.previous.image.feature  }}"
-          {% endif %}
-          style="top:0" alt="">
-        </div>
-        <div class="section-gradient
-        {% if page.previous.bgGradientOpacity == "darker" %}
-          section-gradient--darker
-        {% elsif page.previous.bgGradientOpacity == "lighter" %}
-          section-gradient--lighter
-        {% endif %}
-        "></div>
-        <div class="section-title u-tableCell u-verticalAlignMiddle">
-          <div class="container">
-            <h4>Next story:</h4>
-            <a class="prev" href="{{page.previous.url}}">
-              <h2>{{page.previous.title}}</h2>
-            </a>
-          </div>
-        </div>
-      </section>
-    {% endif %}
-  </footer>
+
 </article>
 
 {% include modal.html %}
