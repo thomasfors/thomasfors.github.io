@@ -7,6 +7,18 @@
 		<atom:link href="site url/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>dada</title>
+				
+				
+					<description>&lt;p&gt;&lt;img src=&quot;/assets/images/posts/child.jpg&quot; alt=&quot;child.jpg&quot;&gt;&lt;/p&gt;
+</description>
+				
+				<pubDate>Fri, 30 Sep 2016 15:06:00 +0200</pubDate>
+				<link>site url/dada</link>
+				<guid isPermaLink="true">site url/dada</guid>
+			</item>
+		
+			<item>
 				<title>Music Subcultures</title>
 				
 				
