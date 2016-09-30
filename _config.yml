@@ -70,10 +70,6 @@ prose:
                   element: 'checkbox'
                   label: 'Publicerad'
                   value: 'true'
-            - name: 'date'
-              field:
-                  element: 'hidden'
-                  value: CURRENT_DATE
             - name: 'layout'
               field:
                   element: 'hidden'
