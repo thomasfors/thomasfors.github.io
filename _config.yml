@@ -66,3 +66,8 @@ prose:
                   element: "text"
                   label: "Showcase Bild"
                   type: "text"
+            - name: 'published'
+              field:
+                  element: 'checkbox'
+                  label: 'Publicerad'
+                  value: 'true'
