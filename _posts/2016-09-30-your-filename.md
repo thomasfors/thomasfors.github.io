@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: music subcultures
 feature: music-subcultures.jpg
 ---
@@ -7,4 +7,4 @@ feature: music-subcultures.jpg
 
 ![ee3027d49e388a391548d5deb2182d54.jpg]({{site.baseurl}}/assets/images/posts/ee3027d49e388a391548d5deb2182d54.jpg)
 
-Här kan man beskriva bilderna 
+Här kan man beskriva bilderna
