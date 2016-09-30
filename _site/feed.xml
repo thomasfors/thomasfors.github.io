@@ -7,6 +7,30 @@
 		<atom:link href="site url/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>future</title>
+				
+				
+					<description>&lt;p&gt;&lt;img src=&quot;/assets/images/posts/6yh.jpg&quot; alt=&quot;6yh.jpg&quot;&gt;&lt;/p&gt;
+</description>
+				
+				<pubDate>Fri, 30 Sep 2016 15:35:00 +0200</pubDate>
+				<link>site url/future</link>
+				<guid isPermaLink="true">site url/future</guid>
+			</item>
+		
+			<item>
+				<title>politik</title>
+				
+				
+					<description>&lt;p&gt;&lt;img src=&quot;/assets/images/posts/city.jpg&quot; alt=&quot;city.jpg&quot;&gt;&lt;/p&gt;
+</description>
+				
+				<pubDate>Fri, 30 Sep 2016 15:19:00 +0200</pubDate>
+				<link>site url/politik</link>
+				<guid isPermaLink="true">site url/politik</guid>
+			</item>
+		
+			<item>
 				<title>Fresh Apples</title>
 				
 				
