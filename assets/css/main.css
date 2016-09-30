@@ -9,6 +9,11 @@ body {
   margin: 0;
 }
 
+.post_image
+{
+    width: 100%;
+}
+
 article,
 aside,
 details,
@@ -96,6 +101,7 @@ sub {
 
 img {
   border: 0;
+  width: 100%;
 }
 
 svg:not(:root) {
