@@ -5,10 +5,15 @@ layout: default
   <section class="section--first is-darkBackgrounded u-table">
 
     <div class="section-backgroundImage">
-        <img class="post-featuredImage" src="{{ "/assets/images/posts/" }}{{page.feature }}">
+
+        {% if page.feature %}
+          <img class="post-featuredImage" src="{{ "/assets/images/posts/" }}{{page.feature }}">
+        {% endif %}
+
+
     </div>
 
-<div class="section-gradient section-gradient--darker"></div>
+    <div class="section-gradient section-gradient--darker"></div>
 
     <div class="section-title is-darkBackgrounded u-tableCell u-verticalAlignMiddle">
       <div class="container">

@@ -73,7 +73,7 @@ prose:
             - name: 'date'
               field:
                   element: 'hidden'
-                  value: CURRENT_DATETIME
+                  value: CURRENT_DATE
             - name: 'layout'
               field:
                   element: 'hidden'
