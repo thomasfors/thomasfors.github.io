@@ -1,6 +1,6 @@
 ---
 published: false
-title: ''
+title: music subcultures
 feature: music-subcultures.jpg
 ---
 ![music-subcultures.jpg]({{site.baseurl}}/assets/images/posts/music-subcultures.jpg)
