@@ -64,5 +64,5 @@ prose:
             - name: "feature"
               field:
                   element: "text"
-                  label: "Showcase bild"
+                  label: "Showcase Bild"
                   type: "text"
