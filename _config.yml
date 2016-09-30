@@ -24,7 +24,7 @@ icon:                your site icon path # /assets/img/icon.png [best 300px X 30
 disqus:              disqus_shortname # get it on https://disqus.com/admin/
 
 author:
-  name:           	 your name
+  name:           	 Thomas Fors
   url:            	 your site url
   facebook:          username
   twitter:           username
@@ -49,3 +49,15 @@ defaults:
       type: "posts"
     values:
       layout: "default"
+
+prose:
+    rooturl: "_posts"
+    siteurl: "http://thomsefors.se"
+    relativeLinks: "http://thomsefors.se/links.jsonp"
+    media: 'assets/images/posts'
+    metadata:
+        _posts:
+            - name: "title"
+              field:
+                  element: "text"
+                  label: "title"
