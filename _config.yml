@@ -65,5 +65,4 @@ prose:
               field:
                   element: "text"
                   label: "Showcase bild"
-                  help: "Detta är bilden som används som showcase"
                   type: "text"
