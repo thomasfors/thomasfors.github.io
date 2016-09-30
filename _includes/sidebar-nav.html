@@ -6,11 +6,9 @@
         <!-- exclude current post -->
       {% else %}
       <li>
-        {% if post.image.feature %}
           <a href="{{ post.url }}" class="sidebar-recentPosts-image-wrapper">
-            <img src="{{ post.feature  }}" style="" alt="">
+            <img src="{{ "/assets/images/posts/" }}{{page.feature }}" style="" alt="">
           </a>
-        {% endif %}
         <a href="{{ post.url }}">{{ post.title }}</a>
         <div class="postMeta">{{ post.date | date_to_string }}</div>
       </li>
