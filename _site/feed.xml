@@ -30,5 +30,16 @@
 				<guid isPermaLink="true">site url/Music</guid>
 			</item>
 		
+			<item>
+				<title>Vansinne Fever</title>
+				
+				
+					<description>Thomas Fors is an Swedish artist, As a prominent...</description>
+				
+				<pubDate>Sun, 11 Sep 2016 03:00:00 +0200</pubDate>
+				<link>site url/Vansinne-Fever</link>
+				<guid isPermaLink="true">site url/Vansinne-Fever</guid>
+			</item>
+		
 	</channel>
 </rss>
