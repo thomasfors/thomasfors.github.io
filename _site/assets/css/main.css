@@ -12,7 +12,8 @@ body {
 .loading {
     width: 100%;
     height: 100%;
-    background: white;
+    background: white url('/assets/images/bg.jpg');
+    background-size: 100%;
     opacity: 1;
     position: absolute;
     top: 0;
