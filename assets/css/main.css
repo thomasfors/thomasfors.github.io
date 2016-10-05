@@ -17,7 +17,7 @@ body {
 
     background: white;
     z-index: 9999;
-    opacity: 0.1;
+    opacity: 0;
     height: 0;
 }
 .post_image
