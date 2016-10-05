@@ -4,7 +4,7 @@ $(window).on("load", function() {
        opacity: 0
    }, 500, function() {
        // Animation complete.
-     });
+     }).remove();
 
 
 
