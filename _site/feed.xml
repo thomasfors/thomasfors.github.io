@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
 		<title>Thomas Fors</title>
-		<description>description</description>
-		<link>site url</link>
-		<atom:link href="site url/feed.xml" rel="self" type="application/rss+xml" />
+		<description>This is the personal blog of Thomas Fors. An photo artist living and operating in Gothenburg, Sweden</description>
+		<link>http://thomasfors.se</link>
+		<atom:link href="http://thomasfors.se/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>royal</title>
@@ -19,8 +19,8 @@
 </description>
 				
 				<pubDate>Tue, 04 Oct 2016 00:00:00 +0200</pubDate>
-				<link>site url/royal</link>
-				<guid isPermaLink="true">site url/royal</guid>
+				<link>http://thomasfors.se/royal</link>
+				<guid isPermaLink="true">http://thomasfors.se/royal</guid>
 			</item>
 		
 			<item>
@@ -41,8 +41,8 @@
 </description>
 				
 				<pubDate>Tue, 04 Oct 2016 00:00:00 +0200</pubDate>
-				<link>site url/politik</link>
-				<guid isPermaLink="true">site url/politik</guid>
+				<link>http://thomasfors.se/politik</link>
+				<guid isPermaLink="true">http://thomasfors.se/politik</guid>
 			</item>
 		
 			<item>
@@ -69,8 +69,8 @@
 </description>
 				
 				<pubDate>Tue, 04 Oct 2016 00:00:00 +0200</pubDate>
-				<link>site url/jessica</link>
-				<guid isPermaLink="true">site url/jessica</guid>
+				<link>http://thomasfors.se/jessica</link>
+				<guid isPermaLink="true">http://thomasfors.se/jessica</guid>
 			</item>
 		
 			<item>
@@ -88,8 +88,8 @@
 </description>
 				
 				<pubDate>Tue, 04 Oct 2016 00:00:00 +0200</pubDate>
-				<link>site url/jenny-poem</link>
-				<guid isPermaLink="true">site url/jenny-poem</guid>
+				<link>http://thomasfors.se/jenny-poem</link>
+				<guid isPermaLink="true">http://thomasfors.se/jenny-poem</guid>
 			</item>
 		
 			<item>
@@ -117,8 +117,8 @@
 </description>
 				
 				<pubDate>Tue, 04 Oct 2016 00:00:00 +0200</pubDate>
-				<link>site url/dada</link>
-				<guid isPermaLink="true">site url/dada</guid>
+				<link>http://thomasfors.se/dada</link>
+				<guid isPermaLink="true">http://thomasfors.se/dada</guid>
 			</item>
 		
 			<item>
@@ -149,8 +149,8 @@
 </description>
 				
 				<pubDate>Tue, 04 Oct 2016 00:00:00 +0200</pubDate>
-				<link>site url/art</link>
-				<guid isPermaLink="true">site url/art</guid>
+				<link>http://thomasfors.se/art</link>
+				<guid isPermaLink="true">http://thomasfors.se/art</guid>
 			</item>
 		
 			<item>
@@ -166,8 +166,8 @@
 </description>
 				
 				<pubDate>Tue, 04 Oct 2016 00:00:00 +0200</pubDate>
-				<link>site url/ngest</link>
-				<guid isPermaLink="true">site url/ngest</guid>
+				<link>http://thomasfors.se/ngest</link>
+				<guid isPermaLink="true">http://thomasfors.se/ngest</guid>
 			</item>
 		
 	</channel>
