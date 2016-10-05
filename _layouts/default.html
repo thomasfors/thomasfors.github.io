@@ -4,7 +4,15 @@
   {% include head.html %}
 
   <body>
-      <section id=loading>
+      <div class="loading">
+  <div>
+    <div class="c1"></div>
+    <div class="c2"></div>
+    <div class="c3"></div>
+    <div class="c4"></div>
+  </div>
+  <span>loading</span>
+</div>
     {% if page.url != '/index.html' %}
       <input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
       {% include sidebar-nav.html %}
@@ -23,6 +31,5 @@
     {% endif %}
 
     {% include footer-scripts.html %}
-    </section>
   </body>
 </html>
