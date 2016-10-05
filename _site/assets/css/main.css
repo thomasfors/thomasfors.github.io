@@ -3,12 +3,23 @@ html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
+  overflow: scroll;
 }
 
 body {
   margin: 0;
 }
+#loading{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
 
+    background: white;
+    z-index: 9999;
+    opacity: 0.1;
+    height: 0;
+}
 .post_image
 {
     width: 100%;

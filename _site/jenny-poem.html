@@ -87,6 +87,7 @@
   <!-- modernizer -->
   <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
 
+
   <!--[if lt IE 9]>
     <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
   <![endif]-->
@@ -99,6 +100,7 @@
 
 
   <body>
+      <section id=loading>
     
       <input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
       <nav role="navigation" class="sidebar sidebar--right">
@@ -344,6 +346,8 @@
     $('.modal-toggle-group').toggleClass('active', $(document).scrollTop() >= 300);
   });
 </script>
+<script type="text/javascript" src="assets/javascripts/images_loaded.js"></script>
 
+    </section>
   </body>
 </html>
