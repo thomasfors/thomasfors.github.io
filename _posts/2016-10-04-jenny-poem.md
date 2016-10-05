@@ -2,6 +2,7 @@
 layout: post
 published: true
 title: jenny poem
+feature: SWIM.jpg
 ---
 ![0_14ca0f_8add42d0_orig.jpg]({{site.baseurl}}/assets/images/posts/0_14ca0f_8add42d0_orig.jpg)
 ![color-wave.jpg]({{site.baseurl}}/assets/images/posts/color-wave.jpg)
@@ -11,4 +12,3 @@ title: jenny poem
 ![universe.jpg]({{site.baseurl}}/assets/images/posts/universe.jpg)
 ![ägg.jpg]({{site.baseurl}}/assets/images/posts/ägg.jpg)
 ![SWIM.jpg]({{site.baseurl}}/assets/images/posts/SWIM.jpg)
-
