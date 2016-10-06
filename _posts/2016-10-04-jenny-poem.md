@@ -4,6 +4,7 @@ published: true
 title: jenny poem
 feature: SWIM.jpg
 ---
+![dikten2.jpg]({{site.baseurl}}/assets/images/posts/dikten2.jpg)
 ![0_14ca0f_8add42d0_orig.jpg]({{site.baseurl}}/assets/images/posts/0_14ca0f_8add42d0_orig.jpg)
 ![color-wave.jpg]({{site.baseurl}}/assets/images/posts/color-wave.jpg)
 ![regn.jpg]({{site.baseurl}}/assets/images/posts/regn.jpg)
