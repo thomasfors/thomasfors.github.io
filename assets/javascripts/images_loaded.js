@@ -4,7 +4,9 @@ $(window).on("load", function() {
    }, 500, function() {
       $('html, body').css('overflowY', 'auto');
       document.body.addEventListener('touchmove', function(e){ return true; });
+      document.ontouchmove = function(e){ return true; }
      }).remove();
 });
 
-document.body.addEventListener('touchmove', function(e){ e.preventDefault(); });
+
+document.ontouchmove = function(e){ e.preventDefault(); }
