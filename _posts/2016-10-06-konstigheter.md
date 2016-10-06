@@ -1,0 +1,8 @@
+---
+layout: post
+published: true
+title: KONSTigheter
+feature: groda.jpg
+---
+![Ray_of_Light_Wide.jpg]({{site.baseurl}}/assets/images/posts/Ray_of_Light_Wide.jpg)
+![groda.jpg]({{site.baseurl}}/assets/images/posts/groda.jpg)
