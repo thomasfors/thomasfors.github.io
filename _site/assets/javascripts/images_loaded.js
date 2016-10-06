@@ -3,7 +3,7 @@ $(window).on("load", function() {
        opacity: 0
    }, 500, function() {
       $('html, body').css('overflowY', 'auto');
-      document.body.addEventListener('touchmove', function(e){  });
+      document.body.addEventListener('touchmove', function(e){ return true; });
      }).remove();
 });
 
