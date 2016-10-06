@@ -6,3 +6,5 @@ $(window).on("load", function() {
       $('html, body').css('overflowY', 'auto');
      }).remove();
 });
+
+document.body.addEventListener('touchmove', function(e){ e.preventDefault(); });
