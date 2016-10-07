@@ -4,6 +4,7 @@ published: true
 title: KONSTigheter
 feature: groda.jpg
 ---
+![walking death.jpg]({{site.baseurl}}/assets/images/posts/walking death.jpg)
 ![IMG_5011.JPG]({{site.baseurl}}/assets/images/posts/IMG_5011.JPG)
 ![råttor.jpg]({{site.baseurl}}/assets/images/posts/råttor.jpg)
 
