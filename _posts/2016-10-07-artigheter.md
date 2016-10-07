@@ -2,6 +2,7 @@
 layout: post
 published: true
 title: ARTigheter
+feature: jessicaface.jpg
 ---
 ![jessicaface.jpg]({{site.baseurl}}/assets/images/posts/jessicaface.jpg)
 ![höstfärger.jpg]({{site.baseurl}}/assets/images/posts/höstfärger.jpg)
