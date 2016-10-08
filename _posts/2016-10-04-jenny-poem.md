@@ -4,7 +4,8 @@ published: true
 title: jenny poem
 feature: SWIM.jpg
 ---
-![]({{site.baseurl}}/assets/images/posts/iskall.jpg)![i can do it.jpg]({{site.baseurl}}/assets/images/posts/i can do it.jpg)
+![]({{site.baseurl}}/assets/images/posts/iskall.jpg)![digital_art_texture_109_by_mercurycode-d79tcug.jpg]({{site.baseurl}}/assets/images/posts/digital_art_texture_109_by_mercurycode-d79tcug.jpg)
+![i can do it.jpg]({{site.baseurl}}/assets/images/posts/i can do it.jpg)
 ![j dikt-Recovered.jpg]({{site.baseurl}}/assets/images/posts/j dikt-Recovered.jpg)
 ![dikten2.jpg]({{site.baseurl}}/assets/images/posts/dikten2.jpg)
 ![0_14ca0f_8add42d0_orig.jpg]({{site.baseurl}}/assets/images/posts/0_14ca0f_8add42d0_orig.jpg)
