@@ -4,6 +4,7 @@ published: true
 title: ARTigheter
 feature: jessicaface.jpg
 ---
+![walking death.jpg]({{site.baseurl}}/assets/images/posts/walking%20death.jpg)
 ![jessicaface.jpg]({{site.baseurl}}/assets/images/posts/jessicaface.jpg)
 ![höstfärger.jpg]({{site.baseurl}}/assets/images/posts/höstfärger.jpg)
 ![mc donald.jpg]({{site.baseurl}}/assets/images/posts/mc donald.jpg)
