@@ -11,10 +11,6 @@ feature: jessicaface.jpg
 ![heil.jpg]({{site.baseurl}}/assets/images/posts/heil.jpg)
 ![housewife (1).jpg]({{site.baseurl}}/assets/images/posts/housewife (1).jpg)
 ![IMG_5011.JPG]({{site.baseurl}}/assets/images/posts/IMG_5011.JPG)
-![råttor.jpg]({{site.baseurl}}/assets/images/posts/råttor.jpg)
-![ghost2house.jpg]({{site.baseurl}}/assets/images/posts/ghost2house.jpg)
-![Ray_of4_Light_6Wide.jpg]({{site.baseurl}}/assets/images/posts/Ray_of4_Light_6Wide.jpg)
-![Picture 1473.jpg]({{site.baseurl}}/assets/images/posts/Picture 1473.jpg)
 
 
 ![-1950s-usa-fridges-housewives-housewife-the-advertising-archives.jpg]({{site.baseurl}}/assets/images/posts/-1950s-usa-fridges-housewives-housewife-the-advertising-archives.jpg)
