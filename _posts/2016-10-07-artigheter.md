@@ -10,7 +10,7 @@ feature: jessicaface.jpg
 ![mc donald.jpg]({{site.baseurl}}/assets/images/posts/mc donald.jpg)
 ![heil.jpg]({{site.baseurl}}/assets/images/posts/heil.jpg)
 ![housewife (1).jpg]({{site.baseurl}}/assets/images/posts/housewife (1).jpg)
-![IMG_5011.JPG]({{site.baseurl}}/assets/images/posts/IMG_5011.JPG)
+
 
 
 ![-1950s-usa-fridges-housewives-housewife-the-advertising-archives.jpg]({{site.baseurl}}/assets/images/posts/-1950s-usa-fridges-housewives-housewife-the-advertising-archives.jpg)
