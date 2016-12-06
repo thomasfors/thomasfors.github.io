@@ -16,7 +16,7 @@ feature: jessicaface.jpg
 ![Ray_of4_Light_6Wide.jpg]({{site.baseurl}}/assets/images/posts/Ray_of4_Light_6Wide.jpg)
 ![Picture 1473.jpg]({{site.baseurl}}/assets/images/posts/Picture 1473.jpg)
 
-![groda.jpg]({{site.baseurl}}/assets/images/posts/groda.jpg)
+
 ![-1950s-usa-fridges-housewives-housewife-the-advertising-archives.jpg]({{site.baseurl}}/assets/images/posts/-1950s-usa-fridges-housewives-housewife-the-advertising-archives.jpg)
 ![5632376885_a24d88a8490c.jpg]({{site.baseurl}}/assets/images/posts/5632376885_a24d88a8490c.jpg)
 ![]({{site.baseurl}}/assets/images/posts/agadir%2012%2013%20008%20(13)
