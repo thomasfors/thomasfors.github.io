@@ -25,3 +25,5 @@ feature: jessicaface.jpg
 ![]({{site.baseurl}}/assets/images/posts/Picture%201473.jpg)
 ![påsk 12 147.jpg]({{site.baseurl}}/assets/images/posts/påsk 12 147.jpg)
 ![]({{site.baseurl}}/assets/images/posts/housewife%20(1).jpg)
+![AVA smet.jpg]({{site.baseurl}}/assets/images/posts/AVA smet.jpg)
+
