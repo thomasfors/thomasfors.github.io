@@ -26,4 +26,5 @@ feature: jessicaface.jpg
 ![påsk 12 147.jpg]({{site.baseurl}}/assets/images/posts/påsk 12 147.jpg)
 ![]({{site.baseurl}}/assets/images/posts/housewife%20(1).jpg)
 ![AVA smet.jpg]({{site.baseurl}}/assets/images/posts/AVA smet.jpg)
+![ava kali.jpg]({{site.baseurl}}/assets/images/posts/ava kali.jpg)
 
