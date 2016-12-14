@@ -6,7 +6,7 @@ feature: jessicaface.jpg
 ---
 
 ![jessicaface.jpg]({{site.baseurl}}/assets/images/posts/jessicaface.jpg)
-![3.jpg]({{site.baseurl}}/assets/images/posts/3.jpg)
+
 ![10 (1).jpg]({{site.baseurl}}/assets/images/posts/10 (1).jpg)
 
 ![5632376885_a24d88a8490c.jpg]({{site.baseurl}}/assets/images/posts/5632376885_a24d88a8490c.jpg)
