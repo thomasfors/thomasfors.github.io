@@ -8,4 +8,5 @@ title: END OF ILLUSION
 ![tiggtrumå.jpg]({{site.baseurl}}/assets/images/posts/tiggtrumå.jpg)
 ![30.jpg]({{site.baseurl}}/assets/images/posts/30.jpg)
 ![64.jpg]({{site.baseurl}}/assets/images/posts/64.jpg)
+![coll.jpg]({{site.baseurl}}/assets/images/posts/coll.jpg)
 
