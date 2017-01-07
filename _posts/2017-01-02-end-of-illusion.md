@@ -19,4 +19,3 @@ feature: pnoj.jpg
 ![pnoj.jpg]({{site.baseurl}}/assets/images/posts/pnoj.jpg)
 
 
-![som man bä'ddar.jpg]({{site.baseurl}}/assets/images/posts/som man bä'ddar.jpg)
