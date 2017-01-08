@@ -4,6 +4,8 @@ published: true
 title: END OF ILLUSION
 feature: pnoj.jpg
 ---
+![dang.jpg]({{site.baseurl}}/assets/images/posts/dang.jpg)
+
 ![spegel.jpg]({{site.baseurl}}/assets/images/posts/spegel.jpg)
 
 ![näs.jpg]({{site.baseurl}}/assets/images/posts/näs.jpg)
