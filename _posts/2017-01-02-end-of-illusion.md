@@ -15,4 +15,6 @@ feature: pnoj.jpg
 ![whith black.jpg]({{site.baseurl}}/assets/images/posts/whith black.jpg)
 ![through.jpg]({{site.baseurl}}/assets/images/posts/through.jpg)
 ![pnoj.jpg]({{site.baseurl}}/assets/images/posts/pnoj.jpg)
+![dremskog.jpg]({{site.baseurl}}/assets/images/posts/dremskog.jpg)
+
 
