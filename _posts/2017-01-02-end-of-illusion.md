@@ -4,6 +4,8 @@ published: true
 title: END OF ILLUSION
 feature: pnoj.jpg
 ---
+![kosmos.jpg]({{site.baseurl}}/assets/images/posts/kosmos.jpg)
+
 ![cool.jpg]({{site.baseurl}}/assets/images/posts/cool.jpg)
 
 ![gräl.jpg]({{site.baseurl}}/assets/images/posts/gräl.jpg)
