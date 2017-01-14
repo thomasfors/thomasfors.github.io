@@ -16,6 +16,8 @@ feature: pnoj.jpg
 ![näs.jpg]({{site.baseurl}}/assets/images/posts/näs.jpg)
 ![dog.jpg]({{site.baseurl}}/assets/images/posts/dog.jpg)
 ![30.jpg]({{site.baseurl}}/assets/images/posts/30.jpg)
+![beuty.jpg]({{site.baseurl}}/assets/images/posts/beuty.jpg)
+
 ![girls.jpg]({{site.baseurl}}/assets/images/posts/girls.jpg)
 ![jexus.jpg]({{site.baseurl}}/assets/images/posts/jexus.jpg)
 ![whith black.jpg]({{site.baseurl}}/assets/images/posts/whith black.jpg)
