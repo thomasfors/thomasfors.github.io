@@ -5,15 +5,10 @@ title: END OF ILLUSION
 feature: pnoj.jpg
 ---
 ![pupp.jpg]({{site.baseurl}}/assets/images/posts/pupp.jpg)
-
 ![mirror.jpg]({{site.baseurl}}/assets/images/posts/mirror.jpg)
-
 ![kosmos.jpg]({{site.baseurl}}/assets/images/posts/kosmos.jpg)
-
 ![cool.jpg]({{site.baseurl}}/assets/images/posts/cool.jpg)
-
 ![gräl.jpg]({{site.baseurl}}/assets/images/posts/gräl.jpg)
-
 ![dang.jpg]({{site.baseurl}}/assets/images/posts/dang.jpg)
 ![spegel.jpg]({{site.baseurl}}/assets/images/posts/spegel.jpg)
 ![näs.jpg]({{site.baseurl}}/assets/images/posts/näs.jpg)
