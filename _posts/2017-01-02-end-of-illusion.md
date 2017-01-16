@@ -16,7 +16,7 @@ feature: pnoj.jpg
 ![spegel.jpg]({{site.baseurl}}/assets/images/posts/spegel.jpg)
 !![dog.jpg]({{site.baseurl}}/assets/images/posts/dog.jpg)
 ![blood.jpg]({{site.baseurl}}/assets/images/posts/blood.jpg)
-![beuty.jpg]({{site.baseurl}}/assets/images/posts/beuty.jpg)
+
 ![ddsfd.jpg]({{site.baseurl}}/assets/images/posts/ddsfd.jpg)
 
 
