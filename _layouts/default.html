@@ -13,7 +13,7 @@
   </div>
   <span>Thomas Fors</span>
 </div>
-    {% if page.url != '/index.html' %}
+    {% if page.url != '/' %}
       <input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
       {% include sidebar-nav.html %}
       {% include menu.html %}
@@ -21,14 +21,13 @@
 
     {{ content }}
 
-    {% if page.url != '/index.html' %}
+    {% if page.url != '/' %}
       {% include sidebar-toggle.html %}
     {% endif %}
 
-    {% if page.url == '/index.html' %}
       {% include subscribe.html %}
       {% include footer.html %}
-    {% endif %}
+
 
     {% include footer-scripts.html %}
   </body>
