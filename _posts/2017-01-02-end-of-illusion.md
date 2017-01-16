@@ -14,7 +14,7 @@ feature: pnoj.jpg
 ![gräl.jpg]({{site.baseurl}}/assets/images/posts/gräl.jpg)
 ![dang.jpg]({{site.baseurl}}/assets/images/posts/dang.jpg)
 ![spegel.jpg]({{site.baseurl}}/assets/images/posts/spegel.jpg)
-![näs.jpg]({{site.baseurl}}/assets/images/posts/näs.jpg)
+!
 ![dog.jpg]({{site.baseurl}}/assets/images/posts/dog.jpg)
 ![30.jpg]({{site.baseurl}}/assets/images/posts/30.jpg)
 ![beuty.jpg]({{site.baseurl}}/assets/images/posts/beuty.jpg)
@@ -25,4 +25,3 @@ feature: pnoj.jpg
 ![pnoj.jpg]({{site.baseurl}}/assets/images/posts/pnoj.jpg)
 ![dremskog.jpg]({{site.baseurl}}/assets/images/posts/dremskog.jpg)
 ![homo.jpg]({{site.baseurl}}/assets/images/posts/homo.jpg)
-
