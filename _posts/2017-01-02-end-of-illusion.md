@@ -19,7 +19,7 @@ feature: pnoj.jpg
 ![beuty.jpg]({{site.baseurl}}/assets/images/posts/beuty.jpg)
 ![ddsfd.jpg]({{site.baseurl}}/assets/images/posts/ddsfd.jpg)
 
-![girls.jpg]({{site.baseurl}}/assets/images/posts/girls.jpg)
+
 ![jexus.jpg]({{site.baseurl}}/assets/images/posts/jexus.jpg)
 ![whith black.jpg]({{site.baseurl}}/assets/images/posts/whith black.jpg)
 ![through.jpg]({{site.baseurl}}/assets/images/posts/through.jpg)
