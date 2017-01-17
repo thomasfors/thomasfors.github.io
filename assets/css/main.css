@@ -10,8 +10,9 @@ html {
     font-family: sans-serif;
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;
-    font-family: 'Fredericka the Great', cursive;
-    background: rgb(0,3 0,50);
+    font-family: 'Poiret One', cursive;
+    background: rgb(0,0,0);
+    color: white;
 }
 
 body {
@@ -27,12 +28,15 @@ body {
     top: 0;
     left: 0;
     z-index: 9999;
+    background: black;
+    color: white;
 }
 
 .fa{
     float: right;
     margin: 20px;
-    font-size: 18px;
+    font-size: 12px !important;
+    color:white;
 }
 
 .loading>div {
@@ -50,7 +54,7 @@ body {
     position: absolute;
     width: 16px;
     height: 16px;
-    background: #222;
+    background: #fff;
     top: 10px;
     left: 10px;
     transform-origin: 20px 20px;
@@ -165,7 +169,6 @@ body {
     margin-left: -50px;
     top: 50%;
     margin-top: 30px;
-    color: #222;
     font-size: 12px;
     text-align: center;
     font-family: 'Poiret One', cursive;
@@ -373,14 +376,12 @@ html {
     /* Change default typefaces here */
     font-size: 137.5%;
     font-weight: 400;
-    color: rgba(0, 0, 0, 0.8);
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
     font-feature-settings: "kern" 1;
     -webkit-font-feature-settings: "kern";
     -moz-font-feature-settings: "kern";
     -moz-font-feature-settings: "kern=1";
-    cursor: pointer;
 }
 
 #previous{
@@ -482,15 +483,10 @@ h6{
 }
 
 h1,  {
-    font-size: 1rem;
+    font-size: 12px;
     line-height: 4.5rem;
-    margin-top: 3rem;
+    margin-top: 1rem;
     font-family: 'Fredericka the Great', cursive;
-}
-@media(min-width:992px){
-    h1 {
-        font-size: 1rem;
-    }
 }
 
 h2 {
@@ -715,12 +711,12 @@ a.textLogo--sidebar {
     //-webkit-text-stroke-color: white;
     -webkit-font-smoothing: antialiased;
     letter-spacing: 40px;
-    font-size: 22px;
+    font-size: 12px;
 }
 
 @media (max-width: 992px) {
     .fa{
-        font-size: 15px !important;
+        font-size: 12px !important;
         margin: 10px 12px;
         opacity: .9;
 
@@ -1786,7 +1782,7 @@ a.textLogo--sidebar {
     width: 100%;
     top: 0;
     position: relative;
-    color: #222;
+
 }
 
 .section--first, .section-backgroundImage {
@@ -2023,8 +2019,8 @@ a.textLogo--sidebar {
 
 .section--postsWrapper {
     width: 100%;
-    background: #rgb(255,200,0);
-    padding-top: 0;
+    padding: 0;
+    margin: 0;
     position: relative;
     clear: both;
     z-index: 400;
@@ -2038,8 +2034,7 @@ a.textLogo--sidebar {
 .blockGroup-list {
     list-style: none;
     padding: 0;
-    margin-left: -10px;
-    margin-right: -10px;
+    margin:0;
     display: -webkit-box;
     display: -webkit-flex;
     display: -ms-flexbox;
@@ -2069,63 +2064,32 @@ a.textLogo--sidebar {
 }
 
 
-
-    .blockGroup-list .block {
-    margin: 25px;
-    padding-bottom: 89px;
-    border: 1px solid #ccc;
-    background: rgb(255, 205, 0);
-    }
-
-
-.blockGroup-list li:nth-child(1).block {
-    width: 100%;
-}
-.blockGroup-list li.block .postArticle-image {
-    padding-top: 50%;
-}
-.blockGroup-list li:nth-child(1).block .postArticle-image {
-    padding-top: 50%;
-}
-
 .blockGroup-list li.block .postArticle-title {
-    margin-top: -55px;
+    margin-top: -23px;
     z-index: 9999;
     position: relative;
-    background: rgba(0, 0, 0, 0.3);
+    background: rgba(0, 0, 0, 0.8);
     width: 100%;
     color: white;
-    line-height: 55px;
+    line-height: 23px;
     text-transform: uppercase;
 }
 
 
-.blockGroup-list li:nth-child(1).block .postArticle-title {
-    font-size: 1rem;
+.blockGroup-list li.block .postArticle-title {
+    font-size: 16px;
+text-align: center;
 }
-
-.blockGroup-list li:nth-child(2).block, .blockGroup-list li:nth-child(3).block {
-    width: 100%;
+.blockGroup-list .block {
+    width: 25%;
+    opacity: 0.7;
 }
-
-.blockGroup-list li:nth-child(2).block .postArticle-image, .blockGroup-list li:nth-child(3).block .postArticle-image {
-    padding-top: 50%;
+.blockGroup-list .block:hover {
+    width: 25%;
+    opacity: 1;
 }
-
-.blockGroup-list li:nth-child(2).block .postArticle-title, .blockGroup-list li:nth-child(3).block .postArticle-title {
-    font-size: 1rem;
-}
-
-@media (max-width: 767px) {
-    .blockGroup-list li:nth-child(2).block, .blockGroup-list li:nth-child(3).block {
-        width: 100%;
-    }
-}
-@media (min-width: 992px) {
-    .blockGroup-list .block {
-        width: 45%;
-    }
-
+.blockGroup-list li.block .postArticle-image {
+    padding-top: 30%;
 }
 
 .blockGroup-list li .postArticle-title {
