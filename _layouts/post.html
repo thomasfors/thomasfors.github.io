@@ -1,50 +1,27 @@
----
-layout: default
----
+<!DOCTYPE html>
+
+<html lang="en-us" class="no-js">
+{% include head.html %}
+
+
+<body>
+{% include loading.html %}
+
+{% if page.url != '/' %}
+    <input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+    {% include sidebar-nav.html %}
+    {% include menu.html %}
+{% endif %}
+
 <article class="postWrapper">
-  <section class="section--first is-darkBackgrounded u-table">
 
-    <div class="section-backgroundImage">
-
-        {% if page.feature %}
-          <img class="post-featuredImage" src="{{ "/assets/images/posts/" }}{{page.feature }}">
-        {% endif %}
-
-
-    </div>
-
-    <div class="section-gradient section-gradient--darker"></div>
-
-    <div class="section-title is-darkBackgrounded u-tableCell u-verticalAlignMiddle">
-      <div class="container">
-        <h2>{{ page.title }}</h2>
-        <div class="postMeta-wrapper">
-          <ul class="postMeta">
-            <li class="postMeta-author">
-              by {{ site.author.name }}
-            </li>
-          </ul>
+        <div id="slideshow">
+            {{ content }}
         </div>
-      </div>
-    </div>
 
+        <div id="previous"></div>
+        <div id="next"></div>
 
-
-  </section>
-  <section class="section--last">
-    <div class="container container--content">
-      <div class="content-body">
-
-        {{ content }}
-
-      </div>
-    </div>
-    <hr class="u-clearHr"/>
-    <hr class="u-clearHr"/>
-    <div class="container container--content">
-
-    </div>
-  </section>
 
 </article>
 
@@ -54,3 +31,17 @@ layout: default
         display:none;
     }
 </style>
+
+{% if page.url != '/' %}
+    {% include sidebar-toggle.html %}
+    {% include footer_alt.html %}
+{%else%}
+    {% include footer.html %}
+{% endif %}
+
+
+
+{% include footer-scripts.html %}
+<script type="text/javascript" src="{{ site.baseurl }}assets/javascripts/slider.js"></script>
+</body>
+</html>
