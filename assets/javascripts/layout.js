@@ -1,8 +1,10 @@
 $(window).on("load", function() {
 
-var height = "innerHeight" in window  ? window.innerHeight  : document.documentElement.offsetHeight;
+    var height = "innerHeight" in window  ? window.innerHeight  : document.documentElement.offsetHeight;
 
-    $('.section--frontpage').height((height - $('.blockGroup').height()))
+    height = height - $('.blockGroup').height()
+
+    $('.section--frontpage').height(height)
     $('.textLogo--frontpage').css('line-height',height+"px");
 
     $('#slideshow').width(window.innerWidth)
