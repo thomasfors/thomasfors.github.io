@@ -380,6 +380,7 @@ html {
     -webkit-font-feature-settings: "kern";
     -moz-font-feature-settings: "kern";
     -moz-font-feature-settings: "kern=1";
+    cursor: pointer;
 }
 
 #previous{
