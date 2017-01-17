@@ -4,6 +4,7 @@
 html, body {
     overflow-x: hidden;
     overflow-y: hidden;
+    height: 100%;
 }
 
 html {
@@ -18,7 +19,9 @@ html {
 body {
     margin: 0;
 }
-
+.postWrapper{
+    height :100%;
+}
 .loading {
     width: 100%;
     height: 100%;
@@ -247,7 +250,8 @@ sub {
 
 img {
     border: 0;
-    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 svg:not(:root) {
@@ -1996,11 +2000,13 @@ a.textLogo--sidebar {
 
 .postWrapper {
     position: relative;
-    width: 100%;
+    width: 60%;
     z-index: 400;
     -webkit-transition: padding 100ms cubic-bezier(0.565, 1, 0.765, 0.88);
     -webkit-transition: padding 100ms cubic-bezier(0.565, 1.65, 0.765, 0.88);
     transition: padding 100ms cubic-bezier(0.565, 1.65, 0.765, 0.88);
+    margin-left: auto;
+    margin-right: auto;
 }
 
 @media (max-width: 767px) {
@@ -2074,7 +2080,7 @@ a.textLogo--sidebar {
 
 .blockGroup-list li.block .postArticle-title {
     font-size: 16px;
-text-align: center;
+    text-align: center;
 }
 
 .blockGroup-list .block {
@@ -2084,13 +2090,19 @@ text-align: center;
 }
 .blockGroup-list .block:hover {
     -webkit-transition:  1s; /* Safari */
-   transition: 1s;
+    transition: 1s;
     opacity: 1;
 }
 @media(max-width:414px){
+    .blockGroup-list li.block .postArticle-title{
+        font-size: 10px;
+    }
     .blockGroup-list .block {
         width: 50%;
-        font-size: 10px;
+    }
+    .blockGroup-list li.block .postArticle-title{
+        margin-top: -22px;
+        line-height: 22px;
     }
     .textLogo--frontpage{
         letter-spacing: 17px;
@@ -2099,7 +2111,6 @@ text-align: center;
 }
 
 .blockGroup-list .block:hover {
-    width: 25%;
     opacity: 1;
 }
 .blockGroup-list li.block .postArticle-image {
@@ -2116,6 +2127,8 @@ text-align: center;
     margin-left: auto;
     margin-right: auto;
     background: black;
+    width: 100%;
+    height: 100%;
 }
 
 #slideshow img {
