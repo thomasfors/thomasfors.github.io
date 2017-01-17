@@ -13,8 +13,6 @@ feature: pnoj.jpg
 ![gräl.jpg]({{site.baseurl}}/assets/images/posts/gräl.jpg)
 ![dang.jpg]({{site.baseurl}}/assets/images/posts/dang.jpg)
 ![vera.jpg]({{site.baseurl}}/assets/images/posts/vera.jpg)
-
-
 ![blood.jpg]({{site.baseurl}}/assets/images/posts/blood.jpg)
 ![ddsfd.jpg]({{site.baseurl}}/assets/images/posts/ddsfd.jpg)
 ![jexus.jpg]({{site.baseurl}}/assets/images/posts/jexus.jpg)
