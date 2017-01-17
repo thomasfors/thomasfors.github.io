@@ -7,7 +7,7 @@ $(document).ready(function() {
 
     $('#previous').click(function() {
         $('#slideshow p img:first').fadeOut(0);
-        $('#slideshow p img:last').fadeIn(1000).prependTo('#slideshow p');
+        $('#slideshow p img:last').fadeIn(300).prependTo('#slideshow p');
 
         console.log("img height: " + $('#slideshow p img').height())
         console.log("img width: " + $('#slideshow p img').width())
@@ -43,7 +43,7 @@ $(document).ready(function() {
 
 
     $('#next').click(function() {
-        $('#slideshow img:first').fadeOut(0).next().fadeIn(1000).end().appendTo('#slideshow p');
+        $('#slideshow img:first').fadeOut(0).next().fadeIn(300).end().appendTo('#slideshow p');
 
         console.log("img height: " + $('#slideshow p img').height())
         console.log("img width: " + $('#slideshow p img').width())
