@@ -1,34 +1,29 @@
 <!DOCTYPE html>
+
 <html lang="en-us" class="no-js">
-
-  {% include head.html %}
-
-  <body>
-      <div class="loading">
-  <div>
-    <div class="c1"></div>
-    <div class="c2"></div>
-    <div class="c3"></div>
-    <div class="c4"></div>
-  </div>
-  <span>THOMAS FORS</span>
-</div>
-    {% if page.url != '/' %}
-      <input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
-      {% include sidebar-nav.html %}
-      {% include menu.html %}
-    {% endif %}
-
-    {{ content }}
-
-    {% if page.url != '/' %}
-      {% include sidebar-toggle.html %}
-    {% endif %}
+{% include head.html %}
 
 
-      {% include footer.html %}
+<body>
+{% include loading.html %}
+
+{% if page.url != '/' %}
+    <input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+    {% include sidebar-nav.html %}
+    {% include menu.html %}
+{% endif %}
+
+{{ content }}
+
+{% if page.url != '/' %}
+    {% include sidebar-toggle.html %}
+    {% include footer_alt.html %}
+{%else%}
+    {% include footer.html %}
+{% endif %}
 
 
-    {% include footer-scripts.html %}
-  </body>
+
+{% include footer-scripts.html %}
+</body>
 </html>
