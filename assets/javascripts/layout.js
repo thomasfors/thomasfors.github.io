@@ -52,6 +52,8 @@ $(window).on("load", function() {
         $('#slideshow').css("padding-top",padding)
         $('#slideshow').css("padding-left","0")
     }
-
+    if($("#homepage-flag").length > 0) {
+        $('body').hide()
+    }
 
 })
