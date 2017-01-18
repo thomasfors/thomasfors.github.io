@@ -24,7 +24,6 @@ $(window).on("load", function() {
 
     if ($('#slideshow p img').height() > $('#slideshow p img').width() ) {
 
-
         console.log("portrait")
 
         $('#slideshow p img').css("height", "50%")
@@ -39,21 +38,28 @@ $(window).on("load", function() {
 
         $('#slideshow').css("padding-left",padding)
         $('#slideshow').css("padding-top",topPadding)
+    } else if ($('#slideshow p img').height() === $('#slideshow p img').width() ) {
+        console.log("rectangle")
+
+        $('#slideshow p img').css("height", "50%")
+        $('#slideshow p img').css("width", "auto")
+        var paddingTop = (height - $('#slideshow p img').height()) / 2
+        var PaddingLeft = (width - $('#slideshow p img').width()) / 2
+        $('#slideshow').css("padding-top",paddingTop)
+
+        $('#slideshow').css("padding-left", PaddingLeft)
 
     } else {
-
         console.log("landscape")
 
         $('#slideshow p img').css("height", "auto")
         $('#slideshow p img').css("width", "100%")
-
-
         var padding = (height - $('#slideshow p img').height()) / 2
         $('#slideshow').css("padding-top",padding)
         $('#slideshow').css("padding-left","0")
     }
     if($("#homepage-flag").length > 0) {
-        $('body').hide()
+        $('body').css("opacity","0")
     }
 
 })
