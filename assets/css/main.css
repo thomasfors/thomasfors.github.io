@@ -693,7 +693,7 @@ html, body {
     letter-spacing: 14px;
 }
 .dud {
-  color: rgba(0,200,255,1);
+  color: rgba(255, 200, 0, 1);
   opacity: 0.5;
 }
 a.textLogo--sidebar {
@@ -1798,6 +1798,7 @@ a.textLogo--sidebar {
 
 .section--frontpage, .section--frontpage~.post-featuredImage {
     height: 15rem;
+    width: 100%;
 }
 
 @media (max-width: 767px) {
@@ -1906,6 +1907,7 @@ a.textLogo--sidebar {
 .section-title {
     z-index: 100;
     text-align: center;
+    width:100%;
 }
 
 .section-title h2, .section-title h4 {

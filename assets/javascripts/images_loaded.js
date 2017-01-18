@@ -10,7 +10,7 @@ $(window).on("load", function() {
            newQuote("Thomas Fors")
          });
 
-       newQuote("Thomas Fors")
+       setInterval(function(){ newQuote("Thomas Fors") }, 6000);
       document.body.addEventListener('touchmove', function(e){ return true; });
       document.ontouchmove = function(e){ return true; }
      }).remove();
