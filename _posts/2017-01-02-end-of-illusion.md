@@ -14,7 +14,6 @@ feature: pnoj.jpg
 ![gräl.jpg]({{site.baseurl}}/assets/images/posts/gräl.jpg)
 ![dang.jpg]({{site.baseurl}}/assets/images/posts/dang.jpg)
 ![vera.jpg]({{site.baseurl}}/assets/images/posts/vera.jpg)
-
 ![tapp.jpg]({{site.baseurl}}/assets/images/posts/tapp.jpg)
 ![ddsfd.jpg]({{site.baseurl}}/assets/images/posts/ddsfd.jpg)
 ![jexus.jpg]({{site.baseurl}}/assets/images/posts/jexus.jpg)
