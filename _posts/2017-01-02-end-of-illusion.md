@@ -5,6 +5,8 @@ title: END OF ILLUSION
 feature: pnoj.jpg
 ---
 ![passion.jpg]({{site.baseurl}}/assets/images/posts/passion.jpg)
+![ISSIGT.jpg]({{site.baseurl}}/assets/images/posts/ISSIGT.jpg)
+
 ![ill.jpg]({{site.baseurl}}/assets/images/posts/ill.jpg)
 ![pupp.jpg]({{site.baseurl}}/assets/images/posts/pupp.jpg)
 ![dollll.jpg]({{site.baseurl}}/assets/images/posts/dollll.jpg)
