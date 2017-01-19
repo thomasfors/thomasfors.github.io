@@ -13,7 +13,7 @@ locale:              sv_SE # eg. en_us
 name:				 Thomas Fors
 title:               Thomas Fors
 tagline:             'tagline'
-description:         'I am Thomas Fors, a photo artist living and operating in Gothenburg, Sweden'
+description:         'pic art.'
 url:                 'http://thomasfors.se'
 rss:                 rss feed url
 baseurl_posts_img:   '/assets/images/posts/'
