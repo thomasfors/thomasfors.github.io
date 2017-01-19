@@ -10,14 +10,12 @@
 {% if page.url != '/' %}
     <input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
     {% include sidebar-nav.html %}
-    {% include menu.html %}
 {% endif %}
 
 {{ content }}
 
 {% if page.url != '/' %}
     {% include sidebar-toggle.html %}
-    {% include footer_alt.html %}
 {%else%}
 
 {% endif %}

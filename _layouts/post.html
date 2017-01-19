@@ -10,7 +10,7 @@
 {% if page.url != '/' %}
     <input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
     {% include sidebar-nav.html %}
-    {% include menu.html %}
+
 {% endif %}
 
 <article class="postWrapper">
@@ -23,8 +23,8 @@
 
 </article>
 
-<div id="previous"></div>
-<div id="next"></div>
+<div id="previous"><i class="fa fa-chevron-left" ></i></div>
+<div id="next"><i class="fa fa-chevron-right" ></i></div>
 
 
 {% include modal.html %}
@@ -36,9 +36,6 @@
 
 {% if page.url != '/' %}
     {% include sidebar-toggle.html %}
-    {% include footer_alt.html %}
-{%else%}
-    {% include footer.html %}
 {% endif %}
 
 

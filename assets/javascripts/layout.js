@@ -3,8 +3,7 @@ $(window).on("load", function() {
     var width = $(".postWrapper").width();
     var height = "innerHeight" in window  ? window.innerHeight  : document.documentElement.offsetHeight;
 
-
-
+    $(".fa").attr('style', 'line-height: ' + window.innerHeight + "px !important");
 
     height = height - $('.blockGroup').height()
 
