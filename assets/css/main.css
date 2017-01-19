@@ -425,6 +425,17 @@ html {
     width: 50%;
     height: 100%;
 }
+#email{
+    width: 100%;
+
+    color:white;
+    letter-spacing: 2px;
+    text-align: center;
+    font-size: 12px;
+}
+#email a{
+color: white;
+}
 /* Copy & Lists */
 
 p {
