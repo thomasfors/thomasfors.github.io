@@ -6,7 +6,6 @@ feature: pnoj.jpg
 ---
 ![passion.jpg]({{site.baseurl}}/assets/images/posts/passion.jpg)
 ![ISSIGT.jpg]({{site.baseurl}}/assets/images/posts/ISSIGT.jpg)
-
 ![ill.jpg]({{site.baseurl}}/assets/images/posts/ill.jpg)
 ![pupp.jpg]({{site.baseurl}}/assets/images/posts/pupp.jpg)
 ![dollll.jpg]({{site.baseurl}}/assets/images/posts/dollll.jpg)
@@ -15,7 +14,7 @@ feature: pnoj.jpg
 ![gräl.jpg]({{site.baseurl}}/assets/images/posts/gräl.jpg)
 ![dang.jpg]({{site.baseurl}}/assets/images/posts/dang.jpg)
 ![vera.jpg]({{site.baseurl}}/assets/images/posts/vera.jpg)
-![ISSIGT.jpg]({{site.baseurl}}/assets/images/posts/ISSIGT.jpg)
+
 ![tapp.jpg]({{site.baseurl}}/assets/images/posts/tapp.jpg)
 ![ddsfd.jpg]({{site.baseurl}}/assets/images/posts/ddsfd.jpg)
 ![jexus.jpg]({{site.baseurl}}/assets/images/posts/jexus.jpg)
