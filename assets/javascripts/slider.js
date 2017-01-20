@@ -34,7 +34,7 @@ $(document).ready(function() {
             console.log("rectangle")
 
             $('#slideshow p img').css("height", "auto")
-            $('#slideshow p img').css("width", "100%")
+            $('#slideshow p img').css("width", "70%")
             var paddingTop = (height - $('#slideshow p img').height()) / 2
             var PaddingLeft = (width - $('#slideshow p img').width()) / 2
             $('#slideshow').css("padding-top",paddingTop)
@@ -83,7 +83,7 @@ $(document).ready(function() {
             console.log("rectangle")
 
             $('#slideshow p img').css("height", "auto")
-            $('#slideshow p img').css("width", "100%")
+            $('#slideshow p img').css("width", "70%")
             var paddingTop = (height - $('#slideshow p img').height()) / 2
             var PaddingLeft = (width - $('#slideshow p img').width()) / 2
             $('#slideshow').css("padding-top",paddingTop)
