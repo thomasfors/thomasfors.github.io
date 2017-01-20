@@ -16,7 +16,7 @@ $(document).ready(function() {
 
             console.log("portrait")
 
-            $('#slideshow p img').css("height", "50%")
+            $('#slideshow p img').css("height", "70%")
 
             $('#slideshow p img').css("width", "auto")
 
@@ -28,11 +28,13 @@ $(document).ready(function() {
 
             $('#slideshow').css("padding-left",padding)
             $('#slideshow').css("padding-top",topPadding)
+
         } else if ($('#slideshow p img').height() === $('#slideshow p img').width() ) {
+
             console.log("rectangle")
 
-            $('#slideshow p img').css("height", "50%")
-            $('#slideshow p img').css("width", "auto")
+            $('#slideshow p img').css("height", "auto")
+            $('#slideshow p img').css("width", "100%")
             var paddingTop = (height - $('#slideshow p img').height()) / 2
             var PaddingLeft = (width - $('#slideshow p img').width()) / 2
             $('#slideshow').css("padding-top",paddingTop)
@@ -49,6 +51,7 @@ $(document).ready(function() {
             $('#slideshow').css("padding-left","0")
         }
 
+
     });
 
 
@@ -62,7 +65,7 @@ $(document).ready(function() {
 
             console.log("portrait")
 
-            $('#slideshow p img').css("height", "50%")
+            $('#slideshow p img').css("height", "70%")
 
             $('#slideshow p img').css("width", "auto")
 
@@ -74,6 +77,7 @@ $(document).ready(function() {
 
             $('#slideshow').css("padding-left",padding)
             $('#slideshow').css("padding-top",topPadding)
+
         } else if ($('#slideshow p img').height() === $('#slideshow p img').width() ) {
 
             console.log("rectangle")
