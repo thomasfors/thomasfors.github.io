@@ -4,7 +4,6 @@ published: true
 title: END OF ILLUSION
 feature: pnoj.jpg
 ---
-![]({{site.baseurl}}/assets/images/posts/for-wbb.jpg)
 ![use.jpg]({{site.baseurl}}/assets/images/posts/use.jpg)
 ![groda.jpg]({{site.baseurl}}/assets/images/posts/groda.jpg)
 ![do.jpg]({{site.baseurl}}/assets/images/posts/do.jpg)
