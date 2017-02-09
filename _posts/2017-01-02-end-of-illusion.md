@@ -16,7 +16,6 @@ feature: pnoj.jpg
 ![rabwebbrabbbit.jpg]({{site.baseurl}}/assets/images/posts/rabwebbrabbbit.jpg)
 ![never.jpg]({{site.baseurl}}/assets/images/posts/never.jpg)
 ![passion.jpg]({{site.baseurl}}/assets/images/posts/passion.jpg)
-![ISSIGT.jpg]({{site.baseurl}}/assets/images/posts/ISSIGT.jpg)
 ![ill.jpg]({{site.baseurl}}/assets/images/posts/ill.jpg)
 ![pupp.jpg]({{site.baseurl}}/assets/images/posts/pupp.jpg)
 ![dollll.jpg]({{site.baseurl}}/assets/images/posts/dollll.jpg)
@@ -30,4 +29,3 @@ feature: pnoj.jpg
 ![whith black.jpg]({{site.baseurl}}/assets/images/posts/whith black.jpg)
 ![through.jpg]({{site.baseurl}}/assets/images/posts/through.jpg)
 ![pnoj.jpg]({{site.baseurl}}/assets/images/posts/pnoj.jpg)
-
