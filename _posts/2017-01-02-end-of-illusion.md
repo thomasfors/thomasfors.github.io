@@ -4,6 +4,7 @@ published: true
 title: END OF ILLUSION
 feature: pnoj.jpg
 ---
+![moln1.jpg]({{site.baseurl}}/assets/images/posts/moln1.jpg)
 ![friend.jpg]({{site.baseurl}}/assets/images/posts/friend.jpg)
 ![webbgro.jpg]({{site.baseurl}}/assets/images/posts/webbgro.jpg)
 ![nofeeeel.jpg]({{site.baseurl}}/assets/images/posts/nofeeeel.jpg)
@@ -30,4 +31,3 @@ feature: pnoj.jpg
 ![through.jpg]({{site.baseurl}}/assets/images/posts/through.jpg)
 ![pnoj.jpg]({{site.baseurl}}/assets/images/posts/pnoj.jpg)
 ![1065304669.jpg]({{site.baseurl}}/assets/images/posts/1065304669.jpg)
-
