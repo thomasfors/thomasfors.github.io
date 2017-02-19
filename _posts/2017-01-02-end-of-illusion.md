@@ -20,8 +20,6 @@ feature: pnoj.jpg
 ![passion.jpg]({{site.baseurl}}/assets/images/posts/passion.jpg)
 ![ill.jpg]({{site.baseurl}}/assets/images/posts/ill.jpg)
 ![pupp.jpg]({{site.baseurl}}/assets/images/posts/pupp.jpg)
-![dollll.jpg]({{site.baseurl}}/assets/images/posts/dollll.jpg)
-![mirror.jpg]({{site.baseurl}}/assets/images/posts/mirror.jpg)
 ![gräl.jpg]({{site.baseurl}}/assets/images/posts/gräl.jpg)
 ![dang.jpg]({{site.baseurl}}/assets/images/posts/dang.jpg)
 ![vera.jpg]({{site.baseurl}}/assets/images/posts/vera.jpg)
