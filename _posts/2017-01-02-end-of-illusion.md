@@ -14,7 +14,6 @@ feature: pnoj.jpg
 ![for-wbb.jpg]({{site.baseurl}}/assets/images/posts/for-wbb.jpg)
 ![groda.jpg]({{site.baseurl}}/assets/images/posts/groda.jpg)
 ![do.jpg]({{site.baseurl}}/assets/images/posts/do.jpg)
-![rabwebbrabbbit.jpg]({{site.baseurl}}/assets/images/posts/rabwebbrabbbit.jpg)
 ![never.jpg]({{site.baseurl}}/assets/images/posts/never.jpg)
 ![passion.jpg]({{site.baseurl}}/assets/images/posts/passion.jpg)
 ![ill.jpg]({{site.baseurl}}/assets/images/posts/ill.jpg)
