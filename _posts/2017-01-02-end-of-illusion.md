@@ -12,7 +12,7 @@ feature: pnoj.jpg
 ![tupppp.jpg]({{site.baseurl}}/assets/images/posts/tupppp.jpg)
 ![SYMMM.jpg]({{site.baseurl}}/assets/images/posts/SYMMM.jpg)
 ![ssvo.jpg]({{site.baseurl}}/assets/images/posts/ssvo.jpg)
-![PPARTY.jpg]({{site.baseurl}}/assets/images/posts/PPARTY.jpg)
+
 ![go back.jpg]({{site.baseurl}}/assets/images/posts/go back.jpg)
 ![friend.jpg]({{site.baseurl}}/assets/images/posts/friend.jpg)
 ![webbgro.jpg]({{site.baseurl}}/assets/images/posts/webbgro.jpg)
