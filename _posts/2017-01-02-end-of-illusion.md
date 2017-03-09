@@ -27,7 +27,6 @@ feature: pnoj.jpg
 ![ill.jpg]({{site.baseurl}}/assets/images/posts/ill.jpg)
 ![pupp.jpg]({{site.baseurl}}/assets/images/posts/pupp.jpg)
 ![gräl.jpg]({{site.baseurl}}/assets/images/posts/gräl.jpg)
-![dang.jpg]({{site.baseurl}}/assets/images/posts/dang.jpg)
 ![vera.jpg]({{site.baseurl}}/assets/images/posts/vera.jpg)
 ![guld.jpg]({{site.baseurl}}/assets/images/posts/guld.jpg)
 ![ddsfd.jpg]({{site.baseurl}}/assets/images/posts/ddsfd.jpg)
