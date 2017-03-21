@@ -24,6 +24,7 @@ feature: jessicaface.jpg
 ![turn.jpg]({{site.baseurl}}/assets/images/posts/turn.jpg)
 ![USE-TO.jpg]({{site.baseurl}}/assets/images/posts/USE-TO.jpg)
 ![jkl.jpg]({{site.baseurl}}/assets/images/posts/jkl.jpg)
+![glas.jpg]({{site.baseurl}}/assets/images/posts/glas.jpg)
 ![kang.jpg]({{site.baseurl}}/assets/images/posts/kang.jpg)
 ![left.jpg]({{site.baseurl}}/assets/images/posts/left.jpg)
 ![lila.jpg]({{site.baseurl}}/assets/images/posts/lila.jpg)
@@ -51,5 +52,3 @@ feature: jessicaface.jpg
 ![rt.jpg]({{site.baseurl}}/assets/images/posts/rt.jpg)
 ![my-fac8e-1525-(2).jpg]({{site.baseurl}}/assets/images/posts/my-fac8e-1525-(2).jpg)
 ![NOTHING.jpg]({{site.baseurl}}/assets/images/posts/NOTHING.jpg)
-
-
