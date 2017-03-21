@@ -52,3 +52,6 @@ feature: jessicaface.jpg
 ![rt.jpg]({{site.baseurl}}/assets/images/posts/rt.jpg)
 ![my-fac8e-1525-(2).jpg]({{site.baseurl}}/assets/images/posts/my-fac8e-1525-(2).jpg)
 ![NOTHING.jpg]({{site.baseurl}}/assets/images/posts/NOTHING.jpg)
+![ANX.jpg]({{site.baseurl}}/assets/images/posts/ANX.jpg)
+![ex.jpg]({{site.baseurl}}/assets/images/posts/ex.jpg)
+
