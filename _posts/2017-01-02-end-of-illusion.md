@@ -7,7 +7,6 @@ feature: pnoj.jpg
 ![sens.jpg]({{site.baseurl}}/assets/images/posts/sens.jpg)
 ![FV.jpg]({{site.baseurl}}/assets/images/posts/FV.jpg)
 ![LETG.jpg]({{site.baseurl}}/assets/images/posts/LETG.jpg)
-![an.jpg]({{site.baseurl}}/assets/images/posts/an.jpg)
 ![lot.jpg]({{site.baseurl}}/assets/images/posts/lot.jpg)
 ![aj.jpg]({{site.baseurl}}/assets/images/posts/aj.jpg)
 ![LUST.jpg]({{site.baseurl}}/assets/images/posts/LUST.jpg)
