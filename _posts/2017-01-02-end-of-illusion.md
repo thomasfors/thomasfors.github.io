@@ -17,7 +17,6 @@ feature: pnoj.jpg
 ![webbgro.jpg]({{site.baseurl}}/assets/images/posts/webbgro.jpg)
 ![nofeeeel.jpg]({{site.baseurl}}/assets/images/posts/nofeeeel.jpg)
 ![DENNNN.jpg]({{site.baseurl}}/assets/images/posts/DENNNN.jpg)
-![cave.jpg]({{site.baseurl}}/assets/images/posts/cave.jpg)
 ![groda.jpg]({{site.baseurl}}/assets/images/posts/groda.jpg)
 ![do.jpg]({{site.baseurl}}/assets/images/posts/do.jpg)
 ![never.jpg]({{site.baseurl}}/assets/images/posts/never.jpg)
