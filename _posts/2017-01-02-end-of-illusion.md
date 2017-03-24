@@ -13,7 +13,6 @@ feature: pnoj.jpg
 ![tupppp.jpg]({{site.baseurl}}/assets/images/posts/tupppp.jpg)
 ![SYMMM.jpg]({{site.baseurl}}/assets/images/posts/SYMMM.jpg)
 ![ssvo.jpg]({{site.baseurl}}/assets/images/posts/ssvo.jpg)
-![go back.jpg]({{site.baseurl}}/assets/images/posts/go back.jpg)
 ![friend.jpg]({{site.baseurl}}/assets/images/posts/friend.jpg)
 ![webbgro.jpg]({{site.baseurl}}/assets/images/posts/webbgro.jpg)
 ![nofeeeel.jpg]({{site.baseurl}}/assets/images/posts/nofeeeel.jpg)
@@ -32,4 +31,3 @@ feature: pnoj.jpg
 ![through.jpg]({{site.baseurl}}/assets/images/posts/through.jpg)
 ![pnoj.jpg]({{site.baseurl}}/assets/images/posts/pnoj.jpg)
 ![1065304669.jpg]({{site.baseurl}}/assets/images/posts/1065304669.jpg)
-
