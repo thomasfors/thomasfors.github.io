@@ -4,6 +4,7 @@ published: true
 title: END OF ILLUSION
 feature: pnoj.jpg
 ---
+![ka.jpg]({{site.baseurl}}/assets/images/posts/ka.jpg)
 ![sens.jpg]({{site.baseurl}}/assets/images/posts/sens.jpg)
 ![FV.jpg]({{site.baseurl}}/assets/images/posts/FV.jpg)
 ![LETG.jpg]({{site.baseurl}}/assets/images/posts/LETG.jpg)
@@ -30,4 +31,3 @@ feature: pnoj.jpg
 ![pnoj.jpg]({{site.baseurl}}/assets/images/posts/pnoj.jpg)
 ![1065304669.jpg]({{site.baseurl}}/assets/images/posts/1065304669.jpg)
 ![goodfood (2).jpg]({{site.baseurl}}/assets/images/posts/goodfood (2).jpg)
-
