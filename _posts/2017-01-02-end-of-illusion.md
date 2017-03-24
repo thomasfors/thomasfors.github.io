@@ -23,7 +23,6 @@ feature: pnoj.jpg
 ![ill.jpg]({{site.baseurl}}/assets/images/posts/ill.jpg)
 ![gräl.jpg]({{site.baseurl}}/assets/images/posts/gräl.jpg)
 ![vera.jpg]({{site.baseurl}}/assets/images/posts/vera.jpg)
-![guld.jpg]({{site.baseurl}}/assets/images/posts/guld.jpg)
 ![ddsfd.jpg]({{site.baseurl}}/assets/images/posts/ddsfd.jpg)
 ![jexus.jpg]({{site.baseurl}}/assets/images/posts/jexus.jpg)
 ![whith black.jpg]({{site.baseurl}}/assets/images/posts/whith black.jpg)
