@@ -11,6 +11,7 @@ feature: pnoj.jpg
 ![brown.jpg]({{site.baseurl}}/assets/images/posts/brown.jpg)
 ![LUST.jpg]({{site.baseurl}}/assets/images/posts/LUST.jpg)
 ![apart.jpg]({{site.baseurl}}/assets/images/posts/apart.jpg)
+![go.jpg]({{site.baseurl}}/assets/images/posts/go.jpg)
 ![tupppp.jpg]({{site.baseurl}}/assets/images/posts/tupppp.jpg)
 ![SYMMM.jpg]({{site.baseurl}}/assets/images/posts/SYMMM.jpg)
 ![ssvo.jpg]({{site.baseurl}}/assets/images/posts/ssvo.jpg)
