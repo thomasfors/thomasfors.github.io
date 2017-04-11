@@ -9,7 +9,6 @@ feature: pnoj.jpg
 ![staaaay.jpg]({{site.baseurl}}/assets/images/posts/staaaay.jpg)
 ![fea.jpg]({{site.baseurl}}/assets/images/posts/fea.jpg)
 ![IMBAL.jpg]({{site.baseurl}}/assets/images/posts/IMBAL.jpg)
-![ka.jpg]({{site.baseurl}}/assets/images/posts/ka.jpg)
 ![sens.jpg]({{site.baseurl}}/assets/images/posts/sens.jpg)
 ![FV.jpg]({{site.baseurl}}/assets/images/posts/FV.jpg)
 ![LETG.jpg]({{site.baseurl}}/assets/images/posts/LETG.jpg)
