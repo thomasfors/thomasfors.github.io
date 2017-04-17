@@ -12,7 +12,6 @@ feature: pnoj.jpg
 ![LETG.jpg]({{site.baseurl}}/assets/images/posts/LETG.jpg)
 ![HGCHFGH.jpg]({{site.baseurl}}/assets/images/posts/HGCHFGH.jpg)
 ![brown.jpg]({{site.baseurl}}/assets/images/posts/brown.jpg)
-![LUST.jpg]({{site.baseurl}}/assets/images/posts/LUST.jpg)
 ![notttt.jpg]({{site.baseurl}}/assets/images/posts/notttt.jpg)
 ![apart.jpg]({{site.baseurl}}/assets/images/posts/apart.jpg)
 ![go.jpg]({{site.baseurl}}/assets/images/posts/go.jpg)
