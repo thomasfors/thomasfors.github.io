@@ -23,7 +23,6 @@ feature: pnoj.jpg
 ![webbgro.jpg]({{site.baseurl}}/assets/images/posts/webbgro.jpg)
 ![nofeeeel.jpg]({{site.baseurl}}/assets/images/posts/nofeeeel.jpg)
 ![never.jpg]({{site.baseurl}}/assets/images/posts/never.jpg)
-![passion.jpg]({{site.baseurl}}/assets/images/posts/passion.jpg)
 ![ill.jpg]({{site.baseurl}}/assets/images/posts/ill.jpg)
 ![gräl.jpg]({{site.baseurl}}/assets/images/posts/gräl.jpg)
 ![vera.jpg]({{site.baseurl}}/assets/images/posts/vera.jpg)
