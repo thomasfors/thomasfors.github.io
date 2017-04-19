@@ -20,7 +20,6 @@ feature: pnoj.jpg
 ![SYMMM.jpg]({{site.baseurl}}/assets/images/posts/SYMMM.jpg)
 ![ssvo.jpg]({{site.baseurl}}/assets/images/posts/ssvo.jpg)
 ![friend.jpg]({{site.baseurl}}/assets/images/posts/friend.jpg)
-![webbgro.jpg]({{site.baseurl}}/assets/images/posts/webbgro.jpg)
 ![nofeeeel.jpg]({{site.baseurl}}/assets/images/posts/nofeeeel.jpg)
 ![never.jpg]({{site.baseurl}}/assets/images/posts/never.jpg)
 ![ill.jpg]({{site.baseurl}}/assets/images/posts/ill.jpg)
