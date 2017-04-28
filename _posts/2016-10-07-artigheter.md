@@ -6,7 +6,6 @@ feature: jessicaface.jpg
 ---
 ![bear.jpg]({{site.baseurl}}/assets/images/posts/bear.jpg)
 ![dremskog.jpg]({{site.baseurl}}/assets/images/posts/dremskog.jpg)
-![pe-for-web.jpg]({{site.baseurl}}/assets/images/posts/pe-for-web.jpg)
 ![djupety.jpg]({{site.baseurl}}/assets/images/posts/djupety.jpg)
 ![ele.jpg]({{site.baseurl}}/assets/images/posts/ele.jpg)
 ![see.jpg]({{site.baseurl}}/assets/images/posts/see.jpg)
