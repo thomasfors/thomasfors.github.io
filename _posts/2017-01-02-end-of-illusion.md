@@ -22,7 +22,6 @@ feature: pnoj.jpg
 ![nofeeeel.jpg]({{site.baseurl}}/assets/images/posts/nofeeeel.jpg)
 ![never.jpg]({{site.baseurl}}/assets/images/posts/never.jpg)
 ![ill.jpg]({{site.baseurl}}/assets/images/posts/ill.jpg)
-![gräl.jpg]({{site.baseurl}}/assets/images/posts/gräl.jpg)
 ![vera.jpg]({{site.baseurl}}/assets/images/posts/vera.jpg)
 ![ddsfd.jpg]({{site.baseurl}}/assets/images/posts/ddsfd.jpg)
 ![through.jpg]({{site.baseurl}}/assets/images/posts/through.jpg)
