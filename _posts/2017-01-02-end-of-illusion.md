@@ -26,4 +26,3 @@ feature: pnoj.jpg
 ![ddsfd.jpg]({{site.baseurl}}/assets/images/posts/ddsfd.jpg)
 ![through.jpg]({{site.baseurl}}/assets/images/posts/through.jpg)
 ![ev.jpg]({{site.baseurl}}/assets/images/posts/ev.jpg)
-![goodfood (2).jpg]({{site.baseurl}}/assets/images/posts/goodfood (2).jpg)
