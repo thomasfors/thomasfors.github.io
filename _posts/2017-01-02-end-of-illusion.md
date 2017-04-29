@@ -11,7 +11,6 @@ feature: pnoj.jpg
 ![sens.jpg]({{site.baseurl}}/assets/images/posts/sens.jpg)
 ![LETG.jpg]({{site.baseurl}}/assets/images/posts/LETG.jpg)
 ![HGCHFGH.jpg]({{site.baseurl}}/assets/images/posts/HGCHFGH.jpg)
-![brown.jpg]({{site.baseurl}}/assets/images/posts/brown.jpg)
 ![notttt.jpg]({{site.baseurl}}/assets/images/posts/notttt.jpg)
 ![go.jpg]({{site.baseurl}}/assets/images/posts/go.jpg)
 ![tupppp.jpg]({{site.baseurl}}/assets/images/posts/tupppp.jpg)
