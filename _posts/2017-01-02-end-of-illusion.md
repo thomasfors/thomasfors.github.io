@@ -8,6 +8,7 @@ feature: pnoj.jpg
 ![fea.jpg]({{site.baseurl}}/assets/images/posts/fea.jpg)
 ![IMBAL.jpg]({{site.baseurl}}/assets/images/posts/IMBAL.jpg)
 ![sens.jpg]({{site.baseurl}}/assets/images/posts/sens.jpg)
+![LUST.jpg]({{site.baseurl}}/assets/images/posts/LUST.jpg)
 ![LETG.jpg]({{site.baseurl}}/assets/images/posts/LETG.jpg)
 ![HGCHFGH.jpg]({{site.baseurl}}/assets/images/posts/HGCHFGH.jpg)
 ![go.jpg]({{site.baseurl}}/assets/images/posts/go.jpg)
