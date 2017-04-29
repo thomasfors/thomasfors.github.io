@@ -5,7 +5,6 @@ title: END OF ILLUSION
 feature: pnoj.jpg
 ---
 ![tra.jpg]({{site.baseurl}}/assets/images/posts/tra.jpg)
-![this.jpg]({{site.baseurl}}/assets/images/posts/this.jpg)
 ![fea.jpg]({{site.baseurl}}/assets/images/posts/fea.jpg)
 ![IMBAL.jpg]({{site.baseurl}}/assets/images/posts/IMBAL.jpg)
 ![sens.jpg]({{site.baseurl}}/assets/images/posts/sens.jpg)
