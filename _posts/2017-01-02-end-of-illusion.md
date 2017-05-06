@@ -13,7 +13,6 @@ feature: pnoj.jpg
 ![HGCHFGH.jpg]({{site.baseurl}}/assets/images/posts/HGCHFGH.jpg)
 ![go.jpg]({{site.baseurl}}/assets/images/posts/go.jpg)
 ![ssvo.jpg]({{site.baseurl}}/assets/images/posts/ssvo.jpg)
-![never.jpg]({{site.baseurl}}/assets/images/posts/never.jpg)
 ![ill.jpg]({{site.baseurl}}/assets/images/posts/ill.jpg)
 ![vera.jpg]({{site.baseurl}}/assets/images/posts/vera.jpg)
 ![ddsfd.jpg]({{site.baseurl}}/assets/images/posts/ddsfd.jpg)
