@@ -17,6 +17,7 @@ feature: pnoj.jpg
 ![ssvo.jpg]({{site.baseurl}}/assets/images/posts/ssvo.jpg)
 ![ill.jpg]({{site.baseurl}}/assets/images/posts/ill.jpg)
 ![vera.jpg]({{site.baseurl}}/assets/images/posts/vera.jpg)
+![elan.jpg]({{site.baseurl}}/assets/images/posts/elan.jpg)
 ![ddsfd.jpg]({{site.baseurl}}/assets/images/posts/ddsfd.jpg)
 ![through.jpg]({{site.baseurl}}/assets/images/posts/through.jpg)
 ![ev.jpg]({{site.baseurl}}/assets/images/posts/ev.jpg)
@@ -30,4 +31,3 @@ feature: pnoj.jpg
 ![försvara-(2).jpg]({{site.baseurl}}/assets/images/posts/försvara-(2).jpg)
 ![eys.jpg]({{site.baseurl}}/assets/images/posts/eys.jpg)
 ![destroy.jpg]({{site.baseurl}}/assets/images/posts/destroy.jpg)
-
