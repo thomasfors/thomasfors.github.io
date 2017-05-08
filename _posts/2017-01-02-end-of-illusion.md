@@ -26,5 +26,7 @@ feature: pnoj.jpg
 ![mmmind.jpg]({{site.baseurl}}/assets/images/posts/mmmind.jpg)
 ![pupp.jpg]({{site.baseurl}}/assets/images/posts/pupp.jpg)
 ![TA.jpg]({{site.baseurl}}/assets/images/posts/TA.jpg)
+![yellow.jpg]({{site.baseurl}}/assets/images/posts/yellow.jpg)
+
 
 
