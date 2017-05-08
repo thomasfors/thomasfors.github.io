@@ -27,6 +27,7 @@ feature: pnoj.jpg
 ![pupp.jpg]({{site.baseurl}}/assets/images/posts/pupp.jpg)
 ![TA.jpg]({{site.baseurl}}/assets/images/posts/TA.jpg)
 ![yellow.jpg]({{site.baseurl}}/assets/images/posts/yellow.jpg)
-
-
+![försvara-(2).jpg]({{site.baseurl}}/assets/images/posts/försvara-(2).jpg)
+![eys.jpg]({{site.baseurl}}/assets/images/posts/eys.jpg)
+![destroy.jpg]({{site.baseurl}}/assets/images/posts/destroy.jpg)
 
