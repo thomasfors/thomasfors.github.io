@@ -4,6 +4,7 @@ published: true
 title: END OF ILLUSION
 feature: pnoj.jpg
 ---
+![didddd.jpg]({{site.baseurl}}/assets/images/posts/didddd.jpg)
 ![EGG.jpg]({{site.baseurl}}/assets/images/posts/EGG.jpg)
 ![tra.jpg]({{site.baseurl}}/assets/images/posts/tra.jpg)
 ![fea.jpg]({{site.baseurl}}/assets/images/posts/fea.jpg)
