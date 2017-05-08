@@ -35,5 +35,11 @@ feature: pnoj.jpg
 ![bluedoll.jpg]({{site.baseurl}}/assets/images/posts/bluedoll.jpg)
 ![blame.jpg]({{site.baseurl}}/assets/images/posts/blame.jpg)
 ![crfdgsrgf.jpg]({{site.baseurl}}/assets/images/posts/crfdgsrgf.jpg)
+![ddsfd.jpg]({{site.baseurl}}/assets/images/posts/ddsfd.jpg)
+![digital_texture_artwork_277_by_mercurycode-d8l5snn.jpg]({{site.baseurl}}/assets/images/posts/digital_texture_artwork_277_by_mercurycode-d8l5snn.jpg)
+![GATE.jpg]({{site.baseurl}}/assets/images/posts/GATE.jpg)
+![sharp.jpg]({{site.baseurl}}/assets/images/posts/sharp.jpg)
+
+
 
 
