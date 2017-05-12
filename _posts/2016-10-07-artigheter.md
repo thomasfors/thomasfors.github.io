@@ -43,7 +43,6 @@ feature: jessicaface.jpg
 ![intigrity.jpg]({{site.baseurl}}/assets/images/posts/intigrity.jpg)
 ![kråka.jpg]({{site.baseurl}}/assets/images/posts/kråka.jpg)
 ![wavesp57arch.jpg]({{site.baseurl}}/assets/images/posts/wavesp57arch.jpg)
-![think.jpg]({{site.baseurl}}/assets/images/posts/think.jpg)
 ![my-fac8e-1525-(2).jpg]({{site.baseurl}}/assets/images/posts/my-fac8e-1525-(2).jpg)
 ![ANX.jpg]({{site.baseurl}}/assets/images/posts/ANX.jpg)
 ![ex.jpg]({{site.baseurl}}/assets/images/posts/ex.jpg)
