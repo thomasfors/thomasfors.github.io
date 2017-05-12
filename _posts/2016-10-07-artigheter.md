@@ -24,7 +24,6 @@ feature: jessicaface.jpg
 ![left.jpg]({{site.baseurl}}/assets/images/posts/left.jpg)
 ![lila.jpg]({{site.baseurl}}/assets/images/posts/lila.jpg)
 ![linlinwebb.jpg]({{site.baseurl}}/assets/images/posts/linlinwebb.jpg)
-![heart.jpg]({{site.baseurl}}/assets/images/posts/heart.jpg)
 ![6.jpg]({{site.baseurl}}/assets/images/posts/6.jpg)
 ![12.jpg]({{site.baseurl}}/assets/images/posts/12.jpg)
 ![64.jpg]({{site.baseurl}}/assets/images/posts/64.jpg)
