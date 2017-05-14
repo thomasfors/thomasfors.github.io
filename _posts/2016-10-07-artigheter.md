@@ -8,7 +8,6 @@ feature: jessicaface.jpg
 ![dremskog.jpg]({{site.baseurl}}/assets/images/posts/dremskog.jpg)
 ![djupety.jpg]({{site.baseurl}}/assets/images/posts/djupety.jpg)
 !![see.jpg]({{site.baseurl}}/assets/images/posts/see.jpg)
-![EVERYTHING.jpg]({{site.baseurl}}/assets/images/posts/EVERYTHING.jpg)
 ![fy.jpg]({{site.baseurl}}/assets/images/posts/fy.jpg)
 ![hej.jpg]({{site.baseurl}}/assets/images/posts/hej.jpg)
 ![gb.jpg]({{site.baseurl}}/assets/images/posts/gb.jpg)
