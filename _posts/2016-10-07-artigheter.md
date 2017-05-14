@@ -5,7 +5,6 @@ title: papperskorg
 feature: jessicaface.jpg
 ---
 ![bear.jpg]({{site.baseurl}}/assets/images/posts/bear.jpg)
-![dremskog.jpg]({{site.baseurl}}/assets/images/posts/dremskog.jpg)
 ![djupety.jpg]({{site.baseurl}}/assets/images/posts/djupety.jpg)
 !![see.jpg]({{site.baseurl}}/assets/images/posts/see.jpg)
 ![fy.jpg]({{site.baseurl}}/assets/images/posts/fy.jpg)
