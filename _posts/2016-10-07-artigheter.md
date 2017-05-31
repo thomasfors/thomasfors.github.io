@@ -12,8 +12,6 @@ feature: jessicaface.jpg
 ![PPARTY.jpg]({{site.baseurl}}/assets/images/posts/PPARTY.jpg)
 ![reb.jpg]({{site.baseurl}}/assets/images/posts/reb.jpg)
 ![skil.jpg]({{site.baseurl}}/assets/images/posts/skil.jpg)
-![bl.jpg]({{site.baseurl}}/assets/images/posts/bl.jpg)
-![turn.jpg]({{site.baseurl}}/assets/images/posts/turn.jpg)
 ![USE-TO.jpg]({{site.baseurl}}/assets/images/posts/USE-TO.jpg)
 ![jkl.jpg]({{site.baseurl}}/assets/images/posts/jkl.jpg)
 ![glas.jpg]({{site.baseurl}}/assets/images/posts/glas.jpg)
