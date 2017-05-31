@@ -7,7 +7,6 @@ feature: jessicaface.jpg
 ![bear.jpg]({{site.baseurl}}/assets/images/posts/bear.jpg)
 ![djupety.jpg]({{site.baseurl}}/assets/images/posts/djupety.jpg)
 !![see.jpg]({{site.baseurl}}/assets/images/posts/see.jpg)
-![fy.jpg]({{site.baseurl}}/assets/images/posts/fy.jpg)
 ![hej.jpg]({{site.baseurl}}/assets/images/posts/hej.jpg)
 ![gb.jpg]({{site.baseurl}}/assets/images/posts/gb.jpg)
 ![PPARTY.jpg]({{site.baseurl}}/assets/images/posts/PPARTY.jpg)
