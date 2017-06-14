@@ -9,7 +9,6 @@ feature: pnoj.jpg
 ![STAR.jpg]({{site.baseurl}}/assets/images/posts/STAR.jpg)
 ![chain.jpg]({{site.baseurl}}/assets/images/posts/chain.jpg)
 ![didddd.jpg]({{site.baseurl}}/assets/images/posts/didddd.jpg)
-![EGG.jpg]({{site.baseurl}}/assets/images/posts/EGG.jpg)
 ![tra.jpg]({{site.baseurl}}/assets/images/posts/tra.jpg)
 ![fea.jpg]({{site.baseurl}}/assets/images/posts/fea.jpg)
 ![IMBAL.jpg]({{site.baseurl}}/assets/images/posts/IMBAL.jpg)
