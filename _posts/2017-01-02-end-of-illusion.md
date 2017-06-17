@@ -8,6 +8,7 @@ feature: pnoj.jpg
 ![yes.gif]({{site.baseurl}}/assets/images/posts/yes.gif)
 ![STAR.jpg]({{site.baseurl}}/assets/images/posts/STAR.jpg)
 ![chain.jpg]({{site.baseurl}}/assets/images/posts/chain.jpg)
+![new.gif]({{site.baseurl}}/assets/images/posts/new.gif)
 ![didddd.jpg]({{site.baseurl}}/assets/images/posts/didddd.jpg)
 ![tra.jpg]({{site.baseurl}}/assets/images/posts/tra.jpg)
 ![fea.jpg]({{site.baseurl}}/assets/images/posts/fea.jpg)
