@@ -21,7 +21,6 @@ feature: pnoj.jpg
 ![ill.jpg]({{site.baseurl}}/assets/images/posts/ill.jpg)
 ![vera.jpg]({{site.baseurl}}/assets/images/posts/vera.jpg)
 ![gud.jpg]({{site.baseurl}}/assets/images/posts/gud.jpg)
-![elan.jpg]({{site.baseurl}}/assets/images/posts/elan.jpg)
 ![ddsfd.jpg]({{site.baseurl}}/assets/images/posts/ddsfd.jpg)
 ![through.jpg]({{site.baseurl}}/assets/images/posts/through.jpg)
 ![ev.jpg]({{site.baseurl}}/assets/images/posts/ev.jpg)
