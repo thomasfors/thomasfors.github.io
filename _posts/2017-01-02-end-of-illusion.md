@@ -17,7 +17,6 @@ feature: pnoj.jpg
 ![lillith.jpg]({{site.baseurl}}/assets/images/posts/lillith.jpg)
 ![LETG.jpg]({{site.baseurl}}/assets/images/posts/LETG.jpg)
 ![HGCHFGH.jpg]({{site.baseurl}}/assets/images/posts/HGCHFGH.jpg)
-![go.jpg]({{site.baseurl}}/assets/images/posts/go.jpg)
 ![ssvo.jpg]({{site.baseurl}}/assets/images/posts/ssvo.jpg)
 ![ill.jpg]({{site.baseurl}}/assets/images/posts/ill.jpg)
 ![vera.jpg]({{site.baseurl}}/assets/images/posts/vera.jpg)
