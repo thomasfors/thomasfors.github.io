@@ -26,7 +26,6 @@ feature: pnoj.jpg
 ![HILMA.jpg]({{site.baseurl}}/assets/images/posts/HILMA.jpg)
 ![boy.jpg]({{site.baseurl}}/assets/images/posts/boy.jpg)
 ![KEEP.jpg]({{site.baseurl}}/assets/images/posts/KEEP.jpg)
-![kjol.jpg]({{site.baseur![plate.jpg]({{site.baseurl}}/assets/images/posts/plate.jpg)
 ![mmmind.jpg]({{site.baseurl}}/assets/images/posts/mmmind.jpg)
 ![pupp.jpg]({{site.baseurl}}/assets/images/posts/pupp.jpg)
 ![TA.jpg]({{site.baseurl}}/assets/images/posts/TA.jpg)
