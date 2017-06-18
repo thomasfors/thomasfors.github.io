@@ -42,7 +42,3 @@ feature: pnoj.jpg
 ![bluedoll.jpg]({{site.baseurl}}/assets/images/posts/bluedoll.jpg)
 ![blame.jpg]({{site.baseurl}}/assets/images/posts/blame.jpg)
 ![crfdgsrgf.jpg]({{site.baseurl}}/assets/images/posts/crfdgsrgf.jpg)
-![GATE.jpg]({{site.baseurl}}/assets/images/posts/GATE.jpg)
-![sharp.jpg]({{site.baseurl}}/assets/images/posts/sharp.jpg)
-![ph.jpg]({{site.baseurl}}/assets/images/posts/ph.jpg)
-![turnehold-onr-nap.jpg]({{site.baseurl}}/assets/images/posts/turnehold-onr-nap.jpg)
