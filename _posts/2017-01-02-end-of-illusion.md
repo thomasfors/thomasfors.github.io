@@ -23,7 +23,6 @@ feature: pnoj.jpg
 ![gud.jpg]({{site.baseurl}}/assets/images/posts/gud.jpg)
 ![ddsfd.jpg]({{site.baseurl}}/assets/images/posts/ddsfd.jpg)
 ![through.jpg]({{site.baseurl}}/assets/images/posts/through.jpg)
-![ev.jpg]({{site.baseurl}}/assets/images/posts/ev.jpg)
 ![HILMA.jpg]({{site.baseurl}}/assets/images/posts/HILMA.jpg)
 ![boy.jpg]({{site.baseurl}}/assets/images/posts/boy.jpg)
 ![KEEP.jpg]({{site.baseurl}}/assets/images/posts/KEEP.jpg)
