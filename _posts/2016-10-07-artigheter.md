@@ -7,8 +7,6 @@ feature: jessicaface.jpg
 ![PPARTY.jpg]({{site.baseurl}}/assets/images/posts/PPARTY.jpg)
 ![reb.jpg]({{site.baseurl}}/assets/images/posts/reb.jpg)
 ![USE-TO.jpg]({{site.baseurl}}/assets/images/posts/USE-TO.jpg)
-![linlinwebb.jpg]({{site.baseurl}}/assets/images/posts/linlinwebb.jpg)
-![6.jpg]({{site.baseurl}}/assets/images/posts/6.jpg)
 ![12.jpg]({{site.baseurl}}/assets/images/posts/12.jpg)
 ![64.jpg]({{site.baseurl}}/assets/images/posts/64.jpg)
 ![fan-2913.jpg]({{site.baseurl}}/assets/images/posts/fan-2913.jpg)
