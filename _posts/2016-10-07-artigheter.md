@@ -4,6 +4,7 @@ published: true
 title: papperskorg
 feature: jessicaface.jpg
 ---
+![ok.jpg]({{site.baseurl}}/assets/images/posts/ok.jpg)
 ![PPARTY.jpg]({{site.baseurl}}/assets/images/posts/PPARTY.jpg)
 ![reb.jpg]({{site.baseurl}}/assets/images/posts/reb.jpg)
 ![USE-TO.jpg]({{site.baseurl}}/assets/images/posts/USE-TO.jpg)
