@@ -4,6 +4,7 @@ published: true
 title: tao
 feature: jessicaface.jpg
 ---
+![ggjj.jpg]({{site.baseurl}}/assets/images/posts/ggjj.jpg)
 ![alt5a.jpg]({{site.baseurl}}/assets/images/posts/alt5a.jpg)
 ![i.gif]({{site.baseurl}}/assets/images/posts/i.gif)
 ![ok.jpg]({{site.baseurl}}/assets/images/posts/ok.jpg)
