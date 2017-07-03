@@ -9,4 +9,4 @@ feature: jessicaface.jpg
 ![ok.jpg]({{site.baseurl}}/assets/images/posts/ok.jpg)
 ![ea.jpg]({{site.baseurl}}/assets/images/posts/ea.jpg)
 ![taaa.jpg]({{site.baseurl}}/assets/images/posts/taaa.jpg)
-![]({{site.baseurl}}/)
+
