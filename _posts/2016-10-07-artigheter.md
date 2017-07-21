@@ -5,6 +5,7 @@ title: tao
 feature: jessicaface.jpg
 ---
 ![day.jpg]({{site.baseurl}}/assets/images/posts/day.jpg)
+![fly.jpg]({{site.baseurl}}/assets/images/posts/fly.jpg)
 ![ab.jpg]({{site.baseurl}}/assets/images/posts/ab.jpg)
 ![ggjj.jpg]({{site.baseurl}}/assets/images/posts/ggjj.jpg)
 ![alt5a.jpg]({{site.baseurl}}/assets/images/posts/alt5a.jpg)
