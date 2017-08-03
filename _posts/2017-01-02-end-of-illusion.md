@@ -5,6 +5,7 @@ title: END OF ILLUSION
 feature: pnoj.jpg
 ---
 ![WOLF.jpg]({{site.baseurl}}/assets/images/posts/WOLF.jpg)
+![JI.jpg]({{site.baseurl}}/assets/images/posts/JI.jpg)
 ![NI.jpg]({{site.baseurl}}/assets/images/posts/NI.jpg)
 ![DVFG.gif]({{site.baseurl}}/assets/images/posts/DVFG.gif)
 ![yes.gif]({{site.baseurl}}/assets/images/posts/yes.gif)
