@@ -38,7 +38,3 @@ feature: pnoj.jpg
 ![försvara-(2).jpg]({{site.baseurl}}/assets/images/posts/försvara-(2).jpg)
 ![eys.jpg]({{site.baseurl}}/assets/images/posts/eys.jpg)
 ![destroy.jpg]({{site.baseurl}}/assets/images/posts/destroy.jpg)
-![BACK (2).jpg]({{site.baseurl}}/assets/images/posts/BACK (2).jpg)
-![bluedoll.jpg]({{site.baseurl}}/assets/images/posts/bluedoll.jpg)
-![blame.jpg]({{site.baseurl}}/assets/images/posts/blame.jpg)
-![crfdgsrgf.jpg]({{site.baseurl}}/assets/images/posts/crfdgsrgf.jpg)
