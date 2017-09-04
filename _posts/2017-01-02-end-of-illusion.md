@@ -8,7 +8,6 @@ feature: pnoj.jpg
 ![MU.jpg]({{site.baseurl}}/assets/images/posts/MU.jpg)
 ![GG.jpg]({{site.baseurl}}/assets/images/posts/GG.jpg)
 ![fdsss (2).jpg]({{site.baseurl}}/assets/images/posts/fdsss (2).jpg)
-![NI.jpg]({{site.baseurl}}/assets/images/posts/NI.jpg)
 ![DVFG.gif]({{site.baseurl}}/assets/images/posts/DVFG.gif)
 ![yes.gif]({{site.baseurl}}/assets/images/posts/yes.gif)
 ![chain.jpg]({{site.baseurl}}/assets/images/posts/chain.jpg)
