@@ -10,8 +10,6 @@ feature: pnoj.jpg
 ![fdsss (2).jpg]({{site.baseurl}}/assets/images/posts/fdsss (2).jpg)
 ![DVFG.gif]({{site.baseurl}}/assets/images/posts/DVFG.gif)
 ![yes.gif]({{site.baseurl}}/assets/images/posts/yes.gif)
-![chain.jpg]({{site.baseurl}}/assets/images/posts/chain.jpg)
-![tra.jpg]({{site.baseurl}}/assets/images/posts/tra.jpg)
 ![fea.jpg]({{site.baseurl}}/assets/images/posts/fea.jpg)
 ![IMBAL.jpg]({{site.baseurl}}/assets/images/posts/IMBAL.jpg)
 ![sens.jpg]({{site.baseurl}}/assets/images/posts/sens.jpg)
