@@ -4,6 +4,7 @@ published: true
 title: tao
 feature: jessicaface.jpg
 ---
+![ash.jpg]({{site.baseurl}}/assets/images/posts/ash.jpg)
 ![häxa.jpg]({{site.baseurl}}/assets/images/posts/häxa.jpg)
 ![Woman.jpg]({{site.baseurl}}/assets/images/posts/Woman.jpg)
 ![DEAGON.jpg]({{site.baseurl}}/assets/images/posts/DEAGON.jpg)
@@ -18,4 +19,3 @@ feature: jessicaface.jpg
 ![ok.jpg]({{site.baseurl}}/assets/images/posts/ok.jpg)
 ![ea.jpg]({{site.baseurl}}/assets/images/posts/ea.jpg)
 ![dju.jpg]({{site.baseurl}}/assets/images/posts/dju.jpg)
-
