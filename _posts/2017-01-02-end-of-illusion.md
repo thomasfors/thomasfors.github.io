@@ -16,7 +16,6 @@ feature: pnoj.jpg
 ![sens.jpg]({{site.baseurl}}/assets/images/posts/sens.jpg)
 ![silver neddle.jpg]({{site.baseurl}}/assets/images/posts/silver neddle.jpg)
 ![lillith.jpg]({{site.baseurl}}/assets/images/posts/lillith.jpg)
-![LETG.jpg]({{site.baseurl}}/assets/images/posts/LETG.jpg)
 ![godrab.jpg]({{site.baseurl}}/assets/images/posts/godrab.jpg)
 ![klo.jpg]({{site.baseurl}}/assets/images/posts/klo.jpg)
 ![ssvo.jpg]({{site.baseurl}}/assets/images/posts/ssvo.jpg)
