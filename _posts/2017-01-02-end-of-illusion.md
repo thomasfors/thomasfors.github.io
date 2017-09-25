@@ -18,8 +18,6 @@ feature: pnoj.jpg
 ![silver neddle.jpg]({{site.baseurl}}/assets/images/posts/silver neddle.jpg)
 ![lillith.jpg]({{site.baseurl}}/assets/images/posts/lillith.jpg)
 ![godrab.jpg]({{site.baseurl}}/assets/images/posts/godrab.jpg)
-![klo.jpg]({{site.baseurl}}/assets/images/posts/klo.jpg)
-![ssvo.jpg]({{site.baseurl}}/assets/images/posts/ssvo.jpg)
 ![ill.jpg]({{site.baseurl}}/assets/images/posts/ill.jpg)
 ![gud.jpg]({{site.baseurl}}/assets/images/posts/gud.jpg)
 ![through.jpg]({{site.baseurl}}/assets/images/posts/through.jpg)
