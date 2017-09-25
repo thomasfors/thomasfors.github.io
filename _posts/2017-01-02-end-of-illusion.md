@@ -4,6 +4,7 @@ published: true
 title: END OF ILLUSION
 feature: pnoj.jpg
 ---
+![mo.jpg]({{site.baseurl}}/assets/images/posts/mo.jpg)
 ![mnb.jpg]({{site.baseurl}}/assets/images/posts/mnb.jpg)
 ![sorry.jpg]({{site.baseurl}}/assets/images/posts/sorry.jpg)
 ![nu.jpg]({{site.baseurl}}/assets/images/posts/nu.jpg)
