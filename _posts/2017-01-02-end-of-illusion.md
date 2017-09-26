@@ -9,6 +9,7 @@ feature: pnoj.jpg
 ![sorry.jpg]({{site.baseurl}}/assets/images/posts/sorry.jpg)
 ![nu.jpg]({{site.baseurl}}/assets/images/posts/nu.jpg)
 ![GG.jpg]({{site.baseurl}}/assets/images/posts/GG.jpg)
+![light.jpg]({{site.baseurl}}/assets/images/posts/light.jpg)
 ![Woman.jpg]({{site.baseurl}}/assets/images/posts/Woman.jpg)
 ![DVFG.gif]({{site.baseurl}}/assets/images/posts/DVFG.gif)
 ![yes.gif]({{site.baseurl}}/assets/images/posts/yes.gif)
