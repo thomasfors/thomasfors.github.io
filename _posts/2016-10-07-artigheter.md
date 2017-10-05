@@ -6,9 +6,6 @@ feature: jessicaface.jpg
 ---
 ![ash.jpg]({{site.baseurl}}/assets/images/posts/ash.jpg)
 ![häxa.jpg]({{site.baseurl}}/assets/images/posts/häxa.jpg)
-![DEAGON.jpg]({{site.baseurl}}/assets/images/posts/DEAGON.jpg)
-![dangerous.jpg]({{site.baseurl}}/assets/images/posts/dangerous.jpg)
-![fa.jpg]({{site.baseurl}}/assets/images/posts/fa.jpg)
 ![day.jpg]({{site.baseurl}}/assets/images/posts/day.jpg)
 ![fly.jpg]({{site.baseurl}}/assets/images/posts/fly.jpg)
 ![ab.jpg]({{site.baseurl}}/assets/images/posts/ab.jpg)
