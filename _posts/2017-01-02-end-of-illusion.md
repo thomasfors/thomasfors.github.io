@@ -24,7 +24,6 @@ feature: pnoj.jpg
 ![through.jpg]({{site.baseurl}}/assets/images/posts/through.jpg)
 ![HILMA.jpg]({{site.baseurl}}/assets/images/posts/HILMA.jpg)
 ![boy.jpg]({{site.baseurl}}/assets/images/posts/boy.jpg)
-
 ![yellow.jpg]({{site.baseurl}}/assets/images/posts/yellow.jpg)
 ![eys.jpg]({{site.baseurl}}/assets/images/posts/eys.jpg)
 ![destroy.jpg]({{site.baseurl}}/assets/images/posts/destroy.jpg)
