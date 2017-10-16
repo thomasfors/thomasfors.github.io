@@ -26,3 +26,5 @@ feature: pnoj.jpg
 ![boy.jpg]({{site.baseurl}}/assets/images/posts/boy.jpg)
 ![yellow.jpg]({{site.baseurl}}/assets/images/posts/yellow.jpg)
 ![eys.jpg]({{site.baseurl}}/assets/images/posts/eys.jpg)
+![destroy-(2).jpg]({{site.baseurl}}/assets/images/posts/destroy-(2).jpg)
+
