@@ -20,7 +20,6 @@ feature: pnoj.jpg
 ![lillith.jpg]({{site.baseurl}}/assets/images/posts/lillith.jpg)
 ![godrab.jpg]({{site.baseurl}}/assets/images/posts/godrab.jpg)
 ![ill.jpg]({{site.baseurl}}/assets/images/posts/ill.jpg)
-![gud.jpg]({{site.baseurl}}/assets/images/posts/gud.jpg)
 ![through.jpg]({{site.baseurl}}/assets/images/posts/through.jpg)
 ![MIN.jpg]({{site.baseurl}}/assets/images/posts/MIN.jpg)
 ![boy.jpg]({{site.baseurl}}/assets/images/posts/boy.jpg)
