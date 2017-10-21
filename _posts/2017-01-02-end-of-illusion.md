@@ -22,6 +22,7 @@ feature: pnoj.jpg
 ![ill.jpg]({{site.baseurl}}/assets/images/posts/ill.jpg)
 ![gud.jpg]({{site.baseurl}}/assets/images/posts/gud.jpg)
 ![through.jpg]({{site.baseurl}}/assets/images/posts/through.jpg)
+![MIN.jpg]({{site.baseurl}}/assets/images/posts/MIN.jpg)
 ![boy.jpg]({{site.baseurl}}/assets/images/posts/boy.jpg)
 ![yellow.jpg]({{site.baseurl}}/assets/images/posts/yellow.jpg)
 ![eys.jpg]({{site.baseurl}}/assets/images/posts/eys.jpg)
