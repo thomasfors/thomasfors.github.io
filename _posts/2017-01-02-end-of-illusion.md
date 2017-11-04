@@ -8,6 +8,7 @@ feature: pnoj.jpg
 ![mo.jpg]({{site.baseurl}}/assets/images/posts/mo.jpg)
 ![mnb.jpg]({{site.baseurl}}/assets/images/posts/mnb.jpg)
 ![sorry.jpg]({{site.baseurl}}/assets/images/posts/sorry.jpg)
+![gunga.jpg]({{site.baseurl}}/assets/images/posts/gunga.jpg)
 ![nu.jpg]({{site.baseurl}}/assets/images/posts/nu.jpg)
 ![GG.jpg]({{site.baseurl}}/assets/images/posts/GG.jpg)
 ![light.jpg]({{site.baseurl}}/assets/images/posts/light.jpg)
