@@ -19,7 +19,6 @@ feature: pnoj.jpg
 ![sens.jpg]({{site.baseurl}}/assets/images/posts/sens.jpg)
 ![ora.jpg]({{site.baseurl}}/assets/images/posts/ora.jpg)
 ![silver neddle.jpg]({{site.baseurl}}/assets/images/posts/silver neddle.jpg)
-![lillith.jpg]({{site.baseurl}}/assets/images/posts/lillith.jpg)
 ![godrab.jpg]({{site.baseurl}}/assets/images/posts/godrab.jpg)
 ![ill.jpg]({{site.baseurl}}/assets/images/posts/ill.jpg)
 ![through.jpg]({{site.baseurl}}/assets/images/posts/through.jpg)
