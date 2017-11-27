@@ -15,7 +15,7 @@ feature: jessicaface.jpg
 ![moderkort.jpg]({{site.baseurl}}/assets/images/posts/moderkort.jpg)
 ![kevin (2).jpg]({{site.baseurl}}/assets/images/posts/kevin (2).jpg)
 ![12g.jpg]({{site.baseurl}}/assets/images/posts/12g.jpg)
-
+![child.jpg]({{site.baseurl}}/assets/images/posts/child.jpg)
 ![MASSSK.jpg]({{site.baseurl}}/assets/images/posts/MASSSK.jpg)
 ![ENTRI.jpg]({{site.baseurl}}/assets/images/posts/ENTRI.jpg)
 ![HGCHFGH.jpg]({{site.baseurl}}/assets/images/posts/HGCHFGH.jpg)
