@@ -18,7 +18,6 @@ feature: jessicaface.jpg
 ![winter.jpg]({{site.baseurl}}/assets/images/posts/winter.jpg)
 ![AUTUM.jpg]({{site.baseurl}}/assets/images/posts/AUTUM.jpg)
 ![ash.jpg]({{site.baseurl}}/assets/images/posts/ash.jpg)
-![häxa.jpg]({{site.baseurl}}/assets/images/posts/häxa.jpg)
 ![day.jpg]({{site.baseurl}}/assets/images/posts/day.jpg)
 ![fly.jpg]({{site.baseurl}}/assets/images/posts/fly.jpg)
 ![i.gif]({{site.baseurl}}/assets/images/posts/i.gif)
