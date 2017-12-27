@@ -10,4 +10,4 @@ feature: symb.jpg
 ![2017.jpg]({{site.baseurl}}/assets/images/posts/2017.jpg)
 ![rebe.jpg]({{site.baseurl}}/assets/images/posts/rebe.jpg)
 ![heaven.jpg]({{site.baseurl}}/assets/images/posts/heaven.jpg)
-![room.jpg]({{site.baseurl}}/assets/images/posts/room.jpg)
+![kons.jpg]({{site.baseurl}}/assets/images/posts/kons.jpg)
