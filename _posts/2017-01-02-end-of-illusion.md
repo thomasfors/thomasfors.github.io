@@ -9,7 +9,7 @@ feature: pnoj.jpg
 ![tre.jpg]({{site.baseurl}}/assets/images/posts/tre.jpg)
 ![mnb.jpg]({{site.baseurl}}/assets/images/posts/mnb.jpg)
 ![gunga.jpg]({{site.baseurl}}/assets/images/posts/gunga.jpg)
-![nu.jpg]({{site.baseurl}}/assets/images/posts/nu.jpg)
+![DADA.jpg]({{site.baseurl}}/assets/images/posts/DADA.jpg)
 ![GG.jpg]({{site.baseurl}}/assets/images/posts/GG.jpg)
 ![light.jpg]({{site.baseurl}}/assets/images/posts/light.jpg)
 ![Woman.jpg]({{site.baseurl}}/assets/images/posts/Woman.jpg)
