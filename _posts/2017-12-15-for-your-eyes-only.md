@@ -6,6 +6,7 @@ feature: symb.jpg
 ---
 ![symb.jpg]({{site.baseurl}}/assets/images/posts/symb.jpg)
 ![ma.jpg]({{site.baseurl}}/assets/images/posts/ma.jpg)
+![må.jpg]({{site.baseurl}}/assets/images/posts/må.jpg)
 ![jeb.jpg]({{site.baseurl}}/assets/images/posts/jeb.jpg)
 ![raiiin.jpg]({{site.baseurl}}/assets/images/posts/raiiin.jpg)
 ![axpe.jpg]({{site.baseurl}}/assets/images/posts/axpe.jpg)
