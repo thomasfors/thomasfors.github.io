@@ -5,6 +5,7 @@ title: for your eyes only
 feature: symb.jpg
 ---
 ![symb.jpg]({{site.baseurl}}/assets/images/posts/symb.jpg)
+![waiting.jpg]({{site.baseurl}}/assets/images/posts/waiting.jpg)
 ![ma.jpg]({{site.baseurl}}/assets/images/posts/ma.jpg)
 ![må.jpg]({{site.baseurl}}/assets/images/posts/må.jpg)
 ![jeb.jpg]({{site.baseurl}}/assets/images/posts/jeb.jpg)
@@ -15,4 +16,3 @@ feature: symb.jpg
 ![heaven.jpg]({{site.baseurl}}/assets/images/posts/heaven.jpg)
 ![kons.jpg]({{site.baseurl}}/assets/images/posts/kons.jpg)
 ![hööööst.jpg]({{site.baseurl}}/assets/images/posts/hööööst.jpg)
-
