@@ -8,6 +8,7 @@ feature: symb.jpg
 ![form.jpg]({{site.baseurl}}/assets/images/posts/form.jpg)
 ![fast.jpg]({{site.baseurl}}/assets/images/posts/fast.jpg)
 ![wait.jpg]({{site.baseurl}}/assets/images/posts/wait.jpg)
+![eld-(3).jpg]({{site.baseurl}}/assets/images/posts/eld-(3).jpg)
 ![ma.jpg]({{site.baseurl}}/assets/images/posts/ma.jpg)
 ![må.jpg]({{site.baseurl}}/assets/images/posts/må.jpg)
 ![jeb.jpg]({{site.baseurl}}/assets/images/posts/jeb.jpg)
