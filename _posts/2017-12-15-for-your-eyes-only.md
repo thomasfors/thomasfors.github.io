@@ -7,7 +7,7 @@ feature: symb.jpg
 ![symb.jpg]({{site.baseurl}}/assets/images/posts/symb.jpg)
 ![nuc.jpg]({{site.baseurl}}/assets/images/posts/nuc.jpg)
 ![form.jpg]({{site.baseurl}}/assets/images/posts/form.jpg)
-![fast.jpg]({{site.baseurl}}/assets/images/posts/fast.jpg)
+![fas.jpg]({{site.baseurl}}/assets/images/posts/fas.jpg)
 ![wait.jpg]({{site.baseurl}}/assets/images/posts/wait.jpg)
 ![eld-(3).jpg]({{site.baseurl}}/assets/images/posts/eld-(3).jpg)
 ![ma.jpg]({{site.baseurl}}/assets/images/posts/ma.jpg)
