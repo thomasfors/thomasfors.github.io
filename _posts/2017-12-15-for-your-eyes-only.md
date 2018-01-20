@@ -7,7 +7,7 @@ feature: symb.jpg
 ![symb.jpg]({{site.baseurl}}/assets/images/posts/symb.jpg)
 ![nuc.jpg]({{site.baseurl}}/assets/images/posts/nuc.jpg)
 ![form.jpg]({{site.baseurl}}/assets/images/posts/form.jpg)
-![fas.jpg]({{site.baseurl}}/assets/images/posts/fas.jpg)
+![fastare.jpg]({{site.baseurl}}/assets/images/posts/fastare.jpg)
 ![wait.jpg]({{site.baseurl}}/assets/images/posts/wait.jpg)
 ![eld-(3).jpg]({{site.baseurl}}/assets/images/posts/eld-(3).jpg)
 ![ma.jpg]({{site.baseurl}}/assets/images/posts/ma.jpg)
@@ -20,4 +20,3 @@ feature: symb.jpg
 ![RIVER.jpg]({{site.baseurl}}/assets/images/posts/RIVER.jpg)
 ![heaven.jpg]({{site.baseurl}}/assets/images/posts/heaven.jpg)
 ![kons.jpg]({{site.baseurl}}/assets/images/posts/kons.jpg)
-
