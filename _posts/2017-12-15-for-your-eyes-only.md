@@ -7,7 +7,6 @@ feature: symb.jpg
 ![symb.jpg]({{site.baseurl}}/assets/images/posts/symb.jpg)
 ![BICEE.jpg]({{site.baseurl}}/assets/images/posts/BICEE.jpg)
 ![miiii.jpg]({{site.baseurl}}/assets/images/posts/miiii.jpg)
-![symbioss.jpg]({{site.baseurl}}/assets/images/posts/symbioss.jpg)
 ![nuc.jpg]({{site.baseurl}}/assets/images/posts/nuc.jpg)
 ![form.jpg]({{site.baseurl}}/assets/images/posts/form.jpg)
 ![fastare.jpg]({{site.baseurl}}/assets/images/posts/fastare.jpg)
