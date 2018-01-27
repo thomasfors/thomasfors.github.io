@@ -13,7 +13,6 @@ feature: symb.jpg
 ![wait.jpg]({{site.baseurl}}/assets/images/posts/wait.jpg)
 ![eld-(3).jpg]({{site.baseurl}}/assets/images/posts/eld-(3).jpg)
 ![ma.jpg]({{site.baseurl}}/assets/images/posts/ma.jpg)
-![må.jpg]({{site.baseurl}}/assets/images/posts/må.jpg)
 ![fulllll.jpg]({{site.baseurl}}/assets/images/posts/fulllll.jpg)
 ![jeb.jpg]({{site.baseurl}}/assets/images/posts/jeb.jpg)
 ![raiiin.jpg]({{site.baseurl}}/assets/images/posts/raiiin.jpg)
