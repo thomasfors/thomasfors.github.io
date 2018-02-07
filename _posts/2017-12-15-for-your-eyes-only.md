@@ -12,6 +12,7 @@ feature: symb.jpg
 ![form.jpg]({{site.baseurl}}/assets/images/posts/form.jpg)
 ![fastare.jpg]({{site.baseurl}}/assets/images/posts/fastare.jpg)
 ![wait.jpg]({{site.baseurl}}/assets/images/posts/wait.jpg)
+![lsdtt.jpg]({{site.baseurl}}/assets/images/posts/lsdtt.jpg)
 ![eld-(3).jpg]({{site.baseurl}}/assets/images/posts/eld-(3).jpg)
 ![ma.jpg]({{site.baseurl}}/assets/images/posts/ma.jpg)
 ![fulllll.jpg]({{site.baseurl}}/assets/images/posts/fulllll.jpg)
