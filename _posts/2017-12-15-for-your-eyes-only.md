@@ -6,8 +6,6 @@ feature: symb.jpg
 ---
 ![symb.jpg]({{site.baseurl}}/assets/images/posts/symb.jpg)
 ![URS.jpg]({{site.baseurl}}/assets/images/posts/URS.jpg)
-![tima.jpg]({{site.baseurl}}/assets/images/posts/tima.jpg)
-![BICEE.jpg]({{site.baseurl}}/assets/images/posts/BICEE.jpg)
 ![miiii.jpg]({{site.baseurl}}/assets/images/posts/miiii.jpg)
 ![nuc.jpg]({{site.baseurl}}/assets/images/posts/nuc.jpg)
 ![form.jpg]({{site.baseurl}}/assets/images/posts/form.jpg)
