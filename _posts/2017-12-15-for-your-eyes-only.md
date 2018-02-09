@@ -5,6 +5,7 @@ title: for your eyes only
 feature: symb.jpg
 ---
 ![symb.jpg]({{site.baseurl}}/assets/images/posts/symb.jpg)
+![excus.jpg]({{site.baseurl}}/assets/images/posts/excus.jpg)
 ![URS.jpg]({{site.baseurl}}/assets/images/posts/URS.jpg)
 ![miiii.jpg]({{site.baseurl}}/assets/images/posts/miiii.jpg)
 ![nuc.jpg]({{site.baseurl}}/assets/images/posts/nuc.jpg)
