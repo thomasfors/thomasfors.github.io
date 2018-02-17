@@ -19,6 +19,7 @@ feature: pnoj.jpg
 ![silver neddle.jpg]({{site.baseurl}}/assets/images/posts/silver neddle.jpg)
 ![godrab.jpg]({{site.baseurl}}/assets/images/posts/godrab.jpg)
 ![ill.jpg]({{site.baseurl}}/assets/images/posts/ill.jpg)
+![lsdtt.jpg]({{site.baseurl}}/assets/images/posts/lsdtt.jpg)
 ![through.jpg]({{site.baseurl}}/assets/images/posts/through.jpg)
 ![MIN.jpg]({{site.baseurl}}/assets/images/posts/MIN.jpg)
 ![boy.jpg]({{site.baseurl}}/assets/images/posts/boy.jpg)
