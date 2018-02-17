@@ -5,12 +5,12 @@ title: for your eyes only
 feature: symb.jpg
 ---
 ![symb.jpg]({{site.baseurl}}/assets/images/posts/symb.jpg)
-![youw.jpg]({{site.baseurl}}/assets/images/posts/youw.jpg)
 ![TUSE.jpg]({{site.baseurl}}/assets/images/posts/TUSE.jpg)
 ![excus.jpg]({{site.baseurl}}/assets/images/posts/excus.jpg)
 ![URS.jpg]({{site.baseurl}}/assets/images/posts/URS.jpg)
 ![miiii.jpg]({{site.baseurl}}/assets/images/posts/miiii.jpg)
 ![nuc.jpg]({{site.baseurl}}/assets/images/posts/nuc.jpg)
+![masssk.jpg]({{site.baseurl}}/assets/images/posts/masssk.jpg)
 ![form.jpg]({{site.baseurl}}/assets/images/posts/form.jpg)
 ![fastare.jpg]({{site.baseurl}}/assets/images/posts/fastare.jpg)
 ![wait.jpg]({{site.baseurl}}/assets/images/posts/wait.jpg)
