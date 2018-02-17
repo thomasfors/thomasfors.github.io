@@ -17,7 +17,6 @@ feature: symb.jpg
 ![eld-(3).jpg]({{site.baseurl}}/assets/images/posts/eld-(3).jpg)
 ![ma.jpg]({{site.baseurl}}/assets/images/posts/ma.jpg)
 ![fulllll.jpg]({{site.baseurl}}/assets/images/posts/fulllll.jpg)
-![jeb.jpg]({{site.baseurl}}/assets/images/posts/jeb.jpg)
 ![raiiin.jpg]({{site.baseurl}}/assets/images/posts/raiiin.jpg)
 ![axpe.jpg]({{site.baseurl}}/assets/images/posts/axpe.jpg)
 ![rebe.jpg]({{site.baseurl}}/assets/images/posts/rebe.jpg)
