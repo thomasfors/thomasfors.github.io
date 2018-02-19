@@ -10,7 +10,6 @@ feature: symb.jpg
 ![ursäkt.jpg]({{site.baseurl}}/assets/images/posts/ursäkt.jpg)
 ![miiii.jpg]({{site.baseurl}}/assets/images/posts/miiii.jpg)
 ![nuc.jpg]({{site.baseurl}}/assets/images/posts/nuc.jpg)
-![masssk.jpg]({{site.baseurl}}/assets/images/posts/masssk.jpg)
 ![form.jpg]({{site.baseurl}}/assets/images/posts/form.jpg)
 ![fastare.jpg]({{site.baseurl}}/assets/images/posts/fastare.jpg)
 ![wait.jpg]({{site.baseurl}}/assets/images/posts/wait.jpg)
