@@ -5,6 +5,7 @@ title: for your eyes only
 feature: symb.jpg
 ---
 ![symb.jpg]({{site.baseurl}}/assets/images/posts/symb.jpg)
+![underbed.jpg]({{site.baseurl}}/assets/images/posts/underbed.jpg)
 ![fuuuuun.jpg]({{site.baseurl}}/assets/images/posts/fuuuuun.jpg)
 ![naaativ.jpg]({{site.baseurl}}/assets/images/posts/naaativ.jpg)
 ![Cloudless_blue_sky.jpg]({{site.baseurl}}/assets/images/posts/Cloudless_blue_sky.jpg)
