@@ -26,7 +26,3 @@ feature: jessicaface.jpg
 ![ash.jpg]({{site.baseurl}}/assets/images/posts/ash.jpg)
 ![day.jpg]({{site.baseurl}}/assets/images/posts/day.jpg)
 ![fly.jpg]({{site.baseurl}}/assets/images/posts/fly.jpg)
-![i.gif]({{site.baseurl}}/assets/images/posts/i.gif)
-![ok.jpg]({{site.baseurl}}/assets/images/posts/ok.jpg)
-![ea.jpg]({{site.baseurl}}/assets/images/posts/ea.jpg)
-![dju.jpg]({{site.baseurl}}/assets/images/posts/dju.jpg)
