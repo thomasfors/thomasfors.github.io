@@ -4,10 +4,8 @@ published: true
 title: for your eyes only
 feature: symb.jpg
 ---
+![drum.jpg]({{site.baseurl}}/assets/images/posts/drum.jpg)
 ![symb.jpg]({{site.baseurl}}/assets/images/posts/symb.jpg)
-![money.jpg]({{site.baseurl}}/assets/images/posts/money.jpg)
-![poov.jpg]({{site.baseurl}}/assets/images/posts/poov.jpg)
-![underbed.jpg]({{site.baseurl}}/assets/images/posts/underbed.jpg)
 ![fuuuuun.jpg]({{site.baseurl}}/assets/images/posts/fuuuuun.jpg)
 ![naaativ.jpg]({{site.baseurl}}/assets/images/posts/naaativ.jpg)
 ![Cloudless_blue_sky.jpg]({{site.baseurl}}/assets/images/posts/Cloudless_blue_sky.jpg)
