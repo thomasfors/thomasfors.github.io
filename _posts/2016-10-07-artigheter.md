@@ -13,6 +13,7 @@ feature: jessicaface.jpg
 ![HOMO.jpg]({{site.baseurl}}/assets/images/posts/HOMO.jpg)
 ![af.jpg]({{site.baseurl}}/assets/images/posts/af.jpg)
 ![uniform.jpg]({{site.baseurl}}/assets/images/posts/uniform.jpg)
+![pov.jpg]({{site.baseurl}}/assets/images/posts/pov.jpg)
 ![bosses.jpg]({{site.baseurl}}/assets/images/posts/bosses.jpg)
 ![moderkort.jpg]({{site.baseurl}}/assets/images/posts/moderkort.jpg)
 ![kevin (2).jpg]({{site.baseurl}}/assets/images/posts/kevin (2).jpg)
