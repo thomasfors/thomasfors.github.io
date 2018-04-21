@@ -6,7 +6,7 @@ feature: symb.jpg
 ---
 ![drum.jpg]({{site.baseurl}}/assets/images/posts/drum.jpg)
 ![symb.jpg]({{site.baseurl}}/assets/images/posts/symb.jpg)
-![fuuuuun.jpg]({{site.baseurl}}/assets/images/posts/fuuuuun.jpg)
+![bubb.jpg]({{site.baseurl}}/assets/images/posts/bubb.jpg)
 ![naaativ.jpg]({{site.baseurl}}/assets/images/posts/naaativ.jpg)
 ![Cloudless_blue_sky.jpg]({{site.baseurl}}/assets/images/posts/Cloudless_blue_sky.jpg)
 ![sun.jpg]({{site.baseurl}}/assets/images/posts/sun.jpg)
