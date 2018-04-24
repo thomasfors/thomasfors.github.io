@@ -6,6 +6,7 @@ feature: symb.jpg
 ---
 ![drum.jpg]({{site.baseurl}}/assets/images/posts/drum.jpg)
 ![symb.jpg]({{site.baseurl}}/assets/images/posts/symb.jpg)
+![fiiine.jpg]({{site.baseurl}}/assets/images/posts/fiiine.jpg)
 ![bubb.jpg]({{site.baseurl}}/assets/images/posts/bubb.jpg)
 ![naaativ.jpg]({{site.baseurl}}/assets/images/posts/naaativ.jpg)
 ![Cloudless_blue_sky.jpg]({{site.baseurl}}/assets/images/posts/Cloudless_blue_sky.jpg)
@@ -29,4 +30,3 @@ feature: symb.jpg
 ![heaven.jpg]({{site.baseurl}}/assets/images/posts/heaven.jpg)
 ![kons.jpg]({{site.baseurl}}/assets/images/posts/kons.jpg)
 ![AT.jpg]({{site.baseurl}}/assets/images/posts/AT.jpg)
-
