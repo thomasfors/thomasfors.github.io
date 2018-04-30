@@ -6,7 +6,6 @@ feature: symb.jpg
 ---
 ![egen-måne.jpg]({{site.baseurl}}/assets/images/posts/egen-måne.jpg)
 ![drum.jpg]({{site.baseurl}}/assets/images/posts/drum.jpg)
-![cleanit.jpg]({{site.baseurl}}/assets/images/posts/cleanit.jpg)
 ![fiiine.jpg]({{site.baseurl}}/assets/images/posts/fiiine.jpg)
 ![bubb.jpg]({{site.baseurl}}/assets/images/posts/bubb.jpg)
 ![naaativ.jpg]({{site.baseurl}}/assets/images/posts/naaativ.jpg)
