@@ -4,7 +4,7 @@ published: true
 title: for your eyes only
 feature: symb.jpg
 ---
-![egen-måne.jpg]({{site.baseurl}}/assets/images/posts/egen-måne.jpg)
+![egen-måne-Recovered.jpg]({{site.baseurl}}/assets/images/posts/egen-måne-Recovered.jpg)
 ![drum.jpg]({{site.baseurl}}/assets/images/posts/drum.jpg)
 ![fiiine.jpg]({{site.baseurl}}/assets/images/posts/fiiine.jpg)
 ![bubb.jpg]({{site.baseurl}}/assets/images/posts/bubb.jpg)
