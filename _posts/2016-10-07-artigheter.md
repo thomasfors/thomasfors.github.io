@@ -15,6 +15,7 @@ feature: jessicaface.jpg
 ![uniform.jpg]({{site.baseurl}}/assets/images/posts/uniform.jpg)
 ![clean.jpg]({{site.baseurl}}/assets/images/posts/clean.jpg)
 ![pov.jpg]({{site.baseurl}}/assets/images/posts/pov.jpg)
+![arielea (2).jpg]({{site.baseurl}}/assets/images/posts/arielea (2).jpg)
 ![bosses.jpg]({{site.baseurl}}/assets/images/posts/bosses.jpg)
 ![moderkort.jpg]({{site.baseurl}}/assets/images/posts/moderkort.jpg)
 ![kevin (2).jpg]({{site.baseurl}}/assets/images/posts/kevin (2).jpg)
@@ -26,4 +27,4 @@ feature: jessicaface.jpg
 ![AUTUM.jpg]({{site.baseurl}}/assets/images/posts/AUTUM.jpg)
 ![ash.jpg]({{site.baseurl}}/assets/images/posts/ash.jpg)
 ![day.jpg]({{site.baseurl}}/assets/images/posts/day.jpg)
-![fly.jpg]({{site.baseurl}}/assets/images/posts/fly.jpg)
+
