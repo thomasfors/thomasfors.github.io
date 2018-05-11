@@ -11,8 +11,6 @@ feature: symb.jpg
 ![malgubbe.jpg]({{site.baseurl}}/assets/images/posts/malgubbe.jpg)
 ![drum.jpg]({{site.baseurl}}/assets/images/posts/drum.jpg)
 ![fiiine.jpg]({{site.baseurl}}/assets/images/posts/fiiine.jpg)
-![bubb.jpg]({{site.baseurl}}/assets/images/posts/bubb.jpg)
-![naaativ.jpg]({{site.baseurl}}/assets/images/posts/naaativ.jpg)
 ![Cloudless_blue_sky.jpg]({{site.baseurl}}/assets/images/posts/Cloudless_blue_sky.jpg)
 ![sun.jpg]({{site.baseurl}}/assets/images/posts/sun.jpg)
 ![TUSE.jpg]({{site.baseurl}}/assets/images/posts/TUSE.jpg)
