@@ -23,8 +23,4 @@ feature: jessicaface.jpg
 ![12g.jpg]({{site.baseurl}}/assets/images/posts/12g.jpg)
 ![child.jpg]({{site.baseurl}}/assets/images/posts/child.jpg)
 ![ENTRI.jpg]({{site.baseurl}}/assets/images/posts/ENTRI.jpg)
-![2012.jpg]({{site.baseurl}}/assets/images/posts/2012.jpg)
-![winter.jpg]({{site.baseurl}}/assets/images/posts/winter.jpg)
-![AUTUM.jpg]({{site.baseurl}}/assets/images/posts/AUTUM.jpg)
-![ash.jpg]({{site.baseurl}}/assets/images/posts/ash.jpg)
 ![day.jpg]({{site.baseurl}}/assets/images/posts/day.jpg)
