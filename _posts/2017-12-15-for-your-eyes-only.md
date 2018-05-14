@@ -15,7 +15,6 @@ feature: symb.jpg
 ![sun.jpg]({{site.baseurl}}/assets/images/posts/sun.jpg)
 ![TUSE.jpg]({{site.baseurl}}/assets/images/posts/TUSE.jpg)
 ![ursäkt.jpg]({{site.baseurl}}/assets/images/posts/ursäkt.jpg)
-![tratt.jpg]({{site.baseurl}}/assets/images/posts/tratt.jpg)
 ![nuc.jpg]({{site.baseurl}}/assets/images/posts/nuc.jpg)
 ![form.jpg]({{site.baseurl}}/assets/images/posts/form.jpg)
 ![fastare.jpg]({{site.baseurl}}/assets/images/posts/fastare.jpg)
