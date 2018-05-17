@@ -7,7 +7,6 @@ feature: symb.jpg
 ![stttttö.jpg]({{site.baseurl}}/assets/images/posts/stttttö.jpg)
 ![krown.jpg]({{site.baseurl}}/assets/images/posts/krown.jpg)
 ![fy.jpg]({{site.baseurl}}/assets/images/posts/fy.jpg)
-![aömkan.jpg]({{site.baseurl}}/assets/images/posts/aömkan.jpg)
 ![depp.jpg]({{site.baseurl}}/assets/images/posts/depp.jpg)
 ![malgubbe.jpg]({{site.baseurl}}/assets/images/posts/malgubbe.jpg)
 ![drum.jpg]({{site.baseurl}}/assets/images/posts/drum.jpg)
