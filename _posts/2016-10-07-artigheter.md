@@ -7,6 +7,7 @@ feature: jessicaface.jpg
 ![TODAY (2).jpg]({{site.baseurl}}/assets/images/posts/TODAY (2).jpg)
 ![money.jpg]({{site.baseurl}}/assets/images/posts/money.jpg)
 ![royal.jpg]({{site.baseurl}}/assets/images/posts/royal.jpg)
+![idiots.jpg]({{site.baseurl}}/assets/images/posts/idiots.jpg)
 ![ali.jpg]({{site.baseurl}}/assets/images/posts/ali.jpg)
 ![mons.jpg]({{site.baseurl}}/assets/images/posts/mons.jpg)
 ![PAR.jpg]({{site.baseurl}}/assets/images/posts/PAR.jpg)
