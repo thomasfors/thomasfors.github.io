@@ -6,7 +6,6 @@ feature: pnoj.jpg
 ---
 ![brown (3).jpg]({{site.baseurl}}/assets/images/posts/brown (3).jpg)
 ![tre.jpg]({{site.baseurl}}/assets/images/posts/tre.jpg)
-![mnb.jpg]({{site.baseurl}}/assets/images/posts/mnb.jpg)
 ![gunga.jpg]({{site.baseurl}}/assets/images/posts/gunga.jpg)
 ![DADA.jpg]({{site.baseurl}}/assets/images/posts/DADA.jpg)
 ![GG.jpg]({{site.baseurl}}/assets/images/posts/GG.jpg)
