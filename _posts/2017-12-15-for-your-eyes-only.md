@@ -5,6 +5,8 @@ title: for your eyes only
 feature: symb.jpg
 ---
 ![stttttö.jpg]({{site.baseurl}}/assets/images/posts/stttttö.jpg)
+![rendition1.jpg]({{site.baseurl}}/assets/images/posts/rendition1.jpg)
+![ashole-(2).jpg]({{site.baseurl}}/assets/images/posts/ashole-(2).jpg)
 ![krown.jpg]({{site.baseurl}}/assets/images/posts/krown.jpg)
 ![fy.jpg]({{site.baseurl}}/assets/images/posts/fy.jpg)
 ![depp.jpg]({{site.baseurl}}/assets/images/posts/depp.jpg)
