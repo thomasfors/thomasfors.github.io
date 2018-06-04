@@ -25,8 +25,6 @@ feature: symb.jpg
 ![ma.jpg]({{site.baseurl}}/assets/images/posts/ma.jpg)
 ![fulllll.jpg]({{site.baseurl}}/assets/images/posts/fulllll.jpg)
 ![raiiin.jpg]({{site.baseurl}}/assets/images/posts/raiiin.jpg)
-![axpe.jpg]({{site.baseurl}}/assets/images/posts/axpe.jpg)
-![rebe.jpg]({{site.baseurl}}/assets/images/posts/rebe.jpg)
 ![RIVER.jpg]({{site.baseurl}}/assets/images/posts/RIVER.jpg)
 ![heaven.jpg]({{site.baseurl}}/assets/images/posts/heaven.jpg)
 ![kons.jpg]({{site.baseurl}}/assets/images/posts/kons.jpg)
