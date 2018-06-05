@@ -6,6 +6,7 @@ feature: symb.jpg
 ---
 ![stttttö.jpg]({{site.baseurl}}/assets/images/posts/stttttö.jpg)
 ![brown.jpg]({{site.baseurl}}/assets/images/posts/brown.jpg)
+![trresa.jpg]({{site.baseurl}}/assets/images/posts/trresa.jpg)
 ![rendition1.jpg]({{site.baseurl}}/assets/images/posts/rendition1.jpg)
 ![ashole-(2).jpg]({{site.baseurl}}/assets/images/posts/ashole-(2).jpg)
 ![fy.jpg]({{site.baseurl}}/assets/images/posts/fy.jpg)
@@ -22,4 +23,3 @@ feature: symb.jpg
 ![fulllll.jpg]({{site.baseurl}}/assets/images/posts/fulllll.jpg)
 ![raiiin.jpg]({{site.baseurl}}/assets/images/posts/raiiin.jpg)
 ![kons.jpg]({{site.baseurl}}/assets/images/posts/kons.jpg)
-
