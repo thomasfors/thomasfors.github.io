@@ -9,8 +9,6 @@ feature: pnoj.jpg
 ![DADA.jpg]({{site.baseurl}}/assets/images/posts/DADA.jpg)
 ![GG.jpg]({{site.baseurl}}/assets/images/posts/GG.jpg)
 ![light.jpg]({{site.baseurl}}/assets/images/posts/light.jpg)
-![Woman.jpg]({{site.baseurl}}/assets/images/posts/Woman.jpg)
-![DVFG.gif]({{site.baseurl}}/assets/images/posts/DVFG.gif)
 ![re.gif]({{site.baseurl}}/assets/images/posts/re.gif)
 ![sens.jpg]({{site.baseurl}}/assets/images/posts/sens.jpg)
 ![ora.jpg]({{site.baseurl}}/assets/images/posts/ora.jpg)
