@@ -12,6 +12,7 @@ feature: symb.jpg
 ![fy.jpg]({{site.baseurl}}/assets/images/posts/fy.jpg)
 ![todag.jpg]({{site.baseurl}}/assets/images/posts/todag.jpg)
 ![depp.jpg]({{site.baseurl}}/assets/images/posts/depp.jpg)
+![illness.jpg]({{site.baseurl}}/assets/images/posts/illness.jpg)
 ![malgubbe.jpg]({{site.baseurl}}/assets/images/posts/malgubbe.jpg)
 ![sense.jpg]({{site.baseurl}}/assets/images/posts/sense.jpg)
 ![Cloudless_blue_sky.jpg]({{site.baseurl}}/assets/images/posts/Cloudless_blue_sky.jpg)
@@ -26,4 +27,3 @@ feature: symb.jpg
 ![kons.jpg]({{site.baseurl}}/assets/images/posts/kons.jpg)
 ![rabbb.jpg]({{site.baseurl}}/assets/images/posts/rabbb.jpg)
 ![stillhet.jpg]({{site.baseurl}}/assets/images/posts/stillhet.jpg)
-
