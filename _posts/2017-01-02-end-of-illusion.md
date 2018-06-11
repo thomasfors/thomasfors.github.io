@@ -17,6 +17,3 @@ feature: pnoj.jpg
 ![lsdtt.jpg]({{site.baseurl}}/assets/images/posts/lsdtt.jpg)
 ![through.jpg]({{site.baseurl}}/assets/images/posts/through.jpg)
 ![MIN.jpg]({{site.baseurl}}/assets/images/posts/MIN.jpg)
-![boy.jpg]({{site.baseurl}}/assets/images/posts/boy.jpg)
-![eys.jpg]({{site.baseurl}}/assets/images/posts/eys.jpg)
-![destroy-(2).jpg]({{site.baseurl}}/assets/images/posts/destroy-(2).jpg)
