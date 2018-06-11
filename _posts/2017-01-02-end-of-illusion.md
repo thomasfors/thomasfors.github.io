@@ -10,7 +10,6 @@ feature: pnoj.jpg
 ![GG.jpg]({{site.baseurl}}/assets/images/posts/GG.jpg)
 ![light.jpg]({{site.baseurl}}/assets/images/posts/light.jpg)
 ![re.gif]({{site.baseurl}}/assets/images/posts/re.gif)
-![sens.jpg]({{site.baseurl}}/assets/images/posts/sens.jpg)
 ![ora.jpg]({{site.baseurl}}/assets/images/posts/ora.jpg)
 ![silver neddle.jpg]({{site.baseurl}}/assets/images/posts/silver neddle.jpg)
 ![godrab.jpg]({{site.baseurl}}/assets/images/posts/godrab.jpg)
