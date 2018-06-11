@@ -8,8 +8,7 @@ feature: jessicaface.jpg
 ![krown.jpg]({{site.baseurl}}/assets/images/posts/krown.jpg)
 ![ali.jpg]({{site.baseurl}}/assets/images/posts/ali.jpg)
 ![mons.jpg]({{site.baseurl}}/assets/images/posts/mons.jpg)
-![PAR.jpg]({{site.baseurl}}/assets/images/posts/PAR.jpg)
-![HGCHFGH.jpg]({{site.baseurl}}/assets/images/posts/HGCHFGH.jpg)
+
 ![JES.jpg]({{site.baseurl}}/assets/images/posts/JES.jpg)
 ![HOMO.jpg]({{site.baseurl}}/assets/images/posts/HOMO.jpg)
 ![af.jpg]({{site.baseurl}}/assets/images/posts/af.jpg)
