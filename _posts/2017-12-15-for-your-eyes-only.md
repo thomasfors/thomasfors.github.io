@@ -21,5 +21,4 @@ feature: symb.jpg
 ![fastare.jpg]({{site.baseurl}}/assets/images/posts/fastare.jpg)
 ![wait.jpg]({{site.baseurl}}/assets/images/posts/wait.jpg)
 ![fulllll.jpg]({{site.baseurl}}/assets/images/posts/fulllll.jpg)
-![raiiin.jpg]({{site.baseurl}}/assets/images/posts/raiiin.jpg)
 ![kons.jpg]({{site.baseurl}}/assets/images/posts/kons.jpg)
