@@ -13,5 +13,4 @@ feature: pnoj.jpg
 ![ora.jpg]({{site.baseurl}}/assets/images/posts/ora.jpg)
 ![silver neddle.jpg]({{site.baseurl}}/assets/images/posts/silver neddle.jpg)
 ![godrab.jpg]({{site.baseurl}}/assets/images/posts/godrab.jpg)
-![ill.jpg]({{site.baseurl}}/assets/images/posts/ill.jpg)
 ![MIN.jpg]({{site.baseurl}}/assets/images/posts/MIN.jpg)
