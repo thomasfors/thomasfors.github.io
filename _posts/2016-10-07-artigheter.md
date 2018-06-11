@@ -4,7 +4,6 @@ published: true
 title: tao
 feature: jessicaface.jpg
 ---
-![TODAY (2).jpg]({{site.baseurl}}/assets/images/posts/TODAY (2).jpg)
 ![money.jpg]({{site.baseurl}}/assets/images/posts/money.jpg)
 ![krown.jpg]({{site.baseurl}}/assets/images/posts/krown.jpg)
 ![royal.jpg]({{site.baseurl}}/assets/images/posts/royal.jpg)
