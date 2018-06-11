@@ -12,6 +12,7 @@ feature: symb.jpg
 ![fy.jpg]({{site.baseurl}}/assets/images/posts/fy.jpg)
 ![depp.jpg]({{site.baseurl}}/assets/images/posts/depp.jpg)
 ![malgubbe.jpg]({{site.baseurl}}/assets/images/posts/malgubbe.jpg)
+![sense.jpg]({{site.baseurl}}/assets/images/posts/sense.jpg)
 ![Cloudless_blue_sky.jpg]({{site.baseurl}}/assets/images/posts/Cloudless_blue_sky.jpg)
 ![sun.jpg]({{site.baseurl}}/assets/images/posts/sun.jpg)
 ![TUSE.jpg]({{site.baseurl}}/assets/images/posts/TUSE.jpg)
