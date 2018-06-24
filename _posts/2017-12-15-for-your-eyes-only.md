@@ -14,6 +14,7 @@ feature: symb.jpg
 ![todag.jpg]({{site.baseurl}}/assets/images/posts/todag.jpg)
 ![depp.jpg]({{site.baseurl}}/assets/images/posts/depp.jpg)
 ![illness.jpg]({{site.baseurl}}/assets/images/posts/illness.jpg)
+![work.jpg]({{site.baseurl}}/assets/images/posts/work.jpg)
 ![bbeg.jpg]({{site.baseurl}}/assets/images/posts/bbeg.jpg)
 ![sense.jpg]({{site.baseurl}}/assets/images/posts/sense.jpg)
 ![Cloudless_blue_sky.jpg]({{site.baseurl}}/assets/images/posts/Cloudless_blue_sky.jpg)
