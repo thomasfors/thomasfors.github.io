@@ -8,6 +8,7 @@ feature: symb.jpg
 ![brown.jpg]({{site.baseurl}}/assets/images/posts/brown.jpg)
 ![turtelnew.jpg]({{site.baseurl}}/assets/images/posts/turtelnew.jpg)
 ![chi.jpg]({{site.baseurl}}/assets/images/posts/chi.jpg)
+![dram.jpg]({{site.baseurl}}/assets/images/posts/dram.jpg)
 ![00025716.jpg]({{site.baseurl}}/assets/images/posts/00025716.jpg)
 ![rendition1.jpg]({{site.baseurl}}/assets/images/posts/rendition1.jpg)
 ![ashole-(2).jpg]({{site.baseurl}}/assets/images/posts/ashole-(2).jpg)
