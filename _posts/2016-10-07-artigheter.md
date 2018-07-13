@@ -22,3 +22,6 @@ feature: jessicaface.jpg
 ![child.jpg]({{site.baseurl}}/assets/images/posts/child.jpg)
 ![ENTRI.jpg]({{site.baseurl}}/assets/images/posts/ENTRI.jpg)
 ![day.jpg]({{site.baseurl}}/assets/images/posts/day.jpg)
+![TUSE (2).jpg]({{site.baseurl}}/assets/images/posts/TUSE (2).jpg)
+![Cloudless_blue_sky (2).jpg]({{site.baseurl}}/assets/images/posts/Cloudless_blue_sky (2).jpg)
+
