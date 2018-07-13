@@ -9,6 +9,7 @@ feature: symb.jpg
 ![seee.jpg]({{site.baseurl}}/assets/images/posts/seee.jpg)
 ![chi.jpg]({{site.baseurl}}/assets/images/posts/chi.jpg)
 ![eldvad.jpg]({{site.baseurl}}/assets/images/posts/eldvad.jpg)
+![tramp.jpg]({{site.baseurl}}/assets/images/posts/tramp.jpg)
 ![dram.jpg]({{site.baseurl}}/assets/images/posts/dram.jpg)
 ![00025716.jpg]({{site.baseurl}}/assets/images/posts/00025716.jpg)
 ![rendition1.jpg]({{site.baseurl}}/assets/images/posts/rendition1.jpg)
