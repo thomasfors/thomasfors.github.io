@@ -19,7 +19,6 @@ feature: symb.jpg
 ![depp.jpg]({{site.baseurl}}/assets/images/posts/depp.jpg)
 ![illness.jpg]({{site.baseurl}}/assets/images/posts/illness.jpg)
 ![frei.jpg]({{site.baseurl}}/assets/images/posts/frei.jpg)
-![bbeg.jpg]({{site.baseurl}}/assets/images/posts/bbeg.jpg)
 ![sense.jpg]({{site.baseurl}}/assets/images/posts/sense.jpg)
 ![sun.jpg]({{site.baseurl}}/assets/images/posts/sun.jpg)
 ![ursäkt.jpg]({{site.baseurl}}/assets/images/posts/ursäkt.jpg)
