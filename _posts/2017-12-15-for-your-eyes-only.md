@@ -9,7 +9,7 @@ feature: symb.jpg
 ![seee.jpg]({{site.baseurl}}/assets/images/posts/seee.jpg)
 ![worrldd.jpg]({{site.baseurl}}/assets/images/posts/worrldd.jpg)
 ![chi.jpg]({{site.baseurl}}/assets/images/posts/chi.jpg)
-![geishaa.jpg]({{site.baseurl}}/assets/images/posts/geishaa.jpg)
+![geisha-pic.jpg]({{site.baseurl}}/assets/images/posts/geisha-pic.jpg)
 ![eldvad.jpg]({{site.baseurl}}/assets/images/posts/eldvad.jpg)
 ![tramp.jpg]({{site.baseurl}}/assets/images/posts/tramp.jpg)
 ![smul.jpg]({{site.baseurl}}/assets/images/posts/smul.jpg)
