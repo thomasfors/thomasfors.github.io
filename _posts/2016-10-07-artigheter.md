@@ -8,7 +8,6 @@ feature: jessicaface.jpg
 ![money.jpg]({{site.baseurl}}/assets/images/posts/money.jpg)
 ![krown.jpg]({{site.baseurl}}/assets/images/posts/krown.jpg)
 ![ali.jpg]({{site.baseurl}}/assets/images/posts/ali.jpg)
-![mons.jpg]({{site.baseurl}}/assets/images/posts/mons.jpg)
 ![silver.jpg]({{site.baseurl}}/assets/images/posts/silver.jpg)
 ![JES.jpg]({{site.baseurl}}/assets/images/posts/JES.jpg)
 ![HOMO.jpg]({{site.baseurl}}/assets/images/posts/HOMO.jpg)
@@ -24,4 +23,3 @@ feature: jessicaface.jpg
 ![day.jpg]({{site.baseurl}}/assets/images/posts/day.jpg)
 ![TUSE (2).jpg]({{site.baseurl}}/assets/images/posts/TUSE (2).jpg)
 ![Cloudless_blue_sky (2).jpg]({{site.baseurl}}/assets/images/posts/Cloudless_blue_sky (2).jpg)
-
