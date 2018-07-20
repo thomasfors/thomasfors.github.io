@@ -4,6 +4,8 @@ published: true
 title: tao
 feature: jessicaface.jpg
 ---
+![finne.jpg]({{site.baseurl}}/assets/images/posts/finne.jpg)
+![matrix.jpg]({{site.baseurl}}/assets/images/posts/matrix.jpg)
 ![form.jpg]({{site.baseurl}}/assets/images/posts/form.jpg)
 ![money.jpg]({{site.baseurl}}/assets/images/posts/money.jpg)
 ![krown.jpg]({{site.baseurl}}/assets/images/posts/krown.jpg)
