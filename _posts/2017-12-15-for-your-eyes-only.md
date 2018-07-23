@@ -16,6 +16,7 @@ feature: symb.jpg
 ![00025716.jpg]({{site.baseurl}}/assets/images/posts/00025716.jpg)
 ![awva.jpg]({{site.baseurl}}/assets/images/posts/awva.jpg)
 ![pov.jpg]({{site.baseurl}}/assets/images/posts/pov.jpg)
+![KUNG.jpg]({{site.baseurl}}/assets/images/posts/KUNG.jpg)
 ![rendition1.jpg]({{site.baseurl}}/assets/images/posts/rendition1.jpg)
 ![ashole-(2).jpg]({{site.baseurl}}/assets/images/posts/ashole-(2).jpg)
 ![fy.jpg]({{site.baseurl}}/assets/images/posts/fy.jpg)
