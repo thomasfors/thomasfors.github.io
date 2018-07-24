@@ -8,6 +8,7 @@ feature: jessicaface.jpg
 ![matrix.jpg]({{site.baseurl}}/assets/images/posts/matrix.jpg)
 ![form.jpg]({{site.baseurl}}/assets/images/posts/form.jpg)
 ![money.jpg]({{site.baseurl}}/assets/images/posts/money.jpg)
+![poov.jpg]({{site.baseurl}}/assets/images/posts/poov.jpg)
 ![krown.jpg]({{site.baseurl}}/assets/images/posts/krown.jpg)
 ![ali.jpg]({{site.baseurl}}/assets/images/posts/ali.jpg)
 ![silver.jpg]({{site.baseurl}}/assets/images/posts/silver.jpg)
@@ -27,4 +28,3 @@ feature: jessicaface.jpg
 ![Cloudless_blue_sky (2).jpg]({{site.baseurl}}/assets/images/posts/Cloudless_blue_sky (2).jpg)
 ![artstilla.jpg]({{site.baseurl}}/assets/images/posts/artstilla.jpg)
 ![HILMA.jpg]({{site.baseurl}}/assets/images/posts/HILMA.jpg)
-
