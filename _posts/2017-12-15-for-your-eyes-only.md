@@ -14,8 +14,6 @@ feature: symb.jpg
 ![smul.jpg]({{site.baseurl}}/assets/images/posts/smul.jpg)
 ![cobtrri.jpg]({{site.baseurl}}/assets/images/posts/cobtrri.jpg)
 ![00025716.jpg]({{site.baseurl}}/assets/images/posts/00025716.jpg)
-![awva.jpg]({{site.baseurl}}/assets/images/posts/awva.jpg)
-![pov.jpg]({{site.baseurl}}/assets/images/posts/pov.jpg)
 ![KUNG.jpg]({{site.baseurl}}/assets/images/posts/KUNG.jpg)
 ![rendition1.jpg]({{site.baseurl}}/assets/images/posts/rendition1.jpg)
 ![ashole-(2).jpg]({{site.baseurl}}/assets/images/posts/ashole-(2).jpg)
@@ -33,3 +31,5 @@ feature: symb.jpg
 ![rabbb.jpg]({{site.baseurl}}/assets/images/posts/rabbb.jpg)
 ![stillhet.jpg]({{site.baseurl}}/assets/images/posts/stillhet.jpg)
 ![reeef.jpg]({{site.baseurl}}/assets/images/posts/reeef.jpg)
+![awva.jpg]({{site.baseurl}}/assets/images/posts/awva.jpg)
+
