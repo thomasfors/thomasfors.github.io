@@ -9,8 +9,8 @@ feature: symb.jpg
 ![worrldd.jpg]({{site.baseurl}}/assets/images/posts/worrldd.jpg)
 ![chi.jpg]({{site.baseurl}}/assets/images/posts/chi.jpg)
 ![geisha-pic.jpg]({{site.baseurl}}/assets/images/posts/geisha-pic.jpg)
-
 ![smul.jpg]({{site.baseurl}}/assets/images/posts/smul.jpg)
+![sovereignty.jpg]({{site.baseurl}}/assets/images/posts/sovereignty.jpg)
 ![abondab.jpg]({{site.baseurl}}/assets/images/posts/abondab.jpg)
 ![cobtrri.jpg]({{site.baseurl}}/assets/images/posts/cobtrri.jpg)
 ![00025716.jpg]({{site.baseurl}}/assets/images/posts/00025716.jpg)
