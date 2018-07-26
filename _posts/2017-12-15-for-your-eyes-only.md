@@ -13,6 +13,7 @@ feature: symb.jpg
 ![sovereignty.jpg]({{site.baseurl}}/assets/images/posts/sovereignty.jpg)
 ![abondab.jpg]({{site.baseurl}}/assets/images/posts/abondab.jpg)
 ![cobtrri.jpg]({{site.baseurl}}/assets/images/posts/cobtrri.jpg)
+![whatever.jpg]({{site.baseurl}}/assets/images/posts/whatever.jpg)
 ![00025716.jpg]({{site.baseurl}}/assets/images/posts/00025716.jpg)
 ![rendition1.jpg]({{site.baseurl}}/assets/images/posts/rendition1.jpg)
 ![ashole-(2).jpg]({{site.baseurl}}/assets/images/posts/ashole-(2).jpg)
