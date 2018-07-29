@@ -14,7 +14,6 @@ feature: symb.jpg
 ![cobtrri.jpg]({{site.baseurl}}/assets/images/posts/cobtrri.jpg)
 ![whatever.jpg]({{site.baseurl}}/assets/images/posts/whatever.jpg)
 ![cccnn.jpg]({{site.baseurl}}/assets/images/posts/cccnn.jpg)
-![cnnn.jpg]({{site.baseurl}}/assets/images/posts/cnnn.jpg)
 ![00025716.jpg]({{site.baseurl}}/assets/images/posts/00025716.jpg)
 ![rendition1.jpg]({{site.baseurl}}/assets/images/posts/rendition1.jpg)
 ![ashole-(2).jpg]({{site.baseurl}}/assets/images/posts/ashole-(2).jpg)
