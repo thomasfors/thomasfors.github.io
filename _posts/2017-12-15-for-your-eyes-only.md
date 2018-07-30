@@ -26,7 +26,6 @@ feature: symb.jpg
 ![law.jpg]({{site.baseurl}}/assets/images/posts/law.jpg)
 ![sense.jpg]({{site.baseurl}}/assets/images/posts/sense.jpg)
 ![sun.jpg]({{site.baseurl}}/assets/images/posts/sun.jpg)
-![ursäkt.jpg]({{site.baseurl}}/assets/images/posts/ursäkt.jpg)
 ![nuc.jpg]({{site.baseurl}}/assets/images/posts/nuc.jpg)
 ![fastare.jpg]({{site.baseurl}}/assets/images/posts/fastare.jpg)
 ![wait.jpg]({{site.baseurl}}/assets/images/posts/wait.jpg)
