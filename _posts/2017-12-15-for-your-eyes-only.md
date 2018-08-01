@@ -8,7 +8,6 @@ feature: symb.jpg
 ![brown.jpg]({{site.baseurl}}/assets/images/posts/brown.jpg)
 ![artistisk.jpg]({{site.baseurl}}/assets/images/posts/artistisk.jpg)
 ![field3.jpg]({{site.baseurl}}/assets/images/posts/field3.jpg)
-![husmus.jpg]({{site.baseurl}}/assets/images/posts/husmus.jpg)
 ![worrldd.jpg]({{site.baseurl}}/assets/images/posts/worrldd.jpg)
 ![chi.jpg]({{site.baseurl}}/assets/images/posts/chi.jpg)
 ![geisha-pic.jpg]({{site.baseurl}}/assets/images/posts/geisha-pic.jpg)
