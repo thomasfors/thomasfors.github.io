@@ -15,7 +15,6 @@ feature: symb.jpg
 ![sovereignty.jpg]({{site.baseurl}}/assets/images/posts/sovereignty.jpg)
 ![abondab.jpg]({{site.baseurl}}/assets/images/posts/abondab.jpg)
 ![cobtrri.jpg]({{site.baseurl}}/assets/images/posts/cobtrri.jpg)
-![whatever.jpg]({{site.baseurl}}/assets/images/posts/whatever.jpg)
 ![battth.jpg]({{site.baseurl}}/assets/images/posts/battth.jpg)
 ![cccnn.jpg]({{site.baseurl}}/assets/images/posts/cccnn.jpg)
 ![00025716.jpg]({{site.baseurl}}/assets/images/posts/00025716.jpg)
