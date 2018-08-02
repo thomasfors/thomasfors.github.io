@@ -6,10 +6,9 @@ feature: symb.jpg
 ---
 ![stttttö.jpg]({{site.baseurl}}/assets/images/posts/stttttö.jpg)
 ![brown.jpg]({{site.baseurl}}/assets/images/posts/brown.jpg)
-![arrti.jpg]({{site.baseurl}}/assets/images/posts/arrti.jpg)
+![arti6.jpg]({{site.baseurl}}/assets/images/posts/arti6.jpg)
 ![field3.jpg]({{site.baseurl}}/assets/images/posts/field3.jpg)
-![worrldd.jpg]({{site.baseurl}}/assets/images/posts/worrldd.jpg)
-![chi.jpg]({{site.baseurl}}/assets/images/posts/chi.jpg)
+![mascara.jpg]({{site.baseurl}}/assets/images/posts/mascara.jpg)
 ![geisha-pic.jpg]({{site.baseurl}}/assets/images/posts/geisha-pic.jpg)
 ![sovereignty.jpg]({{site.baseurl}}/assets/images/posts/sovereignty.jpg)
 ![abondab.jpg]({{site.baseurl}}/assets/images/posts/abondab.jpg)
