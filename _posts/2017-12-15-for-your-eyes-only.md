@@ -9,6 +9,7 @@ feature: symb.jpg
 ![arti6.jpg]({{site.baseurl}}/assets/images/posts/arti6.jpg)
 ![field3.jpg]({{site.baseurl}}/assets/images/posts/field3.jpg)
 ![girll.jpg]({{site.baseurl}}/assets/images/posts/girll.jpg)
+![DU SOM.jpg]({{site.baseurl}}/assets/images/posts/DU SOM.jpg)
 ![geisha-pic.jpg]({{site.baseurl}}/assets/images/posts/geisha-pic.jpg)
 ![sovereignty.jpg]({{site.baseurl}}/assets/images/posts/sovereignty.jpg)
 ![abondab.jpg]({{site.baseurl}}/assets/images/posts/abondab.jpg)
