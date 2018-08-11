@@ -32,5 +32,3 @@ feature: symb.jpg
 ![kons.jpg]({{site.baseurl}}/assets/images/posts/kons.jpg)
 ![rabbb.jpg]({{site.baseurl}}/assets/images/posts/rabbb.jpg)
 ![stillhet.jpg]({{site.baseurl}}/assets/images/posts/stillhet.jpg)
-![reeef.jpg]({{site.baseurl}}/assets/images/posts/reeef.jpg)
-![awva.jpg]({{site.baseurl}}/assets/images/posts/awva.jpg)
