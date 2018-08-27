@@ -12,7 +12,6 @@ feature: symb.jpg
 ![DU SOM.jpg]({{site.baseurl}}/assets/images/posts/DU SOM.jpg)
 ![geisha-pic.jpg]({{site.baseurl}}/assets/images/posts/geisha-pic.jpg)
 ![sovereignty.jpg]({{site.baseurl}}/assets/images/posts/sovereignty.jpg)
-![abondab.jpg]({{site.baseurl}}/assets/images/posts/abondab.jpg)
 ![väg.jpg]({{site.baseurl}}/assets/images/posts/väg.jpg)
 ![cobtrri.jpg]({{site.baseurl}}/assets/images/posts/cobtrri.jpg)
 ![caaree.jpg]({{site.baseurl}}/assets/images/posts/caaree.jpg)
