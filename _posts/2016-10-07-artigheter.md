@@ -5,6 +5,7 @@ title: tao
 feature: jessicaface.jpg
 ---
 ![diino.jpg]({{site.baseurl}}/assets/images/posts/diino.jpg)
+![bgrund.jpg]({{site.baseurl}}/assets/images/posts/bgrund.jpg)
 ![li.jpg]({{site.baseurl}}/assets/images/posts/li.jpg)
 ![humus.jpg]({{site.baseurl}}/assets/images/posts/humus.jpg)
 ![finne.jpg]({{site.baseurl}}/assets/images/posts/finne.jpg)
