@@ -7,7 +7,7 @@ feature: symb.jpg
 ![stttttö.jpg]({{site.baseurl}}/assets/images/posts/stttttö.jpg)
 ![brown.jpg]({{site.baseurl}}/assets/images/posts/brown.jpg)
 ![LLYX.jpg]({{site.baseurl}}/assets/images/posts/LLYX.jpg)
-![arti6.jpg]({{site.baseurl}}/assets/images/posts/arti6.jpg)
+![jjal.jpg]({{site.baseurl}}/assets/images/posts/jjal.jpg)
 ![field4.jpg]({{site.baseurl}}/assets/images/posts/field4.jpg)
 ![DU SOM.jpg]({{site.baseurl}}/assets/images/posts/DU SOM.jpg)
 ![geisha-pic.jpg]({{site.baseurl}}/assets/images/posts/geisha-pic.jpg)
