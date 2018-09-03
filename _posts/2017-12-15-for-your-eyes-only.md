@@ -11,6 +11,7 @@ feature: symb.jpg
 ![field4.jpg]({{site.baseurl}}/assets/images/posts/field4.jpg)
 ![DU SOM.jpg]({{site.baseurl}}/assets/images/posts/DU SOM.jpg)
 ![geisha-pic.jpg]({{site.baseurl}}/assets/images/posts/geisha-pic.jpg)
+![chi.jpg]({{site.baseurl}}/assets/images/posts/chi.jpg)
 ![sovereignty.jpg]({{site.baseurl}}/assets/images/posts/sovereignty.jpg)
 ![väg.jpg]({{site.baseurl}}/assets/images/posts/väg.jpg)
 ![cobtrri.jpg]({{site.baseurl}}/assets/images/posts/cobtrri.jpg)
