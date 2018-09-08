@@ -19,7 +19,6 @@ feature: jessicaface.jpg
 ![uniform.jpg]({{site.baseurl}}/assets/images/posts/uniform.jpg)
 ![bosses.jpg]({{site.baseurl}}/assets/images/posts/bosses.jpg)
 ![laww.jpg]({{site.baseurl}}/assets/images/posts/laww.jpg)
-![moderkort.jpg]({{site.baseurl}}/assets/images/posts/moderkort.jpg)
 ![MIN.jpg]({{site.baseurl}}/assets/images/posts/MIN.jpg)
 ![kevin (2).jpg]({{site.baseurl}}/assets/images/posts/kevin (2).jpg)
 ![12g.jpg]({{site.baseurl}}/assets/images/posts/12g.jpg)
