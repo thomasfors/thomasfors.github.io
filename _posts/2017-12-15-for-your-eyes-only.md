@@ -6,6 +6,7 @@ feature: symb.jpg
 ---
 ![stttttö.jpg]({{site.baseurl}}/assets/images/posts/stttttö.jpg)
 ![brown.jpg]({{site.baseurl}}/assets/images/posts/brown.jpg)
+![wellrest.jpg]({{site.baseurl}}/assets/images/posts/wellrest.jpg)
 ![mara.jpg]({{site.baseurl}}/assets/images/posts/mara.jpg)
 ![LLYX.jpg]({{site.baseurl}}/assets/images/posts/LLYX.jpg)
 ![fut.jpg]({{site.baseurl}}/assets/images/posts/fut.jpg)
