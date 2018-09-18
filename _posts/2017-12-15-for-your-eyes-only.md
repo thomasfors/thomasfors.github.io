@@ -6,8 +6,7 @@ feature: symb.jpg
 ---
 ![stttttö.jpg]({{site.baseurl}}/assets/images/posts/stttttö.jpg)
 ![brown.jpg]({{site.baseurl}}/assets/images/posts/brown.jpg)
-![fu.jpg]({{site.baseurl}}/assets/images/posts/fu.jpg)
-![wellrest.jpg]({{site.baseurl}}/assets/images/posts/wellrest.jpg)
+![DREMCATCHER.jpg]({{site.baseurl}}/assets/images/posts/DREMCATCHER.jpg)
 ![mara.jpg]({{site.baseurl}}/assets/images/posts/mara.jpg)
 ![LLYX.jpg]({{site.baseurl}}/assets/images/posts/LLYX.jpg)
 ![sovereignty.jpg]({{site.baseurl}}/assets/images/posts/sovereignty.jpg)
