@@ -15,6 +15,7 @@ feature: symb.jpg
 ![cobtrri.jpg]({{site.baseurl}}/assets/images/posts/cobtrri.jpg)
 ![caaree.jpg]({{site.baseurl}}/assets/images/posts/caaree.jpg)
 ![whatever.jpg]({{site.baseurl}}/assets/images/posts/whatever.jpg)
+![weather.jpg]({{site.baseurl}}/assets/images/posts/weather.jpg)
 ![00025716.jpg]({{site.baseurl}}/assets/images/posts/00025716.jpg)
 ![rendition1.jpg]({{site.baseurl}}/assets/images/posts/rendition1.jpg)
 ![ashole-(2).jpg]({{site.baseurl}}/assets/images/posts/ashole-(2).jpg)
