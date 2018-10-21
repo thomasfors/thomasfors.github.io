@@ -11,6 +11,7 @@ feature: symb.jpg
 ![sovereignty.jpg]({{site.baseurl}}/assets/images/posts/sovereignty.jpg)
 ![nipponn.jpg]({{site.baseurl}}/assets/images/posts/nipponn.jpg)
 ![benedetta.jpg]({{site.baseurl}}/assets/images/posts/benedetta.jpg)
+![herta.jpg]({{site.baseurl}}/assets/images/posts/herta.jpg)
 ![field4.jpg]({{site.baseurl}}/assets/images/posts/field4.jpg)
 ![väg.jpg]({{site.baseurl}}/assets/images/posts/väg.jpg)
 ![cobtrri.jpg]({{site.baseurl}}/assets/images/posts/cobtrri.jpg)
