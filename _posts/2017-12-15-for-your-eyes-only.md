@@ -6,6 +6,7 @@ feature: symb.jpg
 ---
 ![stttttö.jpg]({{site.baseurl}}/assets/images/posts/stttttö.jpg)
 ![brown.jpg]({{site.baseurl}}/assets/images/posts/brown.jpg)
+![parat.jpg]({{site.baseurl}}/assets/images/posts/parat.jpg)
 ![DREMCATCHER.jpg]({{site.baseurl}}/assets/images/posts/DREMCATCHER.jpg)
 ![LLYX.jpg]({{site.baseurl}}/assets/images/posts/LLYX.jpg)
 ![sovereignty.jpg]({{site.baseurl}}/assets/images/posts/sovereignty.jpg)
