@@ -9,6 +9,7 @@ feature: symb.jpg
 ![ppor.jpg]({{site.baseurl}}/assets/images/posts/ppor.jpg)
 ![DREMCATCHER.jpg]({{site.baseurl}}/assets/images/posts/DREMCATCHER.jpg)
 ![LLYX.jpg]({{site.baseurl}}/assets/images/posts/LLYX.jpg)
+![gid.jpg]({{site.baseurl}}/assets/images/posts/gid.jpg)
 ![sovereignty.jpg]({{site.baseurl}}/assets/images/posts/sovereignty.jpg)
 ![benedetta.jpg]({{site.baseurl}}/assets/images/posts/benedetta.jpg)
 ![kall.jpg]({{site.baseurl}}/assets/images/posts/kall.jpg)
