@@ -10,8 +10,6 @@ feature: symb.jpg
 ![LLYX.jpg]({{site.baseurl}}/assets/images/posts/LLYX.jpg)
 ![gid.jpg]({{site.baseurl}}/assets/images/posts/gid.jpg)
 ![sovereignty.jpg]({{site.baseurl}}/assets/images/posts/sovereignty.jpg)
-![benedetta.jpg]({{site.baseurl}}/assets/images/posts/benedetta.jpg)
-![kall.jpg]({{site.baseurl}}/assets/images/posts/kall.jpg)
 ![herta.jpg]({{site.baseurl}}/assets/images/posts/herta.jpg)
 ![field4.jpg]({{site.baseurl}}/assets/images/posts/field4.jpg)
 ![väg.jpg]({{site.baseurl}}/assets/images/posts/väg.jpg)
