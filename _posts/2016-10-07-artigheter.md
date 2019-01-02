@@ -26,8 +26,5 @@ feature: jessicaface.jpg
 ![12g.jpg]({{site.baseurl}}/assets/images/posts/12g.jpg)
 ![child.jpg]({{site.baseurl}}/assets/images/posts/child.jpg)
 ![ENTRI.jpg]({{site.baseurl}}/assets/images/posts/ENTRI.jpg)
-![day.jpg]({{site.baseurl}}/assets/images/posts/day.jpg)
-![TUSE (2).jpg]({{site.baseurl}}/assets/images/posts/TUSE (2).jpg)
-![artstilla.jpg]({{site.baseurl}}/assets/images/posts/artstilla.jpg)
 ![HILMA.jpg]({{site.baseurl}}/assets/images/posts/HILMA.jpg)
-![framtid.jpg]({{site.baseurl}}/assets/images/posts/framtid.jpg)
+
