@@ -16,7 +16,6 @@ feature: symb.jpg
 ![väg.jpg]({{site.baseurl}}/assets/images/posts/väg.jpg)
 ![cobtrri.jpg]({{site.baseurl}}/assets/images/posts/cobtrri.jpg)
 ![caaree.jpg]({{site.baseurl}}/assets/images/posts/caaree.jpg)
-![whatever.jpg]({{site.baseurl}}/assets/images/posts/whatever.jpg)
 ![weather.jpg]({{site.baseurl}}/assets/images/posts/weather.jpg)
 ![ttro.jpg]({{site.baseurl}}/assets/images/posts/ttro.jpg)
 ![00025716.jpg]({{site.baseurl}}/assets/images/posts/00025716.jpg)
