@@ -27,7 +27,6 @@ feature: symb.jpg
 ![frei.jpg]({{site.baseurl}}/assets/images/posts/frei.jpg)
 ![sense.jpg]({{site.baseurl}}/assets/images/posts/sense.jpg)
 ![worrldd-(2).jpg]({{site.baseurl}}/assets/images/posts/worrldd-(2).jpg)
-![sun.jpg]({{site.baseurl}}/assets/images/posts/sun.jpg)
 ![nuc.jpg]({{site.baseurl}}/assets/images/posts/nuc.jpg)
 ![fastare.jpg]({{site.baseurl}}/assets/images/posts/fastare.jpg)
 ![wait.jpg]({{site.baseurl}}/assets/images/posts/wait.jpg)
