@@ -4,6 +4,7 @@ published: true
 title: tao
 feature: jessicaface.jpg
 ---
+![borg.jpg]({{site.baseurl}}/assets/images/posts/borg.jpg)
 ![fg.jpg]({{site.baseurl}}/assets/images/posts/fg.jpg)
 ![ggrave.jpg]({{site.baseurl}}/assets/images/posts/ggrave.jpg)
 ![flykting-Recovered.jpg]({{site.baseurl}}/assets/images/posts/flykting-Recovered.jpg)
