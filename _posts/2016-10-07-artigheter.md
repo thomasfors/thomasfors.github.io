@@ -4,6 +4,7 @@ published: true
 title: tao
 feature: jessicaface.jpg
 ---
+![slaveri.jpg]({{site.baseurl}}/assets/images/posts/slaveri.jpg)
 ![borg.jpg]({{site.baseurl}}/assets/images/posts/borg.jpg)
 ![fg.jpg]({{site.baseurl}}/assets/images/posts/fg.jpg)
 ![juunk.jpg]({{site.baseurl}}/assets/images/posts/juunk.jpg)
