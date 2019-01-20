@@ -8,6 +8,8 @@ feature: symb.jpg
 ![ppor.jpg]({{site.baseurl}}/assets/images/posts/ppor.jpg)
 ![DREMCATCHER.jpg]({{site.baseurl}}/assets/images/posts/DREMCATCHER.jpg)
 ![LLYX.jpg]({{site.baseurl}}/assets/images/posts/LLYX.jpg)
+![eartyui.jpg]({{site.baseurl}}/assets/images/posts/eartyui.jpg)
+![kubii.jpg]({{site.baseurl}}/assets/images/posts/kubii.jpg)
 ![ssleep.jpg]({{site.baseurl}}/assets/images/posts/ssleep.jpg)
 ![r.jpg]({{site.baseurl}}/assets/images/posts/r.jpg)
 ![sovereignty.jpg]({{site.baseurl}}/assets/images/posts/sovereignty.jpg)
