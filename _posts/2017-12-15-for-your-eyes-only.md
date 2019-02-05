@@ -10,6 +10,7 @@ feature: symb.jpg
 ![LLYX.jpg]({{site.baseurl}}/assets/images/posts/LLYX.jpg)
 ![eartyui.jpg]({{site.baseurl}}/assets/images/posts/eartyui.jpg)
 ![sien.jpg]({{site.baseurl}}/assets/images/posts/sien.jpg)
+![abs.jpg]({{site.baseurl}}/assets/images/posts/abs.jpg)
 ![kubii.jpg]({{site.baseurl}}/assets/images/posts/kubii.jpg)
 ![ssleep.jpg]({{site.baseurl}}/assets/images/posts/ssleep.jpg)
 ![sovereignty.jpg]({{site.baseurl}}/assets/images/posts/sovereignty.jpg)
