@@ -13,6 +13,7 @@ feature: symb.jpg
 ![abs.jpg]({{site.baseurl}}/assets/images/posts/abs.jpg)
 ![kubii.jpg]({{site.baseurl}}/assets/images/posts/kubii.jpg)
 ![ssleep.jpg]({{site.baseurl}}/assets/images/posts/ssleep.jpg)
+![sstair.jpg]({{site.baseurl}}/assets/images/posts/sstair.jpg)
 ![sovereignty.jpg]({{site.baseurl}}/assets/images/posts/sovereignty.jpg)
 ![herta.jpg]({{site.baseurl}}/assets/images/posts/herta.jpg)
 ![dmfort.jpg]({{site.baseurl}}/assets/images/posts/dmfort.jpg)
