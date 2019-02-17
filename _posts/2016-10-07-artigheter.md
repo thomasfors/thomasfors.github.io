@@ -12,7 +12,6 @@ feature: jessicaface.jpg
 ![slaveri.jpg]({{site.baseurl}}/assets/images/posts/slaveri.jpg)
 ![borg.jpg]({{site.baseurl}}/assets/images/posts/borg.jpg)
 ![fg.jpg]({{site.baseurl}}/assets/images/posts/fg.jpg)
-![juunk.jpg]({{site.baseurl}}/assets/images/posts/juunk.jpg)
 ![ggrave.jpg]({{site.baseurl}}/assets/images/posts/ggrave.jpg)
 ![flykting-Recovered.jpg]({{site.baseurl}}/assets/images/posts/flykting-Recovered.jpg)
 ![torrrka.jpg]({{site.baseurl}}/assets/images/posts/torrrka.jpg)
