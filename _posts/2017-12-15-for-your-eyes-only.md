@@ -28,6 +28,5 @@ feature: symb.jpg
 ![sense.jpg]({{site.baseurl}}/assets/images/posts/sense.jpg)
 ![nuc.jpg]({{site.baseurl}}/assets/images/posts/nuc.jpg)
 ![uunccon.jpg]({{site.baseurl}}/assets/images/posts/uunccon.jpg)
-![wait.jpg]({{site.baseurl}}/assets/images/posts/wait.jpg)
-![kons.jpg]({{site.baseurl}}/assets/images/posts/kons.jpg)
-![cittyroaad.jpg]({{site.baseurl}}/assets/images/posts/cittyroaad.jpg)
+![robot.jpg]({{site.baseurl}}/assets/images/posts/robot.jpg)
+
