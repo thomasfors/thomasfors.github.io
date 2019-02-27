@@ -5,6 +5,7 @@ title: tao
 feature: jessicaface.jpg
 ---
 ![clowwn.jpg]({{site.baseurl}}/assets/images/posts/clowwn.jpg)
+![kato.jpg]({{site.baseurl}}/assets/images/posts/kato.jpg)
 ![gold.jpg]({{site.baseurl}}/assets/images/posts/gold.jpg)
 ![vinn.jpg]({{site.baseurl}}/assets/images/posts/vinn.jpg)
 ![ppoor.jpg]({{site.baseurl}}/assets/images/posts/ppoor.jpg)
