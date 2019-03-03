@@ -8,6 +8,7 @@ feature: symb.jpg
 ![ppor.jpg]({{site.baseurl}}/assets/images/posts/ppor.jpg)
 ![LLYX.jpg]({{site.baseurl}}/assets/images/posts/LLYX.jpg)
 ![eartyui.jpg]({{site.baseurl}}/assets/images/posts/eartyui.jpg)
+![alpa.jpg]({{site.baseurl}}/assets/images/posts/alpa.jpg)
 ![ccaage.jpg]({{site.baseurl}}/assets/images/posts/ccaage.jpg)
 ![sien.jpg]({{site.baseurl}}/assets/images/posts/sien.jpg)
 ![aeriessa.jpg]({{site.baseurl}}/assets/images/posts/aeriessa.jpg)
@@ -29,4 +30,3 @@ feature: symb.jpg
 ![nuc.jpg]({{site.baseurl}}/assets/images/posts/nuc.jpg)
 ![uunccon.jpg]({{site.baseurl}}/assets/images/posts/uunccon.jpg)
 ![robot.jpg]({{site.baseurl}}/assets/images/posts/robot.jpg)
-
