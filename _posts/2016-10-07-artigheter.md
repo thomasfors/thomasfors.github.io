@@ -4,6 +4,7 @@ published: true
 title: tao
 feature: jessicaface.jpg
 ---
+![meat.jpg]({{site.baseurl}}/assets/images/posts/meat.jpg)
 ![clowwn.jpg]({{site.baseurl}}/assets/images/posts/clowwn.jpg)
 ![kato.jpg]({{site.baseurl}}/assets/images/posts/kato.jpg)
 ![gold.jpg]({{site.baseurl}}/assets/images/posts/gold.jpg)
