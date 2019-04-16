@@ -23,5 +23,5 @@ feature: symb.jpg
 ![illness.jpg]({{site.baseurl}}/assets/images/posts/illness.jpg)
 ![frei.jpg]({{site.baseurl}}/assets/images/posts/frei.jpg)
 ![sense.jpg]({{site.baseurl}}/assets/images/posts/sense.jpg)
-![nuc.jpg]({{site.baseurl}}/assets/images/posts/nuc.jpg)
+![rela.jpg]({{site.baseurl}}/assets/images/posts/rela.jpg)
 ![relatio.jpg]({{site.baseurl}}/assets/images/posts/relatio.jpg)
