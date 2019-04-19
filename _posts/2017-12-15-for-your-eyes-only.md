@@ -9,8 +9,6 @@ feature: symb.jpg
 ![ppor.jpg]({{site.baseurl}}/assets/images/posts/ppor.jpg)
 ![LLYX.jpg]({{site.baseurl}}/assets/images/posts/LLYX.jpg)
 ![skruva.jpg]({{site.baseurl}}/assets/images/posts/skruva.jpg)
-![i ammm.jpg]({{site.baseurl}}/assets/images/posts/i ammm.jpg)
-![force.jpg]({{site.baseurl}}/assets/images/posts/force.jpg)
 ![meats-copy.jpg]({{site.baseurl}}/assets/images/posts/meats-copy.jpg)
 ![sovereignty.jpg]({{site.baseurl}}/assets/images/posts/sovereignty.jpg)
 ![dmfort.jpg]({{site.baseurl}}/assets/images/posts/dmfort.jpg)
