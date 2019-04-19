@@ -22,4 +22,3 @@ feature: symb.jpg
 ![frei.jpg]({{site.baseurl}}/assets/images/posts/frei.jpg)
 ![sense.jpg]({{site.baseurl}}/assets/images/posts/sense.jpg)
 ![rela.jpg]({{site.baseurl}}/assets/images/posts/rela.jpg)
-![relatio.jpg]({{site.baseurl}}/assets/images/posts/relatio.jpg)
