@@ -5,10 +5,8 @@ title: tao
 feature: jessicaface.jpg
 ---
 ![GRETT.jpg]({{site.baseurl}}/assets/images/posts/GRETT.jpg)
-![dop.jpg]({{site.baseurl}}/assets/images/posts/dop.jpg)
-![meat.jpg]({{site.baseurl}}/assets/images/posts/meat.jpg)
-![clowwn.jpg]({{site.baseurl}}/assets/images/posts/clowwn.jpg)
-![kato.jpg]({{site.baseurl}}/assets/images/posts/kato.jpg)
+![öken_a.jpg]({{site.baseurl}}/assets/images/posts/öken_a.jpg)
+![TODAY.jpg]({{site.baseurl}}/assets/images/posts/TODAY.jpg)
 ![gold.jpg]({{site.baseurl}}/assets/images/posts/gold.jpg)
 ![vinn.jpg]({{site.baseurl}}/assets/images/posts/vinn.jpg)
 ![ppoor.jpg]({{site.baseurl}}/assets/images/posts/ppoor.jpg)
