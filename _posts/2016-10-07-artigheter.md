@@ -9,6 +9,7 @@ feature: jessicaface.jpg
 ![TODAY.jpg]({{site.baseurl}}/assets/images/posts/TODAY.jpg)
 ![gold.jpg]({{site.baseurl}}/assets/images/posts/gold.jpg)
 ![vinn.jpg]({{site.baseurl}}/assets/images/posts/vinn.jpg)
+![povv.jpg]({{site.baseurl}}/assets/images/posts/povv.jpg)
 ![ppoor.jpg]({{site.baseurl}}/assets/images/posts/ppoor.jpg)
 ![dirreg.jpg]({{site.baseurl}}/assets/images/posts/dirreg.jpg)
 ![borg.jpg]({{site.baseurl}}/assets/images/posts/borg.jpg)
