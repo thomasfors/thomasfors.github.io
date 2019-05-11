@@ -11,6 +11,8 @@ feature: symb.jpg
 ![LLYX.jpg]({{site.baseurl}}/assets/images/posts/LLYX.jpg)
 ![ariiie.jpg]({{site.baseurl}}/assets/images/posts/ariiie.jpg)
 ![skruva.jpg]({{site.baseurl}}/assets/images/posts/skruva.jpg)
+![agent.jpg]({{site.baseurl}}/assets/images/posts/agent.jpg)
+![oceaan.jpg]({{site.baseurl}}/assets/images/posts/oceaan.jpg)
 ![ssky.jpg]({{site.baseurl}}/assets/images/posts/ssky.jpg)
 ![meats-copy.jpg]({{site.baseurl}}/assets/images/posts/meats-copy.jpg)
 ![sovereignty.jpg]({{site.baseurl}}/assets/images/posts/sovereignty.jpg)
