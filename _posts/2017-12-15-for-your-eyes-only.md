@@ -6,7 +6,7 @@ feature: symb.jpg
 ---
 ![CYBE3RT.jpg]({{site.baseurl}}/assets/images/posts/CYBE3RT.jpg)
 ![beginning-of-nature.jpg]({{site.baseurl}}/assets/images/posts/beginning-of-nature.jpg)
-![knocka.jpg]({{site.baseurl}}/assets/images/posts/knocka.jpg)
+![aaby.jpg]({{site.baseurl}}/assets/images/posts/aaby.jpg)
 ![focus.jpg]({{site.baseurl}}/assets/images/posts/focus.jpg)
 ![ppor.jpg]({{site.baseurl}}/assets/images/posts/ppor.jpg)
 ![LLYX.jpg]({{site.baseurl}}/assets/images/posts/LLYX.jpg)
