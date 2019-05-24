@@ -4,6 +4,7 @@ published: true
 title: tao
 feature: jessicaface.jpg
 ---
+![röst.jpg]({{site.baseurl}}/assets/images/posts/röst.jpg)
 ![wait.jpg]({{site.baseurl}}/assets/images/posts/wait.jpg)
 ![CYB.jpg]({{site.baseurl}}/assets/images/posts/CYB.jpg)
 ![GRETT.jpg]({{site.baseurl}}/assets/images/posts/GRETT.jpg)
