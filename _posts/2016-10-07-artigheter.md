@@ -33,3 +33,6 @@ feature: jessicaface.jpg
 ![child.jpg]({{site.baseurl}}/assets/images/posts/child.jpg)
 ![ENTRI.jpg]({{site.baseurl}}/assets/images/posts/ENTRI.jpg)
 ![HILMA.jpg]({{site.baseurl}}/assets/images/posts/HILMA.jpg)
+![pris.jpg]({{site.baseurl}}/assets/images/posts/pris.jpg)
+
+
