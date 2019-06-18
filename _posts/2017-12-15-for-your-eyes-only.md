@@ -33,5 +33,4 @@ feature: symb.jpg
 ![eyess.jpg]({{site.baseurl}}/assets/images/posts/eyess.jpg)
 ![illness.jpg]({{site.baseurl}}/assets/images/posts/illness.jpg)
 ![frei.jpg]({{site.baseurl}}/assets/images/posts/frei.jpg)
-![sense.jpg]({{site.baseurl}}/assets/images/posts/sense.jpg)
 ![nuc (2).jpg]({{site.baseurl}}/assets/images/posts/nuc (2).jpg)
