@@ -12,6 +12,7 @@ feature: symb.jpg
 ![DREAAAM.jpg]({{site.baseurl}}/assets/images/posts/DREAAAM.jpg)
 ![bbadth.jpg]({{site.baseurl}}/assets/images/posts/bbadth.jpg)
 ![aaby.jpg]({{site.baseurl}}/assets/images/posts/aaby.jpg)
+![vhurch.jpg]({{site.baseurl}}/assets/images/posts/vhurch.jpg)
 ![fe.jpg]({{site.baseurl}}/assets/images/posts/fe.jpg)
 ![knarka.jpg]({{site.baseurl}}/assets/images/posts/knarka.jpg)
 ![focus.jpg]({{site.baseurl}}/assets/images/posts/focus.jpg)
