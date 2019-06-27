@@ -17,6 +17,7 @@ feature: jessicaface.jpg
 ![povv.jpg]({{site.baseurl}}/assets/images/posts/povv.jpg)
 ![ppoor.jpg]({{site.baseurl}}/assets/images/posts/ppoor.jpg)
 ![dirreg.jpg]({{site.baseurl}}/assets/images/posts/dirreg.jpg)
+![FUCTARY.jpg]({{site.baseurl}}/assets/images/posts/FUCTARY.jpg)
 ![borg.jpg]({{site.baseurl}}/assets/images/posts/borg.jpg)
 ![fg.jpg]({{site.baseurl}}/assets/images/posts/fg.jpg)
 ![flykting-Recovered.jpg]({{site.baseurl}}/assets/images/posts/flykting-Recovered.jpg)
