@@ -4,6 +4,7 @@ published: true
 title: for your eyes only
 feature: symb.jpg
 ---
+![sleep.jpg]({{site.baseurl}}/assets/images/posts/sleep.jpg)
 ![CHAN.jpg]({{site.baseurl}}/assets/images/posts/CHAN.jpg)
 ![colla.jpg]({{site.baseurl}}/assets/images/posts/colla.jpg)
 ![TRAIN.jpg]({{site.baseurl}}/assets/images/posts/TRAIN.jpg)
