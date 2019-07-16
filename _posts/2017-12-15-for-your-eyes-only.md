@@ -13,6 +13,7 @@ feature: symb.jpg
 ![beginning-of-nature.jpg]({{site.baseurl}}/assets/images/posts/beginning-of-nature.jpg)
 ![prisson.jpg]({{site.baseurl}}/assets/images/posts/prisson.jpg)
 ![DREAAAM.jpg]({{site.baseurl}}/assets/images/posts/DREAAAM.jpg)
+![snake.jpg]({{site.baseurl}}/assets/images/posts/snake.jpg)
 ![bbadth.jpg]({{site.baseurl}}/assets/images/posts/bbadth.jpg)
 ![aaby.jpg]({{site.baseurl}}/assets/images/posts/aaby.jpg)
 ![tr'dgård.jpg]({{site.baseurl}}/assets/images/posts/tr'dgård.jpg)
