@@ -20,7 +20,7 @@ feature: symb.jpg
 ![knarka.jpg]({{site.baseurl}}/assets/images/posts/knarka.jpg)
 ![focus.jpg]({{site.baseurl}}/assets/images/posts/focus.jpg)
 ![ppor.jpg]({{site.baseurl}}/assets/images/posts/ppor.jpg)
-![LLYX.jpg]({{site.baseurl}}/assets/images/posts/LLYX.jpg)
+![JYX.jpg]({{site.baseurl}}/assets/images/posts/JYX.jpg)
 ![skruva.jpg]({{site.baseurl}}/assets/images/posts/skruva.jpg)
 ![agent.jpg]({{site.baseurl}}/assets/images/posts/agent.jpg)
 ![oceaan.jpg]({{site.baseurl}}/assets/images/posts/oceaan.jpg)
