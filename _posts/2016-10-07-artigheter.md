@@ -13,7 +13,7 @@ feature: jessicaface.jpg
 ![öken_a.jpg]({{site.baseurl}}/assets/images/posts/öken_a.jpg)
 ![TODAY.jpg]({{site.baseurl}}/assets/images/posts/TODAY.jpg)
 ![gold.jpg]({{site.baseurl}}/assets/images/posts/gold.jpg)
-![vinn.jpg]({{site.baseurl}}/assets/images/posts/vinn.jpg)
+![lyxx.jpg]({{site.baseurl}}/assets/images/posts/lyxx.jpg)
 ![povv.jpg]({{site.baseurl}}/assets/images/posts/povv.jpg)
 ![ppoor.jpg]({{site.baseurl}}/assets/images/posts/ppoor.jpg)
 ![dirreg.jpg]({{site.baseurl}}/assets/images/posts/dirreg.jpg)
