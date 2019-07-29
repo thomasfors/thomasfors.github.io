@@ -27,6 +27,7 @@ feature: symb.jpg
 ![ssky.jpg]({{site.baseurl}}/assets/images/posts/ssky.jpg)
 ![rrobot.jpg]({{site.baseurl}}/assets/images/posts/rrobot.jpg)
 ![meats-copy.jpg]({{site.baseurl}}/assets/images/posts/meats-copy.jpg)
+![tatata.jpg]({{site.baseurl}}/assets/images/posts/tatata.jpg)
 ![sovereignty.jpg]({{site.baseurl}}/assets/images/posts/sovereignty.jpg)
 ![dmfort.jpg]({{site.baseurl}}/assets/images/posts/dmfort.jpg)
 ![field4.jpg]({{site.baseurl}}/assets/images/posts/field4.jpg)
