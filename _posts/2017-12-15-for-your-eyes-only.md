@@ -6,8 +6,6 @@ feature: symb.jpg
 ---
 ![dan.jpg]({{site.baseurl}}/assets/images/posts/dan.jpg)
 ![sleep.jpg]({{site.baseurl}}/assets/images/posts/sleep.jpg)
-![CHAN.jpg]({{site.baseurl}}/assets/images/posts/CHAN.jpg)
-![colla.jpg]({{site.baseurl}}/assets/images/posts/colla.jpg)
 ![TRAIN.jpg]({{site.baseurl}}/assets/images/posts/TRAIN.jpg)
 ![agee.jpg]({{site.baseurl}}/assets/images/posts/agee.jpg)
 ![beginning-of-nature.jpg]({{site.baseurl}}/assets/images/posts/beginning-of-nature.jpg)
