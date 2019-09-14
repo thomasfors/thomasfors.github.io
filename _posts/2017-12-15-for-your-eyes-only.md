@@ -4,9 +4,9 @@ published: true
 title: for your eyes only
 feature: symb.jpg
 ---
-![dan.jpg]({{site.baseurl}}/assets/images/posts/dan.jpg)
+![7-dance.jpg]({{site.baseurl}}/assets/images/posts/7-dance.jpg)
 ![sleep.jpg]({{site.baseurl}}/assets/images/posts/sleep.jpg)
-![go.jpg]({{site.baseurl}}/assets/images/posts/go.jpg)
+![goggogota.jpg]({{site.baseurl}}/assets/images/posts/goggogota.jpg)
 ![kassum.jpg]({{site.baseurl}}/assets/images/posts/kassum.jpg)
 ![TRAIN.jpg]({{site.baseurl}}/assets/images/posts/TRAIN.jpg)
 ![agee.jpg]({{site.baseurl}}/assets/images/posts/agee.jpg)
