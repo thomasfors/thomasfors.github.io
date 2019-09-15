@@ -12,7 +12,7 @@ feature: symb.jpg
 ![agee.jpg]({{site.baseurl}}/assets/images/posts/agee.jpg)
 ![beginning-of-nature.jpg]({{site.baseurl}}/assets/images/posts/beginning-of-nature.jpg)
 ![prisson.jpg]({{site.baseurl}}/assets/images/posts/prisson.jpg)
-![DREAAAM.jpg]({{site.baseurl}}/assets/images/posts/DREAAAM.jpg)
+![AMMAN.jpg]({{site.baseurl}}/assets/images/posts/AMMAN.jpg)
 ![9,3-snake.jpg]({{site.baseurl}}/assets/images/posts/9,3-snake.jpg)
 ![bbadth.jpg]({{site.baseurl}}/assets/images/posts/bbadth.jpg)
 ![aaby.jpg]({{site.baseurl}}/assets/images/posts/aaby.jpg)
