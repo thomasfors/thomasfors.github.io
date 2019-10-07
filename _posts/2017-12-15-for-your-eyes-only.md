@@ -5,7 +5,6 @@ title: for your eyes only
 feature: symb.jpg
 ---
 ![7-dance.jpg]({{site.baseurl}}/assets/images/posts/7-dance.jpg)
-![sleep.jpg]({{site.baseurl}}/assets/images/posts/sleep.jpg)
 ![blå.jpg]({{site.baseurl}}/assets/images/posts/blå.jpg)
 ![kasu.jpg]({{site.baseurl}}/assets/images/posts/kasu.jpg)
 ![TRAIN.jpg]({{site.baseurl}}/assets/images/posts/TRAIN.jpg)
