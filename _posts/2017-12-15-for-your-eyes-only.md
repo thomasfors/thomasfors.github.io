@@ -19,8 +19,6 @@ feature: symb.jpg
 ![ppor.jpg]({{site.baseurl}}/assets/images/posts/ppor.jpg)
 ![JYX.jpg]({{site.baseurl}}/assets/images/posts/JYX.jpg)
 ![skruva.jpg]({{site.baseurl}}/assets/images/posts/skruva.jpg)
-![agent.jpg]({{site.baseurl}}/assets/images/posts/agent.jpg)
-![oceaan.jpg]({{site.baseurl}}/assets/images/posts/oceaan.jpg)
 ![ssky.jpg]({{site.baseurl}}/assets/images/posts/ssky.jpg)
 ![rrobot.jpg]({{site.baseurl}}/assets/images/posts/rrobot.jpg)
 ![meats-copy.jpg]({{site.baseurl}}/assets/images/posts/meats-copy.jpg)
