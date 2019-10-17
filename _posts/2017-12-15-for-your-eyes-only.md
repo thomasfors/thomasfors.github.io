@@ -4,7 +4,7 @@ published: true
 title: for your eyes only
 feature: symb.jpg
 ---
-![angel.jpg]({{site.baseurl}}/assets/images/posts/angel.jpg)
+![ange.jpg]({{site.baseurl}}/assets/images/posts/ange.jpg)
 ![7-dance.jpg]({{site.baseurl}}/assets/images/posts/7-dance.jpg)
 ![blå.jpg]({{site.baseurl}}/assets/images/posts/blå.jpg)
 ![kasu.jpg]({{site.baseurl}}/assets/images/posts/kasu.jpg)
