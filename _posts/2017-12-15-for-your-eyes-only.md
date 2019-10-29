@@ -5,6 +5,7 @@ title: for your eyes only
 feature: symb.jpg
 ---
 ![kasuma.jpg]({{site.baseurl}}/assets/images/posts/kasuma.jpg)
+![6-sleep.jpg]({{site.baseurl}}/assets/images/posts/6-sleep.jpg)
 ![father.jpg]({{site.baseurl}}/assets/images/posts/father.jpg)
 ![starve.jpg]({{site.baseurl}}/assets/images/posts/starve.jpg)
 ![7,4-lyx-copy.jpg]({{site.baseurl}}/assets/images/posts/7,4-lyx-copy.jpg)
@@ -28,5 +29,3 @@ feature: symb.jpg
 ![igo.jpg]({{site.baseurl}}/assets/images/posts/igo.jpg)
 ![work.jpg]({{site.baseurl}}/assets/images/posts/work.jpg)
 ![fir.jpg]({{site.baseurl}}/assets/images/posts/fir.jpg)
-
-
