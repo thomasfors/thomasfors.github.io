@@ -13,7 +13,7 @@ feature: jessicaface.jpg
 ![TODAY.jpg]({{site.baseurl}}/assets/images/posts/TODAY.jpg)
 ![lyyx.jpg]({{site.baseurl}}/assets/images/posts/lyyx.jpg)
 ![star.jpg]({{site.baseurl}}/assets/images/posts/star.jpg)
-![borg.jpg]({{site.baseurl}}/assets/images/posts/borg.jpg)
+![borgs.jpg]({{site.baseurl}}/assets/images/posts/borgs.jpg)
 ![fg.jpg]({{site.baseurl}}/assets/images/posts/fg.jpg)
 ![flykting-Recovered.jpg]({{site.baseurl}}/assets/images/posts/flykting-Recovered.jpg)
 ![torrrka.jpg]({{site.baseurl}}/assets/images/posts/torrrka.jpg)
