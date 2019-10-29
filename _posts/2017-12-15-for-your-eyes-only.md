@@ -14,6 +14,8 @@ feature: symb.jpg
 ![9-age.jpg]({{site.baseurl}}/assets/images/posts/9-age.jpg)
 ![dull.jpg]({{site.baseurl}}/assets/images/posts/dull.jpg)
 ![draakar.jpg]({{site.baseurl}}/assets/images/posts/draakar.jpg)
+![7-dance.jpg]({{site.baseurl}}/assets/images/posts/7-dance.jpg)
+![2,1-comfort.jpg]({{site.baseurl}}/assets/images/posts/2,1-comfort.jpg)
 
 
 ![illness.jpg]({{site.baseurl}}/assets/images/posts/illness.jpg)
