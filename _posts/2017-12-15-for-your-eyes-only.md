@@ -25,6 +25,7 @@ feature: symb.jpg
 ![fy.jpg]({{site.baseurl}}/assets/images/posts/fy.jpg)
 ![the-end.jpg]({{site.baseurl}}/assets/images/posts/the-end.jpg)
 ![holliday.jpg]({{site.baseurl}}/assets/images/posts/holliday.jpg)
+![op.jpg]({{site.baseurl}}/assets/images/posts/op.jpg)
 ![illness.jpg]({{site.baseurl}}/assets/images/posts/illness.jpg)
 ![igo.jpg]({{site.baseurl}}/assets/images/posts/igo.jpg)
 ![work.jpg]({{site.baseurl}}/assets/images/posts/work.jpg)
