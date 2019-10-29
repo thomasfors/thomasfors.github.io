@@ -11,6 +11,9 @@ feature: symb.jpg
 ![meltingg.jpg]({{site.baseurl}}/assets/images/posts/meltingg.jpg)
 ![bakgrund.jpg]({{site.baseurl}}/assets/images/posts/bakgrund.jpg)
 ![free.jpg]({{site.baseurl}}/assets/images/posts/free.jpg)
+![9-age.jpg]({{site.baseurl}}/assets/images/posts/9-age.jpg)
+![dull.jpg]({{site.baseurl}}/assets/images/posts/dull.jpg)
+![draakar.jpg]({{site.baseurl}}/assets/images/posts/draakar.jpg)
 
 
 ![illness.jpg]({{site.baseurl}}/assets/images/posts/illness.jpg)
