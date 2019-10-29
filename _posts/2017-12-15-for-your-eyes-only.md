@@ -6,6 +6,7 @@ feature: symb.jpg
 ---
 ![kasuma.jpg]({{site.baseurl}}/assets/images/posts/kasuma.jpg)
 ![6-sleep.jpg]({{site.baseurl}}/assets/images/posts/6-sleep.jpg)
+![4-world.jpg]({{site.baseurl}}/assets/images/posts/4-world.jpg)
 ![father.jpg]({{site.baseurl}}/assets/images/posts/father.jpg)
 ![starve.jpg]({{site.baseurl}}/assets/images/posts/starve.jpg)
 ![7,4-lyx-copy.jpg]({{site.baseurl}}/assets/images/posts/7,4-lyx-copy.jpg)
