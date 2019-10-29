@@ -17,7 +17,6 @@ feature: jessicaface.jpg
 ![oil.jpg]({{site.baseurl}}/assets/images/posts/oil.jpg)
 ![passing.jpg]({{site.baseurl}}/assets/images/posts/passing.jpg)
 ![co2.jpg]({{site.baseurl}}/assets/images/posts/co2.jpg)
-
 ![finne.jpg]({{site.baseurl}}/assets/images/posts/finne.jpg)
 ![matrix.jpg]({{site.baseurl}}/assets/images/posts/matrix.jpg)
 ![bubble.jpg]({{site.baseurl}}/assets/images/posts/bubble.jpg)
@@ -26,6 +25,4 @@ feature: jessicaface.jpg
 ![kevin (2).jpg]({{site.baseurl}}/assets/images/posts/kevin (2).jpg)
 ![12g.jpg]({{site.baseurl}}/assets/images/posts/12g.jpg)
 ![child.jpg]({{site.baseurl}}/assets/images/posts/child.jpg)
-![ENTRI.jpg]({{site.baseurl}}/assets/images/posts/ENTRI.jpg)
 ![HILMA.jpg]({{site.baseurl}}/assets/images/posts/HILMA.jpg)
-![pris.jpg]({{site.baseurl}}/assets/images/posts/pris.jpg)
