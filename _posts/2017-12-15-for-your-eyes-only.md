@@ -4,6 +4,7 @@ published: true
 title: for your eyes only
 feature: symb.jpg
 ---
+![kasuma.jpg]({{site.baseurl}}/assets/images/posts/kasuma.jpg)
 ![father.jpg]({{site.baseurl}}/assets/images/posts/father.jpg)
 ![starve.jpg]({{site.baseurl}}/assets/images/posts/starve.jpg)
 ![7,4-lyx-copy.jpg]({{site.baseurl}}/assets/images/posts/7,4-lyx-copy.jpg)
@@ -16,6 +17,10 @@ feature: symb.jpg
 ![draakar.jpg]({{site.baseurl}}/assets/images/posts/draakar.jpg)
 ![7-dance.jpg]({{site.baseurl}}/assets/images/posts/7-dance.jpg)
 ![2,1-comfort.jpg]({{site.baseurl}}/assets/images/posts/2,1-comfort.jpg)
+![blau.jpg]({{site.baseurl}}/assets/images/posts/blau.jpg)
+![china.jpg]({{site.baseurl}}/assets/images/posts/china.jpg)
+![less.jpg]({{site.baseurl}}/assets/images/posts/less.jpg)
+![dior.jpg]({{site.baseurl}}/assets/images/posts/dior.jpg)
 
 
 ![illness.jpg]({{site.baseurl}}/assets/images/posts/illness.jpg)
