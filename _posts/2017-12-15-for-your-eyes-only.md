@@ -21,7 +21,12 @@ feature: symb.jpg
 ![china.jpg]({{site.baseurl}}/assets/images/posts/china.jpg)
 ![less.jpg]({{site.baseurl}}/assets/images/posts/less.jpg)
 ![dior.jpg]({{site.baseurl}}/assets/images/posts/dior.jpg)
-
-
+![fy.jpg]({{site.baseurl}}/assets/images/posts/fy.jpg)
+![the-end.jpg]({{site.baseurl}}/assets/images/posts/the-end.jpg)
+![holliday.jpg]({{site.baseurl}}/assets/images/posts/holliday.jpg)
 ![illness.jpg]({{site.baseurl}}/assets/images/posts/illness.jpg)
+![igo.jpg]({{site.baseurl}}/assets/images/posts/igo.jpg)
+![work.jpg]({{site.baseurl}}/assets/images/posts/work.jpg)
+![fir.jpg]({{site.baseurl}}/assets/images/posts/fir.jpg)
+
 
