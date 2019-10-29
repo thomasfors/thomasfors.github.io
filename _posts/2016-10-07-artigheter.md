@@ -16,10 +16,8 @@ feature: jessicaface.jpg
 ![borgs.jpg]({{site.baseurl}}/assets/images/posts/borgs.jpg)
 ![oil.jpg]({{site.baseurl}}/assets/images/posts/oil.jpg)
 ![passing.jpg]({{site.baseurl}}/assets/images/posts/passing.jpg)
-![torrrka.jpg]({{site.baseurl}}/assets/images/posts/torrrka.jpg)
-![vykoer.jpg]({{site.baseurl}}/assets/images/posts/vykoer.jpg)
-![li.jpg]({{site.baseurl}}/assets/images/posts/li.jpg)
-![humus.jpg]({{site.baseurl}}/assets/images/posts/humus.jpg)
+![co2.jpg]({{site.baseurl}}/assets/images/posts/co2.jpg)
+
 ![finne.jpg]({{site.baseurl}}/assets/images/posts/finne.jpg)
 ![matrix.jpg]({{site.baseurl}}/assets/images/posts/matrix.jpg)
 ![bubble.jpg]({{site.baseurl}}/assets/images/posts/bubble.jpg)
