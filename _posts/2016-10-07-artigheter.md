@@ -10,7 +10,7 @@ feature: jessicaface.jpg
 ![sec.jpg]({{site.baseurl}}/assets/images/posts/sec.jpg)
 ![CYB.jpg]({{site.baseurl}}/assets/images/posts/CYB.jpg)
 ![greta.jpg]({{site.baseurl}}/assets/images/posts/greta.jpg)
-![TODAY.jpg]({{site.baseurl}}/assets/images/posts/TODAY.jpg)
+![work.jpg]({{site.baseurl}}/assets/images/posts/work.jpg)
 ![lyyx.jpg]({{site.baseurl}}/assets/images/posts/lyyx.jpg)
 ![star.jpg]({{site.baseurl}}/assets/images/posts/star.jpg)
 ![borgs.jpg]({{site.baseurl}}/assets/images/posts/borgs.jpg)
