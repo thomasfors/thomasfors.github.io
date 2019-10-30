@@ -20,7 +20,7 @@ feature: jessicaface.jpg
 ![fine.jpg]({{site.baseurl}}/assets/images/posts/fine.jpg)
 ![matri.jpg]({{site.baseurl}}/assets/images/posts/matri.jpg)
 ![drug.jpg]({{site.baseurl}}/assets/images/posts/drug.jpg)
-![bosses.jpg]({{site.baseurl}}/assets/images/posts/bosses.jpg)
+![boxer.jpg]({{site.baseurl}}/assets/images/posts/boxer.jpg)
 ![kevin (2).jpg]({{site.baseurl}}/assets/images/posts/kevin (2).jpg)
 ![12g.jpg]({{site.baseurl}}/assets/images/posts/12g.jpg)
 ![child.jpg]({{site.baseurl}}/assets/images/posts/child.jpg)
