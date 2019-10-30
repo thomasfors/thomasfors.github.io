@@ -23,5 +23,5 @@ feature: jessicaface.jpg
 ![boxer.jpg]({{site.baseurl}}/assets/images/posts/boxer.jpg)
 ![kevinn.jpg]({{site.baseurl}}/assets/images/posts/kevinn.jpg)
 ![boat.jpg]({{site.baseurl}}/assets/images/posts/boat.jpg)
-![child.jpg]({{site.baseurl}}/assets/images/posts/child.jpg)
+![barnsemester.jpg]({{site.baseurl}}/assets/images/posts/barnsemester.jpg)
 ![HILMA.jpg]({{site.baseurl}}/assets/images/posts/HILMA.jpg)
