@@ -21,7 +21,7 @@ feature: jessicaface.jpg
 ![matri.jpg]({{site.baseurl}}/assets/images/posts/matri.jpg)
 ![drug.jpg]({{site.baseurl}}/assets/images/posts/drug.jpg)
 ![boxer.jpg]({{site.baseurl}}/assets/images/posts/boxer.jpg)
-![kevin (2).jpg]({{site.baseurl}}/assets/images/posts/kevin (2).jpg)
+![kevinn.jpg]({{site.baseurl}}/assets/images/posts/kevinn.jpg)
 ![12g.jpg]({{site.baseurl}}/assets/images/posts/12g.jpg)
 ![child.jpg]({{site.baseurl}}/assets/images/posts/child.jpg)
 ![HILMA.jpg]({{site.baseurl}}/assets/images/posts/HILMA.jpg)
