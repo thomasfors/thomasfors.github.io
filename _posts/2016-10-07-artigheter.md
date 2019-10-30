@@ -4,8 +4,6 @@ published: true
 title: tao
 feature: jessicaface.jpg
 ---
-![father.jpg]({{site.baseurl}}/assets/images/posts/father.jpg)
-![meltingg.jpg]({{site.baseurl}}/assets/images/posts/meltingg.jpg)
 ![begger.jpg]({{site.baseurl}}/assets/images/posts/begger.jpg)
 ![sec.jpg]({{site.baseurl}}/assets/images/posts/sec.jpg)
 ![CYB.jpg]({{site.baseurl}}/assets/images/posts/CYB.jpg)
