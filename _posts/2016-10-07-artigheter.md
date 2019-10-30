@@ -17,7 +17,7 @@ feature: jessicaface.jpg
 ![oil.jpg]({{site.baseurl}}/assets/images/posts/oil.jpg)
 ![passing.jpg]({{site.baseurl}}/assets/images/posts/passing.jpg)
 ![co2.jpg]({{site.baseurl}}/assets/images/posts/co2.jpg)
-![finne.jpg]({{site.baseurl}}/assets/images/posts/finne.jpg)
+![fine.jpg]({{site.baseurl}}/assets/images/posts/fine.jpg)
 ![matrix.jpg]({{site.baseurl}}/assets/images/posts/matrix.jpg)
 ![bubble.jpg]({{site.baseurl}}/assets/images/posts/bubble.jpg)
 ![silver.jpg]({{site.baseurl}}/assets/images/posts/silver.jpg)
