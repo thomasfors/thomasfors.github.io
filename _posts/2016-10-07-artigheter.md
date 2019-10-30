@@ -22,6 +22,6 @@ feature: jessicaface.jpg
 ![drug.jpg]({{site.baseurl}}/assets/images/posts/drug.jpg)
 ![boxer.jpg]({{site.baseurl}}/assets/images/posts/boxer.jpg)
 ![kevinn.jpg]({{site.baseurl}}/assets/images/posts/kevinn.jpg)
-![12g.jpg]({{site.baseurl}}/assets/images/posts/12g.jpg)
+![boat.jpg]({{site.baseurl}}/assets/images/posts/boat.jpg)
 ![child.jpg]({{site.baseurl}}/assets/images/posts/child.jpg)
 ![HILMA.jpg]({{site.baseurl}}/assets/images/posts/HILMA.jpg)
