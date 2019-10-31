@@ -4,6 +4,9 @@ published: true
 title: for your eyes only
 feature: symb.jpg
 ---
+![jessicaface.jpg]({{site.baseurl}}/assets/images/posts/jessicaface.jpg)
+![attachmentt.jpg]({{site.baseurl}}/assets/images/posts/attachmentt.jpg)
+![ALLWAYS.jpg]({{site.baseurl}}/assets/images/posts/ALLWAYS.jpg)
 ![kasuma.jpg]({{site.baseurl}}/assets/images/posts/kasuma.jpg)
 ![6-sleep.jpg]({{site.baseurl}}/assets/images/posts/6-sleep.jpg)
 ![4-world.jpg]({{site.baseurl}}/assets/images/posts/4-world.jpg)
