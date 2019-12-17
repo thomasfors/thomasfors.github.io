@@ -16,6 +16,7 @@ feature: symb.jpg
 ![out.jpg]({{site.baseurl}}/assets/images/posts/out.jpg)
 ![bakgrund.jpg]({{site.baseurl}}/assets/images/posts/bakgrund.jpg)
 ![free.jpg]({{site.baseurl}}/assets/images/posts/free.jpg)
+![DARK.jpg]({{site.baseurl}}/assets/images/posts/DARK.jpg)
 ![9-age.jpg]({{site.baseurl}}/assets/images/posts/9-age.jpg)
 ![dull.jpg]({{site.baseurl}}/assets/images/posts/dull.jpg)
 ![draakar.jpg]({{site.baseurl}}/assets/images/posts/draakar.jpg)
