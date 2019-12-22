@@ -24,7 +24,7 @@ feature: symb.jpg
 ![7-dance.jpg]({{site.baseurl}}/assets/images/posts/7-dance.jpg)
 ![2,1-comfort.jpg]({{site.baseurl}}/assets/images/posts/2,1-comfort.jpg)
 ![blau.jpg]({{site.baseurl}}/assets/images/posts/blau.jpg)
-![china.jpg]({{site.baseurl}}/assets/images/posts/china.jpg)
+![cohen.jpg]({{site.baseurl}}/assets/images/posts/cohen.jpg)
 ![less.jpg]({{site.baseurl}}/assets/images/posts/less.jpg)
 ![dior.jpg]({{site.baseurl}}/assets/images/posts/dior.jpg)
 ![fy.jpg]({{site.baseurl}}/assets/images/posts/fy.jpg)
