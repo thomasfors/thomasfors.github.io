@@ -19,6 +19,7 @@ feature: symb.jpg
 ![free.jpg]({{site.baseurl}}/assets/images/posts/free.jpg)
 ![DARK.jpg]({{site.baseurl}}/assets/images/posts/DARK.jpg)
 ![9-age.jpg]({{site.baseurl}}/assets/images/posts/9-age.jpg)
+![adameva.jpg]({{site.baseurl}}/assets/images/posts/adameva.jpg)
 ![dull.jpg]({{site.baseurl}}/assets/images/posts/dull.jpg)
 ![draakar.jpg]({{site.baseurl}}/assets/images/posts/draakar.jpg)
 ![7-dance.jpg]({{site.baseurl}}/assets/images/posts/7-dance.jpg)
