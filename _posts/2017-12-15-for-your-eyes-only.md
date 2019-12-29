@@ -32,4 +32,5 @@ feature: symb.jpg
 ![op.jpg]({{site.baseurl}}/assets/images/posts/op.jpg)
 ![illness.jpg]({{site.baseurl}}/assets/images/posts/illness.jpg)
 ![igo.jpg]({{site.baseurl}}/assets/images/posts/igo.jpg)
+![inne.jpg]({{site.baseurl}}/assets/images/posts/inne.jpg)
 ![fir.jpg]({{site.baseurl}}/assets/images/posts/fir.jpg)
