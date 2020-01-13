@@ -5,6 +5,7 @@ title: tao
 feature: jessicaface.jpg
 ---
 ![greta.jpg]({{site.baseurl}}/assets/images/posts/greta.jpg)
+![djungel3-copy.jpg]({{site.baseurl}}/assets/images/posts/djungel3-copy.jpg)
 ![plasti.jpg]({{site.baseurl}}/assets/images/posts/plasti.jpg)
 ![mind.jpg]({{site.baseurl}}/assets/images/posts/mind.jpg)
 ![CYB.jpg]({{site.baseurl}}/assets/images/posts/CYB.jpg)
