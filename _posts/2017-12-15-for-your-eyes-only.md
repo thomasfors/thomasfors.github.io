@@ -15,6 +15,7 @@ feature: symb.jpg
 ![6-sleep.jpg]({{site.baseurl}}/assets/images/posts/6-sleep.jpg)
 ![4-world.jpg]({{site.baseurl}}/assets/images/posts/4-world.jpg)
 ![starve.jpg]({{site.baseurl}}/assets/images/posts/starve.jpg)
+![arra.jpg]({{site.baseurl}}/assets/images/posts/arra.jpg)
 ![björn.jpg]({{site.baseurl}}/assets/images/posts/björn.jpg)
 ![7,3-dop.jpg]({{site.baseurl}}/assets/images/posts/7,3-dop.jpg)
 ![plazt.jpg]({{site.baseurl}}/assets/images/posts/plazt.jpg)
