@@ -7,7 +7,7 @@ feature: symb.jpg
 ![jessicaface.jpg]({{site.baseurl}}/assets/images/posts/jessicaface.jpg)
 ![fit.jpg]({{site.baseurl}}/assets/images/posts/fit.jpg)
 ![big big lie.jpg]({{site.baseurl}}/assets/images/posts/big big lie.jpg)
-![lennon.jpg]({{site.baseurl}}/assets/images/posts/lennon.jpg)
+![lo.jpg]({{site.baseurl}}/assets/images/posts/lo.jpg)
 ![snake.jpg]({{site.baseurl}}/assets/images/posts/snake.jpg)
 ![ex.jpg]({{site.baseurl}}/assets/images/posts/ex.jpg)
 ![judg.jpg]({{site.baseurl}}/assets/images/posts/judg.jpg)
