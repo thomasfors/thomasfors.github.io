@@ -6,6 +6,7 @@ feature: symb.jpg
 ---
 ![jessicaface.jpg]({{site.baseurl}}/assets/images/posts/jessicaface.jpg)
 ![fit.jpg]({{site.baseurl}}/assets/images/posts/fit.jpg)
+![you.jpg]({{site.baseurl}}/assets/images/posts/you.jpg)
 ![big big lie.jpg]({{site.baseurl}}/assets/images/posts/big big lie.jpg)
 ![lo.jpg]({{site.baseurl}}/assets/images/posts/lo.jpg)
 ![snake.jpg]({{site.baseurl}}/assets/images/posts/snake.jpg)
