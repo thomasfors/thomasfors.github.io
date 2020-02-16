@@ -8,7 +8,7 @@ feature: symb.jpg
 ![fit.jpg]({{site.baseurl}}/assets/images/posts/fit.jpg)
 ![you.jpg]({{site.baseurl}}/assets/images/posts/you.jpg)
 ![big big lie.jpg]({{site.baseurl}}/assets/images/posts/big big lie.jpg)
-![lo.jpg]({{site.baseurl}}/assets/images/posts/lo.jpg)
+![why.jpg]({{site.baseurl}}/assets/images/posts/why.jpg)
 ![snake.jpg]({{site.baseurl}}/assets/images/posts/snake.jpg)
 ![ex.jpg]({{site.baseurl}}/assets/images/posts/ex.jpg)
 ![judg.jpg]({{site.baseurl}}/assets/images/posts/judg.jpg)
