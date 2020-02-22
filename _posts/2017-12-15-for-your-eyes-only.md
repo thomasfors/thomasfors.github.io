@@ -30,3 +30,5 @@ feature: symb.jpg
 ![fy.jpg]({{site.baseurl}}/assets/images/posts/fy.jpg)
 ![igo.jpg]({{site.baseurl}}/assets/images/posts/igo.jpg)
 ![fir.jpg]({{site.baseurl}}/assets/images/posts/fir.jpg)
+![sol.jpg]({{site.baseurl}}/assets/images/posts/sol.jpg)
+
