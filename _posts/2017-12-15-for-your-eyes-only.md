@@ -10,9 +10,7 @@ feature: symb.jpg
 ![big big lie.jpg]({{site.baseurl}}/assets/images/posts/big big lie.jpg)
 ![why.jpg]({{site.baseurl}}/assets/images/posts/why.jpg)
 ![snake.jpg]({{site.baseurl}}/assets/images/posts/snake.jpg)
-![ex.jpg]({{site.baseurl}}/assets/images/posts/ex.jpg)
 ![judg.jpg]({{site.baseurl}}/assets/images/posts/judg.jpg)
-![mitt älskade.jpg]({{site.baseurl}}/assets/images/posts/mitt älskade.jpg)
 ![6-sleep.jpg]({{site.baseurl}}/assets/images/posts/6-sleep.jpg)
 ![4-world.jpg]({{site.baseurl}}/assets/images/posts/4-world.jpg)
 ![starve.jpg]({{site.baseurl}}/assets/images/posts/starve.jpg)
@@ -31,4 +29,3 @@ feature: symb.jpg
 ![igo.jpg]({{site.baseurl}}/assets/images/posts/igo.jpg)
 ![fir.jpg]({{site.baseurl}}/assets/images/posts/fir.jpg)
 ![sol.jpg]({{site.baseurl}}/assets/images/posts/sol.jpg)
-
