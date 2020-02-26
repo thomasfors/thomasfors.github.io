@@ -20,7 +20,7 @@ feature: symb.jpg
 ![plazt.jpg]({{site.baseurl}}/assets/images/posts/plazt.jpg)
 ![bakgrund.jpg]({{site.baseurl}}/assets/images/posts/bakgrund.jpg)
 ![free.jpg]({{site.baseurl}}/assets/images/posts/free.jpg)
-![DARK.jpg]({{site.baseurl}}/assets/images/posts/DARK.jpg)
+![3,1-open.jpg]({{site.baseurl}}/assets/images/posts/3,1-open.jpg)
 ![9-age.jpg]({{site.baseurl}}/assets/images/posts/9-age.jpg)
 ![dull.jpg]({{site.baseurl}}/assets/images/posts/dull.jpg)
 ![igo.jpg]({{site.baseurl}}/assets/images/posts/igo.jpg)
