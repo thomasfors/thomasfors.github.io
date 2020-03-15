@@ -22,7 +22,6 @@ feature: symb.jpg
 ![free.jpg]({{site.baseurl}}/assets/images/posts/free.jpg)
 ![3,1-open.jpg]({{site.baseurl}}/assets/images/posts/3,1-open.jpg)
 ![9-age.jpg]({{site.baseurl}}/assets/images/posts/9-age.jpg)
-![dull.jpg]({{site.baseurl}}/assets/images/posts/dull.jpg)
 ![igo.jpg]({{site.baseurl}}/assets/images/posts/igo.jpg)
 ![fir.jpg]({{site.baseurl}}/assets/images/posts/fir.jpg)
 ![sol.jpg]({{site.baseurl}}/assets/images/posts/sol.jpg)
