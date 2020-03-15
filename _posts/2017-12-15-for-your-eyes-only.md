@@ -17,6 +17,7 @@ feature: symb.jpg
 ![björn.jpg]({{site.baseurl}}/assets/images/posts/björn.jpg)
 ![7,3-dop.jpg]({{site.baseurl}}/assets/images/posts/7,3-dop.jpg)
 ![plazt.jpg]({{site.baseurl}}/assets/images/posts/plazt.jpg)
+![illness.jpg]({{site.baseurl}}/assets/images/posts/illness.jpg)
 ![bakgrund.jpg]({{site.baseurl}}/assets/images/posts/bakgrund.jpg)
 ![free.jpg]({{site.baseurl}}/assets/images/posts/free.jpg)
 ![3,1-open.jpg]({{site.baseurl}}/assets/images/posts/3,1-open.jpg)
