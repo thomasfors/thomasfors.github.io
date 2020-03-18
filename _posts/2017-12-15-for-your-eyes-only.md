@@ -10,6 +10,7 @@ feature: symb.jpg
 ![big big lie.jpg]({{site.baseurl}}/assets/images/posts/big big lie.jpg)
 ![1-kib.jpg]({{site.baseurl}}/assets/images/posts/1-kib.jpg)
 ![why.jpg]({{site.baseurl}}/assets/images/posts/why.jpg)
+![allt.jpg]({{site.baseurl}}/assets/images/posts/allt.jpg)
 ![blått.jpg]({{site.baseurl}}/assets/images/posts/blått.jpg)
 ![temo.jpg]({{site.baseurl}}/assets/images/posts/temo.jpg)
 ![6-sleep.jpg]({{site.baseurl}}/assets/images/posts/6-sleep.jpg)
