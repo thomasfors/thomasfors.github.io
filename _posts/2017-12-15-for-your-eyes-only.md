@@ -7,6 +7,7 @@ feature: symb.jpg
 ![jessicaface.jpg]({{site.baseurl}}/assets/images/posts/jessicaface.jpg)
 ![fit.jpg]({{site.baseurl}}/assets/images/posts/fit.jpg)
 ![heter.jpg]({{site.baseurl}}/assets/images/posts/heter.jpg)
+![frida.jpg]({{site.baseurl}}/assets/images/posts/frida.jpg)
 ![big big lie.jpg]({{site.baseurl}}/assets/images/posts/big big lie.jpg)
 ![1-kib.jpg]({{site.baseurl}}/assets/images/posts/1-kib.jpg)
 ![why.jpg]({{site.baseurl}}/assets/images/posts/why.jpg)
