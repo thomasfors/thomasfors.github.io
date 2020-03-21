@@ -10,6 +10,7 @@ feature: symb.jpg
 ![patriarkat.jpg]({{site.baseurl}}/assets/images/posts/patriarkat.jpg)
 ![frida.jpg]({{site.baseurl}}/assets/images/posts/frida.jpg)
 ![frida future.jpg]({{site.baseurl}}/assets/images/posts/frida future.jpg)
+![ros.jpg]({{site.baseurl}}/assets/images/posts/ros.jpg)
 ![big big lie.jpg]({{site.baseurl}}/assets/images/posts/big big lie.jpg)
 ![coronas copy.jpg]({{site.baseurl}}/assets/images/posts/coronas copy.jpg)
 ![1-kib.jpg]({{site.baseurl}}/assets/images/posts/1-kib.jpg)
