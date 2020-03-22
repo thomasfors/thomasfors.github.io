@@ -8,7 +8,6 @@ feature: symb.jpg
 ![fit.jpg]({{site.baseurl}}/assets/images/posts/fit.jpg)
 ![joke.jpg]({{site.baseurl}}/assets/images/posts/joke.jpg)
 ![heter.jpg]({{site.baseurl}}/assets/images/posts/heter.jpg)
-![färg9.jpg]({{site.baseurl}}/assets/images/posts/färg9.jpg)
 ![patriarkat.jpg]({{site.baseurl}}/assets/images/posts/patriarkat.jpg)
 ![frida.jpg]({{site.baseurl}}/assets/images/posts/frida.jpg)
 ![frida future.jpg]({{site.baseurl}}/assets/images/posts/frida future.jpg)
