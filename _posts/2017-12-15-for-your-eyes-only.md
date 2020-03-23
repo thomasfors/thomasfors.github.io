@@ -6,7 +6,7 @@ feature: symb.jpg
 ---
 ![jessicaface.jpg]({{site.baseurl}}/assets/images/posts/jessicaface.jpg)
 ![fit.jpg]({{site.baseurl}}/assets/images/posts/fit.jpg)
-![ruler.jpg]({{site.baseurl}}/assets/images/posts/ruler.jpg)
+![kaiser.jpg]({{site.baseurl}}/assets/images/posts/kaiser.jpg)
 ![joke.jpg]({{site.baseurl}}/assets/images/posts/joke.jpg)
 ![heter.jpg]({{site.baseurl}}/assets/images/posts/heter.jpg)
 ![patriarkat.jpg]({{site.baseurl}}/assets/images/posts/patriarkat.jpg)
