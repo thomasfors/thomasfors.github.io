@@ -19,7 +19,7 @@ feature: symb.jpg
 ![1-kib.jpg]({{site.baseurl}}/assets/images/posts/1-kib.jpg)
 ![why.jpg]({{site.baseurl}}/assets/images/posts/why.jpg)
 ![allt.jpg]({{site.baseurl}}/assets/images/posts/allt.jpg)
-![blått.jpg]({{site.baseurl}}/assets/images/posts/blått.jpg)
+![rebelll.jpg]({{site.baseurl}}/assets/images/posts/rebelll.jpg)
 ![temo.jpg]({{site.baseurl}}/assets/images/posts/temo.jpg)
 ![6-sleep.jpg]({{site.baseurl}}/assets/images/posts/6-sleep.jpg)
 ![4-world.jpg]({{site.baseurl}}/assets/images/posts/4-world.jpg)
