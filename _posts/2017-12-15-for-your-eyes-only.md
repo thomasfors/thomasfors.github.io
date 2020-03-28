@@ -18,6 +18,7 @@ feature: symb.jpg
 ![coronas copy.jpg]({{site.baseurl}}/assets/images/posts/coronas copy.jpg)
 ![1-kib.jpg]({{site.baseurl}}/assets/images/posts/1-kib.jpg)
 ![why.jpg]({{site.baseurl}}/assets/images/posts/why.jpg)
+![pyramid.jpg]({{site.baseurl}}/assets/images/posts/pyramid.jpg)
 ![allt.jpg]({{site.baseurl}}/assets/images/posts/allt.jpg)
 ![rebelll.jpg]({{site.baseurl}}/assets/images/posts/rebelll.jpg)
 ![temo.jpg]({{site.baseurl}}/assets/images/posts/temo.jpg)
