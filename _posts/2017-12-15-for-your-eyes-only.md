@@ -24,7 +24,6 @@ feature: symb.jpg
 ![why.jpg]({{site.baseurl}}/assets/images/posts/why.jpg)
 ![pyramid.jpg]({{site.baseurl}}/assets/images/posts/pyramid.jpg)
 ![allt.jpg]({{site.baseurl}}/assets/images/posts/allt.jpg)
-![rebelll.jpg]({{site.baseurl}}/assets/images/posts/rebelll.jpg)
 ![temo.jpg]({{site.baseurl}}/assets/images/posts/temo.jpg)
 ![6-sleep.jpg]({{site.baseurl}}/assets/images/posts/6-sleep.jpg)
 ![4-world.jpg]({{site.baseurl}}/assets/images/posts/4-world.jpg)
