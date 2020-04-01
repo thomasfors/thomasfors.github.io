@@ -23,6 +23,7 @@ feature: symb.jpg
 ![wall.jpg]({{site.baseurl}}/assets/images/posts/wall.jpg)
 ![why.jpg]({{site.baseurl}}/assets/images/posts/why.jpg)
 ![pyramid.jpg]({{site.baseurl}}/assets/images/posts/pyramid.jpg)
+![tro.jpg]({{site.baseurl}}/assets/images/posts/tro.jpg)
 ![allt.jpg]({{site.baseurl}}/assets/images/posts/allt.jpg)
 ![temo.jpg]({{site.baseurl}}/assets/images/posts/temo.jpg)
 ![6-sleep.jpg]({{site.baseurl}}/assets/images/posts/6-sleep.jpg)
@@ -33,4 +34,3 @@ feature: symb.jpg
 ![3,1-open.jpg]({{site.baseurl}}/assets/images/posts/3,1-open.jpg)
 ![9-age.jpg]({{site.baseurl}}/assets/images/posts/9-age.jpg)
 ![fir.jpg]({{site.baseurl}}/assets/images/posts/fir.jpg)
-
