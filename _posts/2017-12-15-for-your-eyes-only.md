@@ -33,8 +33,5 @@ feature: symb.jpg
 ![6-sleep.jpg]({{site.baseurl}}/assets/images/posts/6-sleep.jpg)
 ![4-world.jpg]({{site.baseurl}}/assets/images/posts/4-world.jpg)
 ![illness.jpg]({{site.baseurl}}/assets/images/posts/illness.jpg)
-![bakgrund.jpg]({{site.baseurl}}/assets/images/posts/bakgrund.jpg)
-![free.jpg]({{site.baseurl}}/assets/images/posts/free.jpg)
-![3,1-open.jpg]({{site.baseurl}}/assets/images/posts/3,1-open.jpg)
 ![9-age.jpg]({{site.baseurl}}/assets/images/posts/9-age.jpg)
 ![fir.jpg]({{site.baseurl}}/assets/images/posts/fir.jpg)
