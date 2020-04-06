@@ -12,7 +12,7 @@ feature: symb.jpg
 ![kings.jpg]({{site.baseurl}}/assets/images/posts/kings.jpg)
 ![mush13.jpg]({{site.baseurl}}/assets/images/posts/mush13.jpg)
 ![god-heart.jpg]({{site.baseurl}}/assets/images/posts/god-heart.jpg)
-![why4.jpg]({{site.baseurl}}/assets/images/posts/why4.jpg)
+![whywhy.jpg]({{site.baseurl}}/assets/images/posts/whywhy.jpg)
 ![greenroom.jpg]({{site.baseurl}}/assets/images/posts/greenroom.jpg)
 ![heter.jpg]({{site.baseurl}}/assets/images/posts/heter.jpg)
 ![patriarkat.jpg]({{site.baseurl}}/assets/images/posts/patriarkat.jpg)
