@@ -10,6 +10,7 @@ feature: symb.jpg
 ![2020.jpg]({{site.baseurl}}/assets/images/posts/2020.jpg)
 ![darkroom.jpg]({{site.baseurl}}/assets/images/posts/darkroom.jpg)
 ![red5.jpg]({{site.baseurl}}/assets/images/posts/red5.jpg)
+![matri.jpg]({{site.baseurl}}/assets/images/posts/matri.jpg)
 ![kings.jpg]({{site.baseurl}}/assets/images/posts/kings.jpg)
 ![mush13.jpg]({{site.baseurl}}/assets/images/posts/mush13.jpg)
 ![god-heart.jpg]({{site.baseurl}}/assets/images/posts/god-heart.jpg)
