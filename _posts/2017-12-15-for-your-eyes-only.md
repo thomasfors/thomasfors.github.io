@@ -8,6 +8,7 @@ feature: symb.jpg
 ![fit.jpg]({{site.baseurl}}/assets/images/posts/fit.jpg)
 ![white.jpg]({{site.baseurl}}/assets/images/posts/white.jpg)
 ![2020.jpg]({{site.baseurl}}/assets/images/posts/2020.jpg)
+![gulll.jpg]({{site.baseurl}}/assets/images/posts/gulll.jpg)
 ![darkroom.jpg]({{site.baseurl}}/assets/images/posts/darkroom.jpg)
 ![red5.jpg]({{site.baseurl}}/assets/images/posts/red5.jpg)
 ![matri.jpg]({{site.baseurl}}/assets/images/posts/matri.jpg)
