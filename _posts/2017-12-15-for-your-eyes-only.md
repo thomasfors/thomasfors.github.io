@@ -14,7 +14,7 @@ feature: symb.jpg
 ![matri.jpg]({{site.baseurl}}/assets/images/posts/matri.jpg)
 ![kings.jpg]({{site.baseurl}}/assets/images/posts/kings.jpg)
 ![mush13.jpg]({{site.baseurl}}/assets/images/posts/mush13.jpg)
-![god-heart.jpg]({{site.baseurl}}/assets/images/posts/god-heart.jpg)
+![marry.jpg]({{site.baseurl}}/assets/images/posts/marry.jpg)
 ![whywhy.jpg]({{site.baseurl}}/assets/images/posts/whywhy.jpg)
 ![greenroom.jpg]({{site.baseurl}}/assets/images/posts/greenroom.jpg)
 ![heter.jpg]({{site.baseurl}}/assets/images/posts/heter.jpg)
