@@ -12,7 +12,6 @@ feature: symb.jpg
 ![darkroom.jpg]({{site.baseurl}}/assets/images/posts/darkroom.jpg)
 ![doors.jpg]({{site.baseurl}}/assets/images/posts/doors.jpg)
 ![red5.jpg]({{site.baseurl}}/assets/images/posts/red5.jpg)
-![matri.jpg]({{site.baseurl}}/assets/images/posts/matri.jpg)
 ![kings.jpg]({{site.baseurl}}/assets/images/posts/kings.jpg)
 ![mush13.jpg]({{site.baseurl}}/assets/images/posts/mush13.jpg)
 ![marry.jpg]({{site.baseurl}}/assets/images/posts/marry.jpg)
