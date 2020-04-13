@@ -15,7 +15,7 @@ feature: symb.jpg
 ![ruler.jpg]({{site.baseurl}}/assets/images/posts/ruler.jpg)
 ![mush13.jpg]({{site.baseurl}}/assets/images/posts/mush13.jpg)
 ![fun.jpg]({{site.baseurl}}/assets/images/posts/fun.jpg)
-![marry.jpg]({{site.baseurl}}/assets/images/posts/marry.jpg)
+![kanfin.jpg]({{site.baseurl}}/assets/images/posts/kanfin.jpg)
 ![whywhy.jpg]({{site.baseurl}}/assets/images/posts/whywhy.jpg)
 ![greenroom.jpg]({{site.baseurl}}/assets/images/posts/greenroom.jpg)
 ![heter.jpg]({{site.baseurl}}/assets/images/posts/heter.jpg)
