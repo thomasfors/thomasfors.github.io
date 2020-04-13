@@ -14,6 +14,7 @@ feature: symb.jpg
 ![red5.jpg]({{site.baseurl}}/assets/images/posts/red5.jpg)
 ![ruler.jpg]({{site.baseurl}}/assets/images/posts/ruler.jpg)
 ![mush13.jpg]({{site.baseurl}}/assets/images/posts/mush13.jpg)
+![fun.jpg]({{site.baseurl}}/assets/images/posts/fun.jpg)
 ![marry.jpg]({{site.baseurl}}/assets/images/posts/marry.jpg)
 ![whywhy.jpg]({{site.baseurl}}/assets/images/posts/whywhy.jpg)
 ![greenroom.jpg]({{site.baseurl}}/assets/images/posts/greenroom.jpg)
