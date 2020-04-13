@@ -12,7 +12,7 @@ feature: symb.jpg
 ![darkroom.jpg]({{site.baseurl}}/assets/images/posts/darkroom.jpg)
 ![hilma1.jpg]({{site.baseurl}}/assets/images/posts/hilma1.jpg)
 ![red5.jpg]({{site.baseurl}}/assets/images/posts/red5.jpg)
-![kings.jpg]({{site.baseurl}}/assets/images/posts/kings.jpg)
+![ruler.jpg]({{site.baseurl}}/assets/images/posts/ruler.jpg)
 ![mush13.jpg]({{site.baseurl}}/assets/images/posts/mush13.jpg)
 ![marry.jpg]({{site.baseurl}}/assets/images/posts/marry.jpg)
 ![whywhy.jpg]({{site.baseurl}}/assets/images/posts/whywhy.jpg)
