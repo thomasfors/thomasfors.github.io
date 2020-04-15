@@ -19,6 +19,7 @@ feature: symb.jpg
 ![whywhy.jpg]({{site.baseurl}}/assets/images/posts/whywhy.jpg)
 ![greenroom.jpg]({{site.baseurl}}/assets/images/posts/greenroom.jpg)
 ![heter.jpg]({{site.baseurl}}/assets/images/posts/heter.jpg)
+![joj14.jpg]({{site.baseurl}}/assets/images/posts/joj14.jpg)
 ![patriarkat.jpg]({{site.baseurl}}/assets/images/posts/patriarkat.jpg)
 ![frida.jpg]({{site.baseurl}}/assets/images/posts/frida.jpg)
 ![frida future.jpg]({{site.baseurl}}/assets/images/posts/frida future.jpg)
