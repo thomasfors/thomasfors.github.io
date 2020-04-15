@@ -28,6 +28,7 @@ feature: symb.jpg
 ![expe.jpg]({{site.baseurl}}/assets/images/posts/expe.jpg)
 ![big big lie.jpg]({{site.baseurl}}/assets/images/posts/big big lie.jpg)
 ![coronas copy.jpg]({{site.baseurl}}/assets/images/posts/coronas copy.jpg)
+![sjuk34.jpg]({{site.baseurl}}/assets/images/posts/sjuk34.jpg)
 ![1-kib.jpg]({{site.baseurl}}/assets/images/posts/1-kib.jpg)
 ![wall.jpg]({{site.baseurl}}/assets/images/posts/wall.jpg)
 ![pyramid.jpg]({{site.baseurl}}/assets/images/posts/pyramid.jpg)
