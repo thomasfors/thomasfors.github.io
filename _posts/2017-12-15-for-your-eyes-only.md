@@ -30,10 +30,10 @@ feature: symb.jpg
 ![coronas copy.jpg]({{site.baseurl}}/assets/images/posts/coronas copy.jpg)
 ![sjuk34.jpg]({{site.baseurl}}/assets/images/posts/sjuk34.jpg)
 ![1-kib.jpg]({{site.baseurl}}/assets/images/posts/1-kib.jpg)
+![gympa.jpg]({{site.baseurl}}/assets/images/posts/gympa.jpg)
 ![allt.jpg]({{site.baseurl}}/assets/images/posts/allt.jpg)
 ![temo.jpg]({{site.baseurl}}/assets/images/posts/temo.jpg)
 ![6-sleep.jpg]({{site.baseurl}}/assets/images/posts/6-sleep.jpg)
 ![4-world.jpg]({{site.baseurl}}/assets/images/posts/4-world.jpg)
 ![illness.jpg]({{site.baseurl}}/assets/images/posts/illness.jpg)
 ![9-age.jpg]({{site.baseurl}}/assets/images/posts/9-age.jpg)
-
