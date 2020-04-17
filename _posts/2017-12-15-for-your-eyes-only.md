@@ -6,6 +6,7 @@ feature: symb.jpg
 ---
 ![jessicaface.jpg]({{site.baseurl}}/assets/images/posts/jessicaface.jpg)
 ![fit.jpg]({{site.baseurl}}/assets/images/posts/fit.jpg)
+![no.jpg]({{site.baseurl}}/assets/images/posts/no.jpg)
 ![white14-copy.jpg]({{site.baseurl}}/assets/images/posts/white14-copy.jpg)
 ![mono.jpg]({{site.baseurl}}/assets/images/posts/mono.jpg)
 ![2020.jpg]({{site.baseurl}}/assets/images/posts/2020.jpg)
@@ -18,9 +19,7 @@ feature: symb.jpg
 ![fun.jpg]({{site.baseurl}}/assets/images/posts/fun.jpg)
 ![kanfin.jpg]({{site.baseurl}}/assets/images/posts/kanfin.jpg)
 ![whywhy.jpg]({{site.baseurl}}/assets/images/posts/whywhy.jpg)
-![greenroom.jpg]({{site.baseurl}}/assets/images/posts/greenroom.jpg)
 ![heter.jpg]({{site.baseurl}}/assets/images/posts/heter.jpg)
-![joj14.jpg]({{site.baseurl}}/assets/images/posts/joj14.jpg)
 ![patriarkat.jpg]({{site.baseurl}}/assets/images/posts/patriarkat.jpg)
 ![frida.jpg]({{site.baseurl}}/assets/images/posts/frida.jpg)
 ![ros.jpg]({{site.baseurl}}/assets/images/posts/ros.jpg)
