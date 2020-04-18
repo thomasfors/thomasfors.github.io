@@ -22,6 +22,7 @@ feature: symb.jpg
 ![patriarkat.jpg]({{site.baseurl}}/assets/images/posts/patriarkat.jpg)
 ![frida.jpg]({{site.baseurl}}/assets/images/posts/frida.jpg)
 ![ros.jpg]({{site.baseurl}}/assets/images/posts/ros.jpg)
+![änglar.jpg]({{site.baseurl}}/assets/images/posts/änglar.jpg)
 ![sik.jpg]({{site.baseurl}}/assets/images/posts/sik.jpg)
 ![star.jpg]({{site.baseurl}}/assets/images/posts/star.jpg)
 ![expe.jpg]({{site.baseurl}}/assets/images/posts/expe.jpg)
