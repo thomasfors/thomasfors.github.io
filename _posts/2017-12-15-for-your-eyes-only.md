@@ -7,6 +7,7 @@ feature: symb.jpg
 ![jessicaface.jpg]({{site.baseurl}}/assets/images/posts/jessicaface.jpg)
 ![fit.jpg]({{site.baseurl}}/assets/images/posts/fit.jpg)
 ![no.jpg]({{site.baseurl}}/assets/images/posts/no.jpg)
+![marroc.jpg]({{site.baseurl}}/assets/images/posts/marroc.jpg)
 ![mono.jpg]({{site.baseurl}}/assets/images/posts/mono.jpg)
 ![2020.jpg]({{site.baseurl}}/assets/images/posts/2020.jpg)
 ![gulll.jpg]({{site.baseurl}}/assets/images/posts/gulll.jpg)
