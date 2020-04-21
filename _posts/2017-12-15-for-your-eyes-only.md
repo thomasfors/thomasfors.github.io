@@ -20,6 +20,7 @@ feature: symb.jpg
 ![kanfin.jpg]({{site.baseurl}}/assets/images/posts/kanfin.jpg)
 ![whywhy.jpg]({{site.baseurl}}/assets/images/posts/whywhy.jpg)
 ![heter.jpg]({{site.baseurl}}/assets/images/posts/heter.jpg)
+![ila.jpg]({{site.baseurl}}/assets/images/posts/ila.jpg)
 ![patriarkat.jpg]({{site.baseurl}}/assets/images/posts/patriarkat.jpg)
 ![frida.jpg]({{site.baseurl}}/assets/images/posts/frida.jpg)
 ![ros.jpg]({{site.baseurl}}/assets/images/posts/ros.jpg)
