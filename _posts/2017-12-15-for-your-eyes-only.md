@@ -32,6 +32,5 @@ feature: symb.jpg
 ![coronas copy.jpg]({{site.baseurl}}/assets/images/posts/coronas copy.jpg)
 ![gympa.jpg]({{site.baseurl}}/assets/images/posts/gympa.jpg)
 ![allt.jpg]({{site.baseurl}}/assets/images/posts/allt.jpg)
-![temo.jpg]({{site.baseurl}}/assets/images/posts/temo.jpg!/images/posts/4-world.jpg)
 ![illness.jpg]({{site.baseurl}}/assets/images/posts/illness.jpg)
 ![9-age.jpg]({{site.baseurl}}/assets/images/posts/9-age.jpg)
