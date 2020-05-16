@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: for your eyes only
-feature: a b.jpg
+feature: ab (2).jpg
 ---
-![a b.jpg]({{site.baseurl}}/assets/images/posts/a b.jpg)
+![ab (2).jpg]({{site.baseurl}}/assets/images/posts/ab (2).jpg)
 
