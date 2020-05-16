@@ -2,7 +2,8 @@
 layout: post
 published: true
 title: for your eyes only
-feature: a b.jpg
+feature: 41664728_581652718919273_5745491434372828819_n.jpg
 ---
-![a b.jpg]({{site.baseurl}}/assets/images/posts/a b.jpg)
+![41664728_581652718919273_5745491434372828819_n.jpg]({{site.baseurl}}/assets/images/posts/41664728_581652718919273_5745491434372828819_n.jpg)
+
 
