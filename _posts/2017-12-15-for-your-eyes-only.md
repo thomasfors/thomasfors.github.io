@@ -17,6 +17,7 @@ feature: ast (2).jpg
 ![mush10.jpg]({{site.baseurl}}/assets/images/posts/mush10.jpg)
 ![anxity4.jpg]({{site.baseurl}}/assets/images/posts/anxity4.jpg)
 ![rö.jpg]({{site.baseurl}}/assets/images/posts/rö.jpg)
+![like3.jpg]({{site.baseurl}}/assets/images/posts/like3.jpg)
 ![rosas.jpg]({{site.baseurl}}/assets/images/posts/rosas.jpg)
 ![darkroom7.jpg]({{site.baseurl}}/assets/images/posts/darkroom7.jpg)
 ![at-last2.jpg]({{site.baseurl}}/assets/images/posts/at-last2.jpg)
