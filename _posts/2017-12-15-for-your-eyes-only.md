@@ -13,6 +13,7 @@ feature: ast (2).jpg
 ![armageddon2.jpg]({{site.baseurl}}/assets/images/posts/armageddon2.jpg)
 ![cover3.jpg]({{site.baseurl}}/assets/images/posts/cover3.jpg)
 ![4-world.jpg]({{site.baseurl}}/assets/images/posts/4-world.jpg)
+![field3.jpg]({{site.baseurl}}/assets/images/posts/field3.jpg)
 ![gul.jpg]({{site.baseurl}}/assets/images/posts/gul.jpg)
 ![after.jpg]({{site.baseurl}}/assets/images/posts/after.jpg)
 ![mush10.jpg]({{site.baseurl}}/assets/images/posts/mush10.jpg)
