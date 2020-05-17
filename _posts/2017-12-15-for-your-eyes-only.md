@@ -16,6 +16,7 @@ feature: ast (2).jpg
 ![field3.jpg]({{site.baseurl}}/assets/images/posts/field3.jpg)
 ![ppoor.jpg]({{site.baseurl}}/assets/images/posts/ppoor.jpg)
 ![fy.jpg]({{site.baseurl}}/assets/images/posts/fy.jpg)
+![7,3-dop.jpg]({{site.baseurl}}/assets/images/posts/7,3-dop.jpg)
 ![gul.jpg]({{site.baseurl}}/assets/images/posts/gul.jpg)
 ![after.jpg]({{site.baseurl}}/assets/images/posts/after.jpg)
 ![mush10.jpg]({{site.baseurl}}/assets/images/posts/mush10.jpg)
