@@ -21,6 +21,7 @@ feature: ast (2).jpg
 ![at-last2.jpg]({{site.baseurl}}/assets/images/posts/at-last2.jpg)
 ![kandinsky8.jpg]({{site.baseurl}}/assets/images/posts/kandinsky8.jpg)
 ![HILMA8.jpg]({{site.baseurl}}/assets/images/posts/HILMA8.jpg)
+![frida.jpg]({{site.baseurl}}/assets/images/posts/frida.jpg)
 ![amman.jpg]({{site.baseurl}}/assets/images/posts/amman.jpg)
 ![power.jpg]({{site.baseurl}}/assets/images/posts/power.jpg)
 ![pyr10.jpg]({{site.baseurl}}/assets/images/posts/pyr10.jpg)
@@ -30,5 +31,7 @@ feature: ast (2).jpg
 ![why-we.jpg]({{site.baseurl}}/assets/images/posts/why-we.jpg)
 ![du-är.jpg]({{site.baseurl}}/assets/images/posts/du-är.jpg)
 ![sjuk2.jpg]({{site.baseurl}}/assets/images/posts/sjuk2.jpg)
+![arra.jpg]({{site.baseurl}}/assets/images/posts/arra.jpg)
+![alla.jpg]({{site.baseurl}}/assets/images/posts/alla.jpg)
 
 
