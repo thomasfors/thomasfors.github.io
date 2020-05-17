@@ -10,5 +10,6 @@ feature: ast (2).jpg
 ![coronas-copy.jpg]({{site.baseurl}}/assets/images/posts/coronas-copy.jpg)
 ![armageddon2.jpg]({{site.baseurl}}/assets/images/posts/armageddon2.jpg)
 ![cover3.jpg]({{site.baseurl}}/assets/images/posts/cover3.jpg)
+![gul.jpg]({{site.baseurl}}/assets/images/posts/gul.jpg)
 
 
