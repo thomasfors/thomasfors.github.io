@@ -15,6 +15,7 @@ feature: ast (2).jpg
 ![gul.jpg]({{site.baseurl}}/assets/images/posts/gul.jpg)
 ![after.jpg]({{site.baseurl}}/assets/images/posts/after.jpg)
 ![mush10.jpg]({{site.baseurl}}/assets/images/posts/mush10.jpg)
+![anxity4.jpg]({{site.baseurl}}/assets/images/posts/anxity4.jpg)
 ![rö.jpg]({{site.baseurl}}/assets/images/posts/rö.jpg)
 ![rosas.jpg]({{site.baseurl}}/assets/images/posts/rosas.jpg)
 ![darkroom7.jpg]({{site.baseurl}}/assets/images/posts/darkroom7.jpg)
@@ -33,5 +34,3 @@ feature: ast (2).jpg
 ![sjuk2.jpg]({{site.baseurl}}/assets/images/posts/sjuk2.jpg)
 ![arra.jpg]({{site.baseurl}}/assets/images/posts/arra.jpg)
 ![alla.jpg]({{site.baseurl}}/assets/images/posts/alla.jpg)
-
-
