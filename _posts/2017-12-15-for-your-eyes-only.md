@@ -28,5 +28,7 @@ feature: ast (2).jpg
 ![RAZOR.jpg]({{site.baseurl}}/assets/images/posts/RAZOR.jpg)
 ![stairs10 copy.jpg]({{site.baseurl}}/assets/images/posts/stairs10 copy.jpg)
 ![why-we.jpg]({{site.baseurl}}/assets/images/posts/why-we.jpg)
+![du-är.jpg]({{site.baseurl}}/assets/images/posts/du-är.jpg)
+![sjuk2.jpg]({{site.baseurl}}/assets/images/posts/sjuk2.jpg)
 
 
