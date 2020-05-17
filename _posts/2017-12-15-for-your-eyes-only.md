@@ -21,4 +21,10 @@ feature: ast (2).jpg
 ![at-last2.jpg]({{site.baseurl}}/assets/images/posts/at-last2.jpg)
 ![kandinsky8.jpg]({{site.baseurl}}/assets/images/posts/kandinsky8.jpg)
 ![HILMA8.jpg]({{site.baseurl}}/assets/images/posts/HILMA8.jpg)
+![amman.jpg]({{site.baseurl}}/assets/images/posts/amman.jpg)
+![power.jpg]({{site.baseurl}}/assets/images/posts/power.jpg)
+![pyr10.jpg]({{site.baseurl}}/assets/images/posts/pyr10.jpg)
+![why.jpg]({{site.baseurl}}/assets/images/posts/why.jpg)
+![RAZOR.jpg]({{site.baseurl}}/assets/images/posts/RAZOR.jpg)
+![stairs10 copy.jpg]({{site.baseurl}}/assets/images/posts/stairs10 copy.jpg)
 
