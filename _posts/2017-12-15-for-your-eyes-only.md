@@ -12,5 +12,6 @@ feature: ast (2).jpg
 ![cover3.jpg]({{site.baseurl}}/assets/images/posts/cover3.jpg)
 ![gul.jpg]({{site.baseurl}}/assets/images/posts/gul.jpg)
 ![after.jpg]({{site.baseurl}}/assets/images/posts/after.jpg)
+![rö.jpg]({{site.baseurl}}/assets/images/posts/rö.jpg)
 
 
