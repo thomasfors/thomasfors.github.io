@@ -10,5 +10,7 @@ feature: jessicaface.jpg
 ![marrige2-kopiera.jpg]({{site.baseurl}}/assets/images/posts/marrige2-kopiera.jpg)
 ![dans.jpg]({{site.baseurl}}/assets/images/posts/dans.jpg)
 ![abo.jpg]({{site.baseurl}}/assets/images/posts/abo.jpg)
+![atomic.jpg]({{site.baseurl}}/assets/images/posts/atomic.jpg)
+![starrggg.jpg]({{site.baseurl}}/assets/images/posts/starrggg.jpg)
 
 
