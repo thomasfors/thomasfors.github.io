@@ -6,6 +6,7 @@ feature: ast (2).jpg
 ---
 ![möjlig.jpg]({{site.baseurl}}/assets/images/posts/möjlig.jpg)
 ![comes3.jpg]({{site.baseurl}}/assets/images/posts/comes3.jpg)
-
-
+![big-lie-copy.jpg]({{site.baseurl}}/assets/images/posts/big-lie-copy.jpg)
+![coronas-copy.jpg]({{site.baseurl}}/assets/images/posts/coronas-copy.jpg)
+![armageddon2.jpg]({{site.baseurl}}/assets/images/posts/armageddon2.jpg)
 
