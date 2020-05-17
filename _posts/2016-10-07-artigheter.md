@@ -12,5 +12,6 @@ feature: jessicaface.jpg
 ![abo.jpg]({{site.baseurl}}/assets/images/posts/abo.jpg)
 ![atomic.jpg]({{site.baseurl}}/assets/images/posts/atomic.jpg)
 ![starrggg.jpg]({{site.baseurl}}/assets/images/posts/starrggg.jpg)
+![lamb.jpg]({{site.baseurl}}/assets/images/posts/lamb.jpg)
 
 
