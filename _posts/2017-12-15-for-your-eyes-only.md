@@ -42,3 +42,5 @@ feature: ast (2).jpg
 ![sjuk2.jpg]({{site.baseurl}}/assets/images/posts/sjuk2.jpg)
 ![arra.jpg]({{site.baseurl}}/assets/images/posts/arra.jpg)
 ![alla.jpg]({{site.baseurl}}/assets/images/posts/alla.jpg)
+![illness.jpg]({{site.baseurl}}/assets/images/posts/illness.jpg)
+
