@@ -14,4 +14,8 @@ feature: jessicaface.jpg
 ![atomic.jpg]({{site.baseurl}}/assets/images/posts/atomic.jpg)
 ![starrggg.jpg]({{site.baseurl}}/assets/images/posts/starrggg.jpg)
 ![lamb.jpg]({{site.baseurl}}/assets/images/posts/lamb.jpg)
+![any-door.jpg]({{site.baseurl}}/assets/images/posts/any-door.jpg)
+![DREAM.jpg]({{site.baseurl}}/assets/images/posts/DREAM.jpg)
+![craw.jpg]({{site.baseurl}}/assets/images/posts/craw.jpg)
+![chinnna.jpg]({{site.baseurl}}/assets/images/posts/chinnna.jpg)
 ![way.jpg]({{site.baseurl}}/assets/images/posts/way.jpg)
