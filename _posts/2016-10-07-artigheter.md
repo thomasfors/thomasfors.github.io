@@ -9,7 +9,6 @@ feature: jessicaface.jpg
 ![dödhäst.jpg]({{site.baseurl}}/assets/images/posts/dödhäst.jpg)
 ![buuuu-kopiera.jpg]({{site.baseurl}}/assets/images/posts/buuuu-kopiera.jpg)
 ![bubbla4.jpg]({{site.baseurl}}/assets/images/posts/bubbla4.jpg)
-![big-lie-copy.jpg]({{site.baseurl}}/assets/images/posts/big-lie-copy.jpg)
 ![9-age.jpg]({{site.baseurl}}/assets/images/posts/9-age.jpg)
 ![fish.jpg]({{site.baseurl}}/assets/images/posts/fish.jpg)
 ![dans.jpg]({{site.baseurl}}/assets/images/posts/dans.jpg)
