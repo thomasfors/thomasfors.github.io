@@ -6,12 +6,9 @@ feature: ast (2).jpg
 ---
 ![möjlig.jpg]({{site.baseurl}}/assets/images/posts/möjlig.jpg)
 ![kusama.jpg]({{site.baseurl}}/assets/images/posts/kusama.jpg)
-![ruler.jpg]({{site.baseurl}}/assets/images/posts/ruler.jpg)
 ![room.jpg]({{site.baseurl}}/assets/images/posts/room.jpg)
 ![woooorld.jpg]({{site.baseurl}}/assets/images/posts/woooorld.jpg)
 ![any-door.jpg]({{site.baseurl}}/assets/images/posts/any-door.jpg)
-![ELIA4-kopiera.jpg]({{site.baseurl}}/assets/images/posts/ELIA4-kopiera.jpg)
-![field3.jpg]({{site.baseurl}}/assets/images/posts/field3.jpg)
 ![gul.jpg]({{site.baseurl}}/assets/images/posts/gul.jpg)
 ![after.jpg]({{site.baseurl}}/assets/images/posts/after.jpg)
 ![mush10.jpg]({{site.baseurl}}/assets/images/posts/mush10.jpg)
