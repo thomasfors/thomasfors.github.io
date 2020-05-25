@@ -12,7 +12,6 @@ feature: ast (2).jpg
 ![gul.jpg]({{site.baseurl}}/assets/images/posts/gul.jpg)
 ![after.jpg]({{site.baseurl}}/assets/images/posts/after.jpg)
 ![mush10.jpg]({{site.baseurl}}/assets/images/posts/mush10.jpg)
-![anxity4.jpg]({{site.baseurl}}/assets/images/posts/anxity4.jpg)
 ![rö.jpg]({{site.baseurl}}/assets/images/posts/rö.jpg)
 ![red5.jpg]({{site.baseurl}}/assets/images/posts/red5.jpg)
 ![like3.jpg]({{site.baseurl}}/assets/images/posts/like3.jpg)
