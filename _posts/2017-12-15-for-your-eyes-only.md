@@ -5,8 +5,7 @@ title: for your eyes only
 feature: ast (2).jpg
 ---
 ![möjlig.jpg]({{site.baseurl}}/assets/images/posts/möjlig.jpg)
-![comes3.jpg]({{site.baseurl}}/assets/images/posts/comes3.jpg)
-![luthe.jpg]({{site.baseurl}}/assets/images/posts/luthe.jpg)
+![kusama.jpg]({{site.baseurl}}/assets/images/posts/kusama.jpg)
 ![ruler.jpg]({{site.baseurl}}/assets/images/posts/ruler.jpg)
 ![room.jpg]({{site.baseurl}}/assets/images/posts/room.jpg)
 ![4-world.jpg]({{site.baseurl}}/assets/images/posts/4-world.jpg)
