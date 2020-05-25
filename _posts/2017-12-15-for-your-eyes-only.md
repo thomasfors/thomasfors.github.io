@@ -12,7 +12,7 @@ feature: ast (2).jpg
 ![after.jpg]({{site.baseurl}}/assets/images/posts/after.jpg)
 ![rö.jpg]({{site.baseurl}}/assets/images/posts/rö.jpg)
 ![red5.jpg]({{site.baseurl}}/assets/images/posts/red5.jpg)
-![like3.jpg]({{site.baseurl}}/assets/images/posts/like3.jpg)
+![buuuu-kopiera.jpg]({{site.baseurl}}/assets/images/posts/buuuu-kopiera.jpg)
 ![darkroom7.jpg]({{site.baseurl}}/assets/images/posts/darkroom7.jpg)
 ![kandinsky8.jpg]({{site.baseurl}}/assets/images/posts/kandinsky8.jpg)
 ![HILMA8.jpg]({{site.baseurl}}/assets/images/posts/HILMA8.jpg)
