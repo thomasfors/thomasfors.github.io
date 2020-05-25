@@ -8,7 +8,6 @@ feature: ast (2).jpg
 ![kusama.jpg]({{site.baseurl}}/assets/images/posts/kusama.jpg)
 ![room.jpg]({{site.baseurl}}/assets/images/posts/room.jpg)
 ![woooorld.jpg]({{site.baseurl}}/assets/images/posts/woooorld.jpg)
-![any-door.jpg]({{site.baseurl}}/assets/images/posts/any-door.jpg)
 ![gul.jpg]({{site.baseurl}}/assets/images/posts/gul.jpg)
 ![after.jpg]({{site.baseurl}}/assets/images/posts/after.jpg)
 ![mush10.jpg]({{site.baseurl}}/assets/images/posts/mush10.jpg)
@@ -32,4 +31,3 @@ feature: ast (2).jpg
 ![du-är.jpg]({{site.baseurl}}/assets/images/posts/du-är.jpg)
 ![sjuk2.jpg]({{site.baseurl}}/assets/images/posts/sjuk2.jpg)
 ![alla.jpg]({{site.baseurl}}/assets/images/posts/alla.jpg)
-
