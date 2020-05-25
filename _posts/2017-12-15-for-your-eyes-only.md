@@ -14,7 +14,6 @@ feature: ast (2).jpg
 ![rö.jpg]({{site.baseurl}}/assets/images/posts/rö.jpg)
 ![red5.jpg]({{site.baseurl}}/assets/images/posts/red5.jpg)
 ![like3.jpg]({{site.baseurl}}/assets/images/posts/like3.jpg)
-![rosas.jpg]({{site.baseurl}}/assets/images/posts/rosas.jpg)
 ![darkroom7.jpg]({{site.baseurl}}/assets/images/posts/darkroom7.jpg)
 ![at-last2.jpg]({{site.baseurl}}/assets/images/posts/at-last2.jpg)
 ![kandinsky8.jpg]({{site.baseurl}}/assets/images/posts/kandinsky8.jpg)
