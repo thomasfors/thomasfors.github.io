@@ -19,8 +19,8 @@ feature: jessicaface.jpg
 ![lamb.jpg]({{site.baseurl}}/assets/images/posts/lamb.jpg)
 ![any-door.jpg]({{site.baseurl}}/assets/images/posts/any-door.jpg)
 ![DREAM.jpg]({{site.baseurl}}/assets/images/posts/DREAM.jpg)
-![craw.jpg]({{site.baseurl}}/assets/images/posts/craw.jpg)
+![patriarkat.jpg]({{site.baseurl}}/assets/images/posts/patriarkat.jpg)
+![birth.jpg]({{site.baseurl}}/assets/images/posts/birth.jpg)
 ![chinnna.jpg]({{site.baseurl}}/assets/images/posts/chinnna.jpg)
 ![way.jpg]({{site.baseurl}}/assets/images/posts/way.jpg)
 ![6-sleep.jpg]({{site.baseurl}}/assets/images/posts/6-sleep.jpg)
-
