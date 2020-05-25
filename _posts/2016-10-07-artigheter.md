@@ -10,6 +10,7 @@ feature: jessicaface.jpg
 ![buuuu-kopiera.jpg]({{site.baseurl}}/assets/images/posts/buuuu-kopiera.jpg)
 ![bubbla4.jpg]({{site.baseurl}}/assets/images/posts/bubbla4.jpg)
 ![9-age.jpg]({{site.baseurl}}/assets/images/posts/9-age.jpg)
+![temo.jpg]({{site.baseurl}}/assets/images/posts/temo.jpg)
 ![fish.jpg]({{site.baseurl}}/assets/images/posts/fish.jpg)
 ![dans.jpg]({{site.baseurl}}/assets/images/posts/dans.jpg)
 ![abo.jpg]({{site.baseurl}}/assets/images/posts/abo.jpg)
