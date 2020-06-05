@@ -19,7 +19,7 @@ feature: ast (2).jpg
 ![amman.jpg]({{site.baseurl}}/assets/images/posts/amman.jpg)
 ![power.jpg]({{site.baseurl}}/assets/images/posts/power.jpg)
 ![pyr10.jpg]({{site.baseurl}}/assets/images/posts/pyr10.jpg)
-![why.jpg]({{site.baseurl}}/assets/images/posts/why.jpg)
+![why-kopiera.jpg]({{site.baseurl}}/assets/images/posts/why-kopiera.jpg)
 ![les.jpg]({{site.baseurl}}/assets/images/posts/les.jpg)
 ![RAZOR.jpg]({{site.baseurl}}/assets/images/posts/RAZOR.jpg)
 ![stairs10 copy.jpg]({{site.baseurl}}/assets/images/posts/stairs10 copy.jpg)
