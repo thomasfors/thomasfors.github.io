@@ -14,6 +14,7 @@ feature: ast (2).jpg
 ![red5.jpg]({{site.baseurl}}/assets/images/posts/red5.jpg)
 ![darkroom7.jpg]({{site.baseurl}}/assets/images/posts/darkroom7.jpg)
 ![kandinsky8.jpg]({{site.baseurl}}/assets/images/posts/kandinsky8.jpg)
+![berlin8.jpg]({{site.baseurl}}/assets/images/posts/berlin8.jpg)
 ![HILMA8.jpg]({{site.baseurl}}/assets/images/posts/HILMA8.jpg)
 ![birth.jpg]({{site.baseurl}}/assets/images/posts/birth.jpg)
 ![frida.jpg]({{site.baseurl}}/assets/images/posts/frida.jpg)
