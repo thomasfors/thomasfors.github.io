@@ -7,7 +7,7 @@ feature: ast (2).jpg
 ![möjlig.jpg]({{site.baseurl}}/assets/images/posts/möjlig.jpg)
 ![järnholmen.jpg]({{site.baseurl}}/assets/images/posts/järnholmen.jpg)
 ![kusama.jpg]({{site.baseurl}}/assets/images/posts/kusama.jpg)
-![room.jpg]({{site.baseurl}}/assets/images/posts/room.jpg)
+![14-KARANTÄN.jpg]({{site.baseurl}}/assets/images/posts/14-KARANTÄN.jpg)
 ![gul.jpg]({{site.baseurl}}/assets/images/posts/gul.jpg)
 ![after.jpg]({{site.baseurl}}/assets/images/posts/after.jpg)
 ![rö.jpg]({{site.baseurl}}/assets/images/posts/rö.jpg)
