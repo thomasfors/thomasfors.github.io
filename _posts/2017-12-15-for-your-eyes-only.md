@@ -11,6 +11,7 @@ feature: ast (2).jpg
 ![gul.jpg]({{site.baseurl}}/assets/images/posts/gul.jpg)
 ![after.jpg]({{site.baseurl}}/assets/images/posts/after.jpg)
 ![rö.jpg]({{site.baseurl}}/assets/images/posts/rö.jpg)
+![paint-5.jpg]({{site.baseurl}}/assets/images/posts/paint-5.jpg)
 ![catwalk.jpg]({{site.baseurl}}/assets/images/posts/catwalk.jpg)
 ![darkroom7.jpg]({{site.baseurl}}/assets/images/posts/darkroom7.jpg)
 ![kandinsky8.jpg]({{site.baseurl}}/assets/images/posts/kandinsky8.jpg)
