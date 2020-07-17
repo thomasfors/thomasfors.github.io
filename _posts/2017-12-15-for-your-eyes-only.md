@@ -14,7 +14,6 @@ feature: ast (2).jpg
 ![reedd4.jpg]({{site.baseurl}}/assets/images/posts/reedd4.jpg)
 ![rö.jpg]({{site.baseurl}}/assets/images/posts/rö.jpg)
 ![paint-5.jpg]({{site.baseurl}}/assets/images/posts/paint-5.jpg)
-![wit11.jpg]({{site.baseurl}}/assets/images/posts/wit11.jpg)
 ![fish10.jpg]({{site.baseurl}}/assets/images/posts/fish10.jpg)
 ![catwalk.jpg]({{site.baseurl}}/assets/images/posts/catwalk.jpg)
 ![darkroom7.jpg]({{site.baseurl}}/assets/images/posts/darkroom7.jpg)
