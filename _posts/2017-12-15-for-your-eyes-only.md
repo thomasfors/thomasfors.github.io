@@ -8,7 +8,7 @@ feature: ast (2).jpg
 ![freddy2.jpg]({{site.baseurl}}/assets/images/posts/freddy2.jpg)
 ![järnholmen.jpg]({{site.baseurl}}/assets/images/posts/järnholmen.jpg)
 ![kusama.jpg]({{site.baseurl}}/assets/images/posts/kusama.jpg)
-![14-KARANTÄN.jpg]({{site.baseurl}}/assets/images/posts/14-KARANTÄN.jpg)
+![lila11.jpg]({{site.baseurl}}/assets/images/posts/lila11.jpg)
 ![gul.jpg]({{site.baseurl}}/assets/images/posts/gul.jpg)
 ![after.jpg]({{site.baseurl}}/assets/images/posts/after.jpg)
 ![arti.jpg]({{site.baseurl}}/assets/images/posts/arti.jpg)
