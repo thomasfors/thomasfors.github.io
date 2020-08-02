@@ -6,6 +6,7 @@ feature: jessicaface.jpg
 ---
 ![nanett7.jpg]({{site.baseurl}}/assets/images/posts/nanett7.jpg)
 ![mush10.jpg]({{site.baseurl}}/assets/images/posts/mush10.jpg)
+![spider9.gif]({{site.baseurl}}/assets/images/posts/spider9.gif)
 ![monogami-copy.jpg]({{site.baseurl}}/assets/images/posts/monogami-copy.jpg)
 ![rosas.jpg]({{site.baseurl}}/assets/images/posts/rosas.jpg)
 ![at-last2.jpg]({{site.baseurl}}/assets/images/posts/at-last2.jpg)
