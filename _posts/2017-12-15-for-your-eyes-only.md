@@ -6,6 +6,7 @@ feature: ast (2).jpg
 ---
 ![möjlig.jpg]({{site.baseurl}}/assets/images/posts/möjlig.jpg)
 ![freddy2.jpg]({{site.baseurl}}/assets/images/posts/freddy2.jpg)
+![amnesia13.jpg]({{site.baseurl}}/assets/images/posts/amnesia13.jpg)
 ![järnholmen.jpg]({{site.baseurl}}/assets/images/posts/järnholmen.jpg)
 ![kusama.jpg]({{site.baseurl}}/assets/images/posts/kusama.jpg)
 ![lila11.jpg]({{site.baseurl}}/assets/images/posts/lila11.jpg)
