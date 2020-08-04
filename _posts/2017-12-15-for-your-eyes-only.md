@@ -18,6 +18,7 @@ feature: ast (2).jpg
 ![blue9.jpg]({{site.baseurl}}/assets/images/posts/blue9.jpg)
 ![catwalk.jpg]({{site.baseurl}}/assets/images/posts/catwalk.jpg)
 ![darkroom7.jpg]({{site.baseurl}}/assets/images/posts/darkroom7.jpg)
+![desire2.jpg]({{site.baseurl}}/assets/images/posts/desire2.jpg)
 ![kandinsky8.jpg]({{site.baseurl}}/assets/images/posts/kandinsky8.jpg)
 ![HILMA8.jpg]({{site.baseurl}}/assets/images/posts/HILMA8.jpg)
 ![birth.jpg]({{site.baseurl}}/assets/images/posts/birth.jpg)
