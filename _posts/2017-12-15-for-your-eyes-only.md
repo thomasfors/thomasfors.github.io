@@ -4,6 +4,7 @@ published: true
 title: for your eyes only
 feature: ast (2).jpg
 ---
+![chariot22.jpg]({{site.baseurl}}/assets/images/posts/chariot22.jpg)
 ![möjlig.jpg]({{site.baseurl}}/assets/images/posts/möjlig.jpg)
 ![freddy2.jpg]({{site.baseurl}}/assets/images/posts/freddy2.jpg)
 ![amnesia13.jpg]({{site.baseurl}}/assets/images/posts/amnesia13.jpg)
