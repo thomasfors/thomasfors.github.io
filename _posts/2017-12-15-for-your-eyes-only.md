@@ -28,5 +28,6 @@ feature: ast (2).jpg
 ![stairs10 copy.jpg]({{site.baseurl}}/assets/images/posts/stairs10 copy.jpg)
 ![why-we.jpg]({{site.baseurl}}/assets/images/posts/why-we.jpg)
 ![fishing.jpg]({{site.baseurl}}/assets/images/posts/fishing.jpg)
+![hav7.jpg]({{site.baseurl}}/assets/images/posts/hav7.jpg)
 ![du-är.jpg]({{site.baseurl}}/assets/images/posts/du-är.jpg)
 ![alla.jpg]({{site.baseurl}}/assets/images/posts/alla.jpg)
