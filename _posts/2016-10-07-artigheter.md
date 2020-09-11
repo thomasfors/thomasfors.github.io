@@ -21,3 +21,5 @@ feature: jessicaface.jpg
 ![fish.jpg]({{site.baseurl}}/assets/images/posts/fish.jpg)
 ![abo.jpg]({{site.baseurl}}/assets/images/posts/abo.jpg)
 ![6-sleep.jpg]({{site.baseurl}}/assets/images/posts/6-sleep.jpg)
+![vi-har-bara-varandra.jpg]({{site.baseurl}}/assets/images/posts/vi-har-bara-varandra.jpg)
+
