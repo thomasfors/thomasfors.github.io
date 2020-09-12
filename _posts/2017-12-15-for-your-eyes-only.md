@@ -17,6 +17,7 @@ feature: ast (2).jpg
 ![paint-5.jpg]({{site.baseurl}}/assets/images/posts/paint-5.jpg)
 ![blue9.jpg]({{site.baseurl}}/assets/images/posts/blue9.jpg)
 ![desire2.jpg]({{site.baseurl}}/assets/images/posts/desire2.jpg)
+![blue5.jpg]({{site.baseurl}}/assets/images/posts/blue5.jpg)
 ![HILMA8.jpg]({{site.baseurl}}/assets/images/posts/HILMA8.jpg)
 ![amman.jpg]({{site.baseurl}}/assets/images/posts/amman.jpg)
 ![why-kopiera.jpg]({{site.baseurl}}/assets/images/posts/why-kopiera.jpg)
