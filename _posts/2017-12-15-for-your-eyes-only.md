@@ -5,8 +5,8 @@ title: for your eyes only
 feature: ast (2).jpg
 ---
 ![fit-in3.jpg]({{site.baseurl}}/assets/images/posts/fit-in3.jpg)
+![wonder7.jpg]({{site.baseurl}}/assets/images/posts/wonder7.jpg)
 ![chariot22.jpg]({{site.baseurl}}/assets/images/posts/chariot22.jpg)
-![möjlig.jpg]({{site.baseurl}}/assets/images/posts/möjlig.jpg)
 ![freddy2.jpg]({{site.baseurl}}/assets/images/posts/freddy2.jpg)
 ![amnesia13.jpg]({{site.baseurl}}/assets/images/posts/amnesia13.jpg)
 ![järnholmen.jpg]({{site.baseurl}}/assets/images/posts/järnholmen.jpg)
