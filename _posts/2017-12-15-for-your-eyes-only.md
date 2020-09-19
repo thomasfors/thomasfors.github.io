@@ -11,7 +11,7 @@ feature: ast (2).jpg
 ![freddy2.jpg]({{site.baseurl}}/assets/images/posts/freddy2.jpg)
 ![amnesia13.jpg]({{site.baseurl}}/assets/images/posts/amnesia13.jpg)
 ![järnholmen.jpg]({{site.baseurl}}/assets/images/posts/järnholmen.jpg)
-![galleri11.jpg]({{site.baseurl}}/assets/images/posts/galleri11.jpg)
+![travel9.jpg]({{site.baseurl}}/assets/images/posts/travel9.jpg)
 ![kusama.jpg]({{site.baseurl}}/assets/images/posts/kusama.jpg)
 ![arti.jpg]({{site.baseurl}}/assets/images/posts/arti.jpg)
 ![reedd4.jpg]({{site.baseurl}}/assets/images/posts/reedd4.jpg)
