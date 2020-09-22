@@ -16,8 +16,6 @@ feature: jessicaface.jpg
 ![anxity4.jpg]({{site.baseurl}}/assets/images/posts/anxity4.jpg)
 ![buuuu-kopiera.jpg]({{site.baseurl}}/assets/images/posts/buuuu-kopiera.jpg)
 ![bubbla4.jpg]({{site.baseurl}}/assets/images/posts/bubbla4.jpg)
-![9-age.jpg]({{site.baseurl}}/assets/images/posts/9-age.jpg)
-![any-door.jpg]({{site.baseurl}}/assets/images/posts/any-door.jpg)
 ![temo.jpg]({{site.baseurl}}/assets/images/posts/temo.jpg)
 ![fish.jpg]({{site.baseurl}}/assets/images/posts/fish.jpg)
 ![abo.jpg]({{site.baseurl}}/assets/images/posts/abo.jpg)
