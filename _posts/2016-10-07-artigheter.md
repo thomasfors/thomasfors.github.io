@@ -15,7 +15,6 @@ feature: jessicaface.jpg
 ![dödhäst.jpg]({{site.baseurl}}/assets/images/posts/dödhäst.jpg)
 ![anxity4.jpg]({{site.baseurl}}/assets/images/posts/anxity4.jpg)
 ![buuuu-kopiera.jpg]({{site.baseurl}}/assets/images/posts/buuuu-kopiera.jpg)
-![bubbla4.jpg]({{site.baseurl}}/assets/images/posts/bubbla4.jpg)
 ![temo.jpg]({{site.baseurl}}/assets/images/posts/temo.jpg)
 ![fish.jpg]({{site.baseurl}}/assets/images/posts/fish.jpg)
 ![abo.jpg]({{site.baseurl}}/assets/images/posts/abo.jpg)
