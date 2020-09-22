@@ -4,6 +4,7 @@ published: true
 title: FOREVER
 feature: jessicaface.jpg
 ---
+![autumn8.jpg]({{site.baseurl}}/assets/images/posts/autumn8.jpg)
 ![nanett7.jpg]({{site.baseurl}}/assets/images/posts/nanett7.jpg)
 ![mush10.jpg]({{site.baseurl}}/assets/images/posts/mush10.jpg)
 ![spider9.gif]({{site.baseurl}}/assets/images/posts/spider9.gif)
@@ -23,4 +24,3 @@ feature: jessicaface.jpg
 ![6-sleep.jpg]({{site.baseurl}}/assets/images/posts/6-sleep.jpg)
 ![vi-har-bara-varandra.jpg]({{site.baseurl}}/assets/images/posts/vi-har-bara-varandra.jpg)
 ![frame8.jpg]({{site.baseurl}}/assets/images/posts/frame8.jpg)
-
