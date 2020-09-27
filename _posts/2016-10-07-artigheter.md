@@ -16,7 +16,5 @@ feature: jessicaface.jpg
 ![buuuu-kopiera.jpg]({{site.baseurl}}/assets/images/posts/buuuu-kopiera.jpg)
 ![temo.jpg]({{site.baseurl}}/assets/images/posts/temo.jpg)
 ![fish.jpg]({{site.baseurl}}/assets/images/posts/fish.jpg)
-![abo.jpg]({{site.baseurl}}/assets/images/posts/abo.jpg)
-![6-sleep.jpg]({{site.baseurl}}/assets/images/posts/6-sleep.jpg)
 ![vi-har-bara-varandra.jpg]({{site.baseurl}}/assets/images/posts/vi-har-bara-varandra.jpg)
 ![frame8.jpg]({{site.baseurl}}/assets/images/posts/frame8.jpg)
