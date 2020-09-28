@@ -29,3 +29,5 @@ feature: ast (2).jpg
 ![hav7.jpg]({{site.baseurl}}/assets/images/posts/hav7.jpg)
 ![du-är.jpg]({{site.baseurl}}/assets/images/posts/du-är.jpg)
 ![alla.jpg]({{site.baseurl}}/assets/images/posts/alla.jpg)
+![JUST6.jpg]({{site.baseurl}}/assets/images/posts/JUST6.jpg)
+
