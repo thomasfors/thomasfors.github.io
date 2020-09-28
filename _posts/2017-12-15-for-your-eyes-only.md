@@ -16,6 +16,7 @@ feature: ast (2).jpg
 ![arti.jpg]({{site.baseurl}}/assets/images/posts/arti.jpg)
 ![reedd4.jpg]({{site.baseurl}}/assets/images/posts/reedd4.jpg)
 ![rö.jpg]({{site.baseurl}}/assets/images/posts/rö.jpg)
+![bullet7.jpg]({{site.baseurl}}/assets/images/posts/bullet7.jpg)
 ![paint-5.jpg]({{site.baseurl}}/assets/images/posts/paint-5.jpg)
 ![yellow-mellow14.jpg]({{site.baseurl}}/assets/images/posts/yellow-mellow14.jpg)
 ![blue9.jpg]({{site.baseurl}}/assets/images/posts/blue9.jpg)
