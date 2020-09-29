@@ -16,7 +16,6 @@ feature: ast (2).jpg
 ![bullet7.jpg]({{site.baseurl}}/assets/images/posts/bullet7.jpg)
 ![paint-5.jpg]({{site.baseurl}}/assets/images/posts/paint-5.jpg)
 ![yellow-mellow14.jpg]({{site.baseurl}}/assets/images/posts/yellow-mellow14.jpg)
-![blue9.jpg]({{site.baseurl}}/assets/images/posts/blue9.jpg)
 ![desire2.jpg]({{site.baseurl}}/assets/images/posts/desire2.jpg)
 ![HILMA8.jpg]({{site.baseurl}}/assets/images/posts/HILMA8.jpg)
 ![amman.jpg]({{site.baseurl}}/assets/images/posts/amman.jpg)
