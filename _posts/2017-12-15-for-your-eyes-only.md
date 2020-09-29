@@ -12,7 +12,6 @@ feature: ast (2).jpg
 ![travel9.jpg]({{site.baseurl}}/assets/images/posts/travel9.jpg)
 ![kusama.jpg]({{site.baseurl}}/assets/images/posts/kusama.jpg)
 ![arti.jpg]({{site.baseurl}}/assets/images/posts/arti.jpg)
-![reedd4.jpg]({{site.baseurl}}/assets/images/posts/reedd4.jpg)
 ![rö.jpg]({{site.baseurl}}/assets/images/posts/rö.jpg)
 ![bullet7.jpg]({{site.baseurl}}/assets/images/posts/bullet7.jpg)
 ![paint-5.jpg]({{site.baseurl}}/assets/images/posts/paint-5.jpg)
