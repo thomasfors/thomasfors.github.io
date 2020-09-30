@@ -7,6 +7,7 @@ feature: ast (2).jpg
 ![wonder7.jpg]({{site.baseurl}}/assets/images/posts/wonder7.jpg)
 ![chariot22.jpg]({{site.baseurl}}/assets/images/posts/chariot22.jpg)
 ![freddy2.jpg]({{site.baseurl}}/assets/images/posts/freddy2.jpg)
+![rönn10.jpg]({{site.baseurl}}/assets/images/posts/rönn10.jpg)
 ![amnesia13.jpg]({{site.baseurl}}/assets/images/posts/amnesia13.jpg)
 ![järnholmen.jpg]({{site.baseurl}}/assets/images/posts/järnholmen.jpg)
 ![travel9.jpg]({{site.baseurl}}/assets/images/posts/travel9.jpg)
