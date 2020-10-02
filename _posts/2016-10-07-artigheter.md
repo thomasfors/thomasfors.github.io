@@ -18,3 +18,5 @@ feature: jessicaface.jpg
 ![fish.jpg]({{site.baseurl}}/assets/images/posts/fish.jpg)
 ![vi-har-bara-varandra.jpg]({{site.baseurl}}/assets/images/posts/vi-har-bara-varandra.jpg)
 ![frame8.jpg]({{site.baseurl}}/assets/images/posts/frame8.jpg)
+![tempel15.jpg]({{site.baseurl}}/assets/images/posts/tempel15.jpg)
+
