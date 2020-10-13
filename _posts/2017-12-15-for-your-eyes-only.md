@@ -6,6 +6,7 @@ feature: ast (2).jpg
 ---
 ![wonder7.jpg]({{site.baseurl}}/assets/images/posts/wonder7.jpg)
 ![chariot22.jpg]({{site.baseurl}}/assets/images/posts/chariot22.jpg)
+![rumi12.jpg]({{site.baseurl}}/assets/images/posts/rumi12.jpg)
 ![freddy2.jpg]({{site.baseurl}}/assets/images/posts/freddy2.jpg)
 ![rönn10.jpg]({{site.baseurl}}/assets/images/posts/rönn10.jpg)
 ![amnesia13.jpg]({{site.baseurl}}/assets/images/posts/amnesia13.jpg)
@@ -29,4 +30,3 @@ feature: ast (2).jpg
 ![alla.jpg]({{site.baseurl}}/assets/images/posts/alla.jpg)
 ![JUST6.jpg]({{site.baseurl}}/assets/images/posts/JUST6.jpg)
 ![illusioner.jpg]({{site.baseurl}}/assets/images/posts/illusioner.jpg)
-
