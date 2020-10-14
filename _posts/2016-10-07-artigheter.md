@@ -6,6 +6,7 @@ feature: jessicaface.jpg
 ---
 ![autumn8.jpg]({{site.baseurl}}/assets/images/posts/autumn8.jpg)
 ![nanett7.jpg]({{site.baseurl}}/assets/images/posts/nanett7.jpg)
+![rumi14.jpg]({{site.baseurl}}/assets/images/posts/rumi14.jpg)
 ![mush10.jpg]({{site.baseurl}}/assets/images/posts/mush10.jpg)
 ![spider9.gif]({{site.baseurl}}/assets/images/posts/spider9.gif)
 ![rosas.jpg]({{site.baseurl}}/assets/images/posts/rosas.jpg)
@@ -19,4 +20,3 @@ feature: jessicaface.jpg
 ![vi-har-bara-varandra.jpg]({{site.baseurl}}/assets/images/posts/vi-har-bara-varandra.jpg)
 ![frame8.jpg]({{site.baseurl}}/assets/images/posts/frame8.jpg)
 ![tempel15.jpg]({{site.baseurl}}/assets/images/posts/tempel15.jpg)
-
