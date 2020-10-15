@@ -6,7 +6,7 @@ feature: jessicaface.jpg
 ---
 ![autumn8.jpg]({{site.baseurl}}/assets/images/posts/autumn8.jpg)
 ![nanett7.jpg]({{site.baseurl}}/assets/images/posts/nanett7.jpg)
-![rumi14.jpg]({{site.baseurl}}/assets/images/posts/rumi14.jpg)
+![castle4.jpg]({{site.baseurl}}/assets/images/posts/castle4.jpg)
 ![mush10.jpg]({{site.baseurl}}/assets/images/posts/mush10.jpg)
 ![spider9.gif]({{site.baseurl}}/assets/images/posts/spider9.gif)
 ![rosas.jpg]({{site.baseurl}}/assets/images/posts/rosas.jpg)
