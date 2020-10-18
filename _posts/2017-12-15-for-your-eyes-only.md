@@ -6,7 +6,6 @@ feature: ast (2).jpg
 ---
 ![wonder7.jpg]({{site.baseurl}}/assets/images/posts/wonder7.jpg)
 ![chariot22.jpg]({{site.baseurl}}/assets/images/posts/chariot22.jpg)
-![rumi12.jpg]({{site.baseurl}}/assets/images/posts/rumi12.jpg)
 ![freddy2.jpg]({{site.baseurl}}/assets/images/posts/freddy2.jpg)
 ![rönn10.jpg]({{site.baseurl}}/assets/images/posts/rönn10.jpg)
 ![amnesia13.jpg]({{site.baseurl}}/assets/images/posts/amnesia13.jpg)
@@ -16,7 +15,9 @@ feature: ast (2).jpg
 ![SURENDER10.jpg]({{site.baseurl}}/assets/images/posts/SURENDER10.jpg)
 ![rö.jpg]({{site.baseurl}}/assets/images/posts/rö.jpg)
 ![bullet7.jpg]({{site.baseurl}}/assets/images/posts/bullet7.jpg)
+![sealevel5.jpg]({{site.baseurl}}/assets/images/posts/sealevel5.jpg)
 ![paint-5.jpg]({{site.baseurl}}/assets/images/posts/paint-5.jpg)
+![sierska.jpg]({{site.baseurl}}/assets/images/posts/sierska.jpg)
 ![catch2.jpg]({{site.baseurl}}/assets/images/posts/catch2.jpg)
 ![yellow-mellow14.jpg]({{site.baseurl}}/assets/images/posts/yellow-mellow14.jpg)
 ![desire2.jpg]({{site.baseurl}}/assets/images/posts/desire2.jpg)
