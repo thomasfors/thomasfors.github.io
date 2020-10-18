@@ -4,7 +4,6 @@ published: true
 title: for your eyes only
 feature: ast (2).jpg
 ---
-![wonder7.jpg]({{site.baseurl}}/assets/images/posts/wonder7.jpg)
 ![chariot22.jpg]({{site.baseurl}}/assets/images/posts/chariot22.jpg)
 ![freddy2.jpg]({{site.baseurl}}/assets/images/posts/freddy2.jpg)
 ![rönn10.jpg]({{site.baseurl}}/assets/images/posts/rönn10.jpg)
@@ -30,4 +29,5 @@ feature: ast (2).jpg
 ![du-är.jpg]({{site.baseurl}}/assets/images/posts/du-är.jpg)
 ![alla.jpg]({{site.baseurl}}/assets/images/posts/alla.jpg)
 ![JUST6.jpg]({{site.baseurl}}/assets/images/posts/JUST6.jpg)
+![wonder8.jpg]({{site.baseurl}}/assets/images/posts/wonder8.jpg)
 ![illusioner.jpg]({{site.baseurl}}/assets/images/posts/illusioner.jpg)
