@@ -21,6 +21,8 @@ feature: ast (2).jpg
 ![yellow-mellow14.jpg]({{site.baseurl}}/assets/images/posts/yellow-mellow14.jpg)
 ![desire2.jpg]({{site.baseurl}}/assets/images/posts/desire2.jpg)
 ![HILMA8.jpg]({{site.baseurl}}/assets/images/posts/HILMA8.jpg)
+![travel.jpg]({{site.baseurl}}/assets/images/posts/travel.jpg)
+![nära-dig-4.jpg]({{site.baseurl}}/assets/images/posts/nära-dig-4.jpg)
 ![amman.jpg]({{site.baseurl}}/assets/images/posts/amman.jpg)
 ![why-kopiera.jpg]({{site.baseurl}}/assets/images/posts/why-kopiera.jpg)
 ![why-we.jpg]({{site.baseurl}}/assets/images/posts/why-we.jpg)
