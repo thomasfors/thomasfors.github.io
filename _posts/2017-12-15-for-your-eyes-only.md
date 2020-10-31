@@ -16,6 +16,7 @@ feature: ast (2).jpg
 ![strawberry6.jpg]({{site.baseurl}}/assets/images/posts/strawberry6.jpg)
 ![paint-5.jpg]({{site.baseurl}}/assets/images/posts/paint-5.jpg)
 ![sierska.jpg]({{site.baseurl}}/assets/images/posts/sierska.jpg)
+![bliss24.jpg]({{site.baseurl}}/assets/images/posts/bliss24.jpg)
 ![catch2.jpg]({{site.baseurl}}/assets/images/posts/catch2.jpg)
 ![desire2.jpg]({{site.baseurl}}/assets/images/posts/desire2.jpg)
 ![HILMA8.jpg]({{site.baseurl}}/assets/images/posts/HILMA8.jpg)
