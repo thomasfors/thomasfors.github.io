@@ -10,7 +10,7 @@ feature: ast (2).jpg
 ![rönn11.jpg]({{site.baseurl}}/assets/images/posts/rönn11.jpg)
 ![rönn10.jpg]({{site.baseurl}}/assets/images/posts/rönn10.jpg)
 ![amnesia13.jpg]({{site.baseurl}}/assets/images/posts/amnesia13.jpg)
-![while.jpg]({{site.baseurl}}/assets/images/posts/while.jpg)
+![besked1.jpg]({{site.baseurl}}/assets/images/posts/besked1.jpg)
 ![SURENDER10.jpg]({{site.baseurl}}/assets/images/posts/SURENDER10.jpg)
 ![rö.jpg]({{site.baseurl}}/assets/images/posts/rö.jpg)
 ![bullet7.jpg]({{site.baseurl}}/assets/images/posts/bullet7.jpg)
