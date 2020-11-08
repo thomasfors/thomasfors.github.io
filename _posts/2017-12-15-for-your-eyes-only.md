@@ -17,6 +17,7 @@ feature: ast (2).jpg
 ![sealevel5.jpg]({{site.baseurl}}/assets/images/posts/sealevel5.jpg)
 ![strawberry6.jpg]({{site.baseurl}}/assets/images/posts/strawberry6.jpg)
 ![paint-5.jpg]({{site.baseurl}}/assets/images/posts/paint-5.jpg)
+![mask6.jpg]({{site.baseurl}}/assets/images/posts/mask6.jpg)
 ![sierska.jpg]({{site.baseurl}}/assets/images/posts/sierska.jpg)
 ![bliss24.jpg]({{site.baseurl}}/assets/images/posts/bliss24.jpg)
 ![catch2.jpg]({{site.baseurl}}/assets/images/posts/catch2.jpg)
