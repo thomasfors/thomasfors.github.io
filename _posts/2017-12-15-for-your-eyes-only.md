@@ -6,6 +6,7 @@ feature: ast (2).jpg
 ---
 ![chariot22.jpg]({{site.baseurl}}/assets/images/posts/chariot22.jpg)
 ![freddy2.jpg]({{site.baseurl}}/assets/images/posts/freddy2.jpg)
+![skyline4.jpg]({{site.baseurl}}/assets/images/posts/skyline4.jpg)
 ![buble19.jpg]({{site.baseurl}}/assets/images/posts/buble19.jpg)
 ![rönn11.jpg]({{site.baseurl}}/assets/images/posts/rönn11.jpg)
 ![rönn10.jpg]({{site.baseurl}}/assets/images/posts/rönn10.jpg)
