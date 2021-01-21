@@ -27,8 +27,6 @@ feature: ast (2).jpg
 ![paint-5.jpg]({{site.baseurl}}/assets/images/posts/paint-5.jpg)
 ![mask6.jpg]({{site.baseurl}}/assets/images/posts/mask6.jpg)
 ![pic4.jpg]({{site.baseurl}}/assets/images/posts/pic4.jpg)
-![sierska.jpg]({{site.baseurl}}/assets/images/posts/sierska.jpg)
-![armageddon.jpg]({{site.baseurl}}/assets/images/posts/armageddon.jpg)
 ![catch2.jpg]({{site.baseurl}}/assets/images/posts/catch2.jpg)
 ![desire2.jpg]({{site.baseurl}}/assets/images/posts/desire2.jpg)
 ![HILMA8.jpg]({{site.baseurl}}/assets/images/posts/HILMA8.jpg)
