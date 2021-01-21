@@ -33,11 +33,4 @@ feature: ast (2).jpg
 ![nära-dig-4.jpg]({{site.baseurl}}/assets/images/posts/nära-dig-4.jpg)
 ![amman.jpg]({{site.baseurl}}/assets/images/posts/amman.jpg)
 ![why-kopiera.jpg]({{site.baseurl}}/assets/images/posts/why-kopiera.jpg)
-![why-we.jpg]({{site.baseurl}}/assets/images/posts/why-we.jpg)
-![fishing.jpg]({{site.baseurl}}/assets/images/posts/fishing.jpg)
-![hav7.jpg]({{site.baseurl}}/assets/images/posts/hav7.jpg)
-![du-är.jpg]({{site.baseurl}}/assets/images/posts/du-är.jpg)
-![alla.jpg]({{site.baseurl}}/assets/images/posts/alla.jpg)
-![JUST6.jpg]({{site.baseurl}}/assets/images/posts/JUST6.jpg)
-![wonder8.jpg]({{site.baseurl}}/assets/images/posts/wonder8.jpg)
-![illusioner.jpg]({{site.baseurl}}/assets/images/posts/illusioner.jpg)
+
