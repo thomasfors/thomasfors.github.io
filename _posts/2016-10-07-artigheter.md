@@ -14,4 +14,5 @@ feature: jessicaface.jpg
 ![30-HOUSE.jpg]({{site.baseurl}}/assets/images/posts/30-HOUSE.jpg)
 ![25-VÄRLDEN.jpg]({{site.baseurl}}/assets/images/posts/25-VÄRLDEN.jpg)
 ![14-martyr.jpg]({{site.baseurl}}/assets/images/posts/14-martyr.jpg)
+![harvest.jpg]({{site.baseurl}}/assets/images/posts/harvest.jpg)
 
