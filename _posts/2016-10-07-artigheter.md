@@ -11,6 +11,7 @@ feature: jessicaface.jpg
 ![mirror6.jpg]({{site.baseurl}}/assets/images/posts/mirror6.jpg)
 ![risk10.jpg]({{site.baseurl}}/assets/images/posts/risk10.jpg)
 ![30-VARGAR.jpg]({{site.baseurl}}/assets/images/posts/30-VARGAR.jpg)
+![fasta12.jpg]({{site.baseurl}}/assets/images/posts/fasta12.jpg)
 ![12-herde.jpg]({{site.baseurl}}/assets/images/posts/12-herde.jpg)
 ![1-frestelse.jpg]({{site.baseurl}}/assets/images/posts/1-frestelse.jpg)
 ![30-HOUSE.jpg]({{site.baseurl}}/assets/images/posts/30-HOUSE.jpg)
@@ -20,4 +21,3 @@ feature: jessicaface.jpg
 ![11-father.jpg]({{site.baseurl}}/assets/images/posts/11-father.jpg)
 ![DOP14.jpg]({{site.baseurl}}/assets/images/posts/DOP14.jpg)
 ![7-ande.jpg]({{site.baseurl}}/assets/images/posts/7-ande.jpg)
-
