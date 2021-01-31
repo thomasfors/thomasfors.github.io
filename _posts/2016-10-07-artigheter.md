@@ -19,5 +19,6 @@ feature: jessicaface.jpg
 ![14-martyr.jpg]({{site.baseurl}}/assets/images/posts/14-martyr.jpg)
 ![harvest.jpg]({{site.baseurl}}/assets/images/posts/harvest.jpg)
 ![11-father.jpg]({{site.baseurl}}/assets/images/posts/11-father.jpg)
+![FÖRDOLDA11.jpg]({{site.baseurl}}/assets/images/posts/FÖRDOLDA11.jpg)
 ![DOP14.jpg]({{site.baseurl}}/assets/images/posts/DOP14.jpg)
 ![7-ande.jpg]({{site.baseurl}}/assets/images/posts/7-ande.jpg)
