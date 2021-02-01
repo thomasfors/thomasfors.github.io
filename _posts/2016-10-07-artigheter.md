@@ -11,6 +11,7 @@ feature: jessicaface.jpg
 ![mirror6.jpg]({{site.baseurl}}/assets/images/posts/mirror6.jpg)
 ![risk10.jpg]({{site.baseurl}}/assets/images/posts/risk10.jpg)
 ![30-VARGAR.jpg]({{site.baseurl}}/assets/images/posts/30-VARGAR.jpg)
+![mask-7.jpg]({{site.baseurl}}/assets/images/posts/mask-7.jpg)
 ![fasta12.jpg]({{site.baseurl}}/assets/images/posts/fasta12.jpg)
 ![12-herde.jpg]({{site.baseurl}}/assets/images/posts/12-herde.jpg)
 ![1-frestelse.jpg]({{site.baseurl}}/assets/images/posts/1-frestelse.jpg)
