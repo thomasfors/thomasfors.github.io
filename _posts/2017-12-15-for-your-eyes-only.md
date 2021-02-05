@@ -10,8 +10,10 @@ feature: ast (2).jpg
 ![skyline4.jpg]({{site.baseurl}}/assets/images/posts/skyline4.jpg)
 ![sleep7.jpg]({{site.baseurl}}/assets/images/posts/sleep7.jpg)
 ![rönn10.jpg]({{site.baseurl}}/assets/images/posts/rönn10.jpg)
+![experience-8.jpg]({{site.baseurl}}/assets/images/posts/experience-8.jpg)
 ![amnesia13.jpg]({{site.baseurl}}/assets/images/posts/amnesia13.jpg)
 ![besked1.jpg]({{site.baseurl}}/assets/images/posts/besked1.jpg)
+![sudden.jpg]({{site.baseurl}}/assets/images/posts/sudden.jpg)
 ![SURENDER10.jpg]({{site.baseurl}}/assets/images/posts/SURENDER10.jpg)
 ![rö.jpg]({{site.baseurl}}/assets/images/posts/rö.jpg)
 ![bullet7.jpg]({{site.baseurl}}/assets/images/posts/bullet7.jpg)
@@ -33,4 +35,3 @@ feature: ast (2).jpg
 ![nära-dig-4.jpg]({{site.baseurl}}/assets/images/posts/nära-dig-4.jpg)
 ![amman.jpg]({{site.baseurl}}/assets/images/posts/amman.jpg)
 ![why-kopiera.jpg]({{site.baseurl}}/assets/images/posts/why-kopiera.jpg)
-
