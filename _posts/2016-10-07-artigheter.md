@@ -12,6 +12,8 @@ feature: jessicaface.jpg
 ![risk10.jpg]({{site.baseurl}}/assets/images/posts/risk10.jpg)
 ![30-VARGAR.jpg]({{site.baseurl}}/assets/images/posts/30-VARGAR.jpg)
 ![mask-7.jpg]({{site.baseurl}}/assets/images/posts/mask-7.jpg)
+![Prövningens-stund.jpg]({{site.baseurl}}/assets/images/posts/Prövningens-stund.jpg)
+![PRÖVNINGEN-XX.jpg]({{site.baseurl}}/assets/images/posts/PRÖVNINGEN-XX.jpg)
 ![fasta12.jpg]({{site.baseurl}}/assets/images/posts/fasta12.jpg)
 ![12-herde.jpg]({{site.baseurl}}/assets/images/posts/12-herde.jpg)
 ![1-frestelse.jpg]({{site.baseurl}}/assets/images/posts/1-frestelse.jpg)
