@@ -4,6 +4,7 @@ published: true
 title: FOREVER
 feature: jessicaface.jpg
 ---
+![1 DEN KÄMPANDE TRON.jpg]({{site.baseurl}}/assets/images/posts/1 DEN KÄMPANDE TRON.jpg)
 ![KORINTERBREVET.jpg]({{site.baseurl}}/assets/images/posts/KORINTERBREVET.jpg)
 ![berg10.jpg]({{site.baseurl}}/assets/images/posts/berg10.jpg)
 ![burn20.jpg]({{site.baseurl}}/assets/images/posts/burn20.jpg)
