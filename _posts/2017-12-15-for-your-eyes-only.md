@@ -7,6 +7,7 @@ feature: ast (2).jpg
 ![2021.jpg]({{site.baseurl}}/assets/images/posts/2021.jpg)
 ![chariot22.jpg]({{site.baseurl}}/assets/images/posts/chariot22.jpg)
 ![freddy2.jpg]({{site.baseurl}}/assets/images/posts/freddy2.jpg)
+![]({{site.baseurl}}/assets/images/posts/art%20nouve.jpg)
 ![rönn10.jpg]({{site.baseurl}}/assets/images/posts/rönn10.jpg)
 ![experience-8.jpg]({{site.baseurl}}/assets/images/posts/experience-8.jpg)
 ![rö.jpg]({{site.baseurl}}/assets/images/posts/rö.jpg)
