@@ -7,8 +7,6 @@ feature: ast (2).jpg
 ![2021.jpg]({{site.baseurl}}/assets/images/posts/2021.jpg)
 ![chariot22.jpg]({{site.baseurl}}/assets/images/posts/chariot22.jpg)
 ![freddy2.jpg]({{site.baseurl}}/assets/images/posts/freddy2.jpg)
-![skyline4.jpg]({{site.baseurl}}/assets/images/posts/skyline4.jpg)
-![sleep7.jpg]({{site.baseurl}}/assets/images/posts/sleep7.jpg)
 ![rönn10.jpg]({{site.baseurl}}/assets/images/posts/rönn10.jpg)
 ![experience-8.jpg]({{site.baseurl}}/assets/images/posts/experience-8.jpg)
 ![amnesia13.jpg]({{site.baseurl}}/assets/images/posts/amnesia13.jpg)
