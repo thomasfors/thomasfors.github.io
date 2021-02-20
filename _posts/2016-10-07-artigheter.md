@@ -11,7 +11,7 @@ feature: jessicaface.jpg
 ![burn20.jpg]({{site.baseurl}}/assets/images/posts/burn20.jpg)
 ![KÄRLEKEN6.jpg]({{site.baseurl}}/assets/images/posts/KÄRLEKEN6.jpg)
 ![mirror6.jpg]({{site.baseurl}}/assets/images/posts/mirror6.jpg)
-![risk10.jpg]({{site.baseurl}}/assets/images/posts/risk10.jpg)
+![6-shadow.jpg]({{site.baseurl}}/assets/images/posts/6-shadow.jpg)
 ![30-VARGAR.jpg]({{site.baseurl}}/assets/images/posts/30-VARGAR.jpg)
 ![mask-7.jpg]({{site.baseurl}}/assets/images/posts/mask-7.jpg)
 ![Prövningens-stund.jpg]({{site.baseurl}}/assets/images/posts/Prövningens-stund.jpg)
