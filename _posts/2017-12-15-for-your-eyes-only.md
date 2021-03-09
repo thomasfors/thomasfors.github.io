@@ -20,6 +20,7 @@ feature: ast (2).jpg
 ![autumn10.jpg]({{site.baseurl}}/assets/images/posts/autumn10.jpg)
 ![nanett7.jpg]({{site.baseurl}}/assets/images/posts/nanett7.jpg)
 ![mush10.jpg]({{site.baseurl}}/assets/images/posts/mush10.jpg)
+![blue60.jpg]({{site.baseurl}}/assets/images/posts/blue60.jpg)
 ![paint-5.jpg]({{site.baseurl}}/assets/images/posts/paint-5.jpg)
 ![mask6.jpg]({{site.baseurl}}/assets/images/posts/mask6.jpg)
 ![pic4.jpg]({{site.baseurl}}/assets/images/posts/pic4.jpg)
