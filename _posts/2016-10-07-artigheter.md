@@ -4,7 +4,7 @@ published: true
 title: FOREVER
 feature: jessicaface.jpg
 ---
-![skepp17.jpg]({{site.baseurl}}/assets/images/posts/skepp17.jpg)
+![skepp23.jpg]({{site.baseurl}}/assets/images/posts/skepp23.jpg)
 ![KAMP.jpg]({{site.baseurl}}/assets/images/posts/KAMP.jpg)
 ![KORINTERBREVET.jpg]({{site.baseurl}}/assets/images/posts/KORINTERBREVET.jpg)
 ![berg10.jpg]({{site.baseurl}}/assets/images/posts/berg10.jpg)
