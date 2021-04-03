@@ -14,6 +14,7 @@ feature: ast (2).jpg
 ![rö.jpg]({{site.baseurl}}/assets/images/posts/rö.jpg)
 ![bullet7.jpg]({{site.baseurl}}/assets/images/posts/bullet7.jpg)
 ![strawberry6.jpg]({{site.baseurl}}/assets/images/posts/strawberry6.jpg)
+![white14.jpg]({{site.baseurl}}/assets/images/posts/white14.jpg)
 ![horse.jpg]({{site.baseurl}}/assets/images/posts/horse.jpg)
 ![stage3,1.jpg]({{site.baseurl}}/assets/images/posts/stage3,1.jpg)
 ![vi har.jpg]({{site.baseurl}}/assets/images/posts/vi har.jpg)
