@@ -10,7 +10,6 @@ feature: ast (2).jpg
 ![deco9.jpg]({{site.baseurl}}/assets/images/posts/deco9.jpg)
 ![freddy2.jpg]({{site.baseurl}}/assets/images/posts/freddy2.jpg)
 ![ondska.jpg]({{site.baseurl}}/assets/images/posts/ondska.jpg)
-![rönn10.jpg]({{site.baseurl}}/assets/images/posts/rönn10.jpg)
 ![rö.jpg]({{site.baseurl}}/assets/images/posts/rö.jpg)
 ![bullet7.jpg]({{site.baseurl}}/assets/images/posts/bullet7.jpg)
 ![strawberry6.jpg]({{site.baseurl}}/assets/images/posts/strawberry6.jpg)
