@@ -4,7 +4,6 @@ published: true
 title: for your eyes only
 feature: ast (2).jpg
 ---
-![eastern.jpg]({{site.baseurl}}/assets/images/posts/eastern.jpg)
 ![2021.jpg]({{site.baseurl}}/assets/images/posts/2021.jpg)
 ![stilla-din-häftiga-själ.jpg]({{site.baseurl}}/assets/images/posts/stilla-din-häftiga-själ.jpg)
 ![chariot22.jpg]({{site.baseurl}}/assets/images/posts/chariot22.jpg)
