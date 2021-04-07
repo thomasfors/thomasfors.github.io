@@ -5,6 +5,7 @@ title: for your eyes only
 feature: ast (2).jpg
 ---
 ![2021.jpg]({{site.baseurl}}/assets/images/posts/2021.jpg)
+![jump9-kopiera.jpg]({{site.baseurl}}/assets/images/posts/jump9-kopiera.jpg)
 ![stilla-din-häftiga-själ.jpg]({{site.baseurl}}/assets/images/posts/stilla-din-häftiga-själ.jpg)
 ![chariot22.jpg]({{site.baseurl}}/assets/images/posts/chariot22.jpg)
 ![deco9.jpg]({{site.baseurl}}/assets/images/posts/deco9.jpg)
