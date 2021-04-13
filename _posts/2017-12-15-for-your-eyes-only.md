@@ -10,7 +10,7 @@ feature: ast (2).jpg
 ![freddy2.jpg]({{site.baseurl}}/assets/images/posts/freddy2.jpg)
 ![response3.jpg]({{site.baseurl}}/assets/images/posts/response3.jpg)
 ![ondska.jpg]({{site.baseurl}}/assets/images/posts/ondska.jpg)
-![comfort5.jpg]({{site.baseurl}}/assets/images/posts/comfort5.jpg)
+![comfort9.jpg]({{site.baseurl}}/assets/images/posts/comfort9.jpg)
 ![rö.jpg]({{site.baseurl}}/assets/images/posts/rö.jpg)
 ![bullet7.jpg]({{site.baseurl}}/assets/images/posts/bullet7.jpg)
 ![strawberry6.jpg]({{site.baseurl}}/assets/images/posts/strawberry6.jpg)
