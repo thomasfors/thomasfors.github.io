@@ -17,6 +17,7 @@ feature: ast (2).jpg
 ![dead-flower.jpg]({{site.baseurl}}/assets/images/posts/dead-flower.jpg)
 ![horse.jpg]({{site.baseurl}}/assets/images/posts/horse.jpg)
 ![stage3,1.jpg]({{site.baseurl}}/assets/images/posts/stage3,1.jpg)
+![leaving8.jpg]({{site.baseurl}}/assets/images/posts/leaving8.jpg)
 ![vi har.jpg]({{site.baseurl}}/assets/images/posts/vi har.jpg)
 ![fish.jpg]({{site.baseurl}}/assets/images/posts/fish.jpg)
 ![autumn10.jpg]({{site.baseurl}}/assets/images/posts/autumn10.jpg)
