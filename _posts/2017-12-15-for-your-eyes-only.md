@@ -30,5 +30,4 @@ feature: ast (2).jpg
 ![pic4.jpg]({{site.baseurl}}/assets/images/posts/pic4.jpg)
 ![catch2.jpg]({{site.baseurl}}/assets/images/posts/catch2.jpg)
 ![HILMA8.jpg]({{site.baseurl}}/assets/images/posts/HILMA8.jpg)
-![amman.jpg]({{site.baseurl}}/assets/images/posts/amman.jpg)
 ![why-kopiera.jpg]({{site.baseurl}}/assets/images/posts/why-kopiera.jpg)
