@@ -23,7 +23,7 @@ feature: ast (2).jpg
 ![nanett7.jpg]({{site.baseurl}}/assets/images/posts/nanett7.jpg)
 ![6-run.jpg]({{site.baseurl}}/assets/images/posts/6-run.jpg)
 ![mush10.jpg]({{site.baseurl}}/assets/images/posts/mush10.jpg)
-![paint-5.jpg]({{site.baseurl}}/assets/images/posts/paint-5.jpg)
+![2021-10.jpg]({{site.baseurl}}/assets/images/posts/2021-10.jpg)
 ![mask6.jpg]({{site.baseurl}}/assets/images/posts/mask6.jpg)
 ![pic4.jpg]({{site.baseurl}}/assets/images/posts/pic4.jpg)
 ![catch2.jpg]({{site.baseurl}}/assets/images/posts/catch2.jpg)
