@@ -9,4 +9,7 @@ title: THOMASEVANGELIET
 ![4 LIE.jpg]({{site.baseurl}}/assets/images/posts/4 LIE.jpg)
 ![5 AGNAR.jpg]({{site.baseurl}}/assets/images/posts/5 AGNAR.jpg)
 ![6 SAVED.jpg]({{site.baseurl}}/assets/images/posts/6 SAVED.jpg)
+![7 ISRAEL.jpg]({{site.baseurl}}/assets/images/posts/7 ISRAEL.jpg)
+![supper3.jpg]({{site.baseurl}}/assets/images/posts/supper3.jpg)
+![gift5.jpg]({{site.baseurl}}/assets/images/posts/gift5.jpg)
 
