@@ -3,6 +3,5 @@ layout: post
 published: true
 title: THOMASEVANGELIET
 ---
-## A New Post
+![1 SÖK.jpg]({{site.baseurl}}/assets/images/posts/1 SÖK.jpg)
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
