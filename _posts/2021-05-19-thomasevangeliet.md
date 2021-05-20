@@ -15,4 +15,5 @@ title: THOMASEVANGELIET
 ![OMEGA.jpg]({{site.baseurl}}/assets/images/posts/OMEGA.jpg)
 ![enenda5.jpg]({{site.baseurl}}/assets/images/posts/enenda5.jpg)
 ![light5.jpg]({{site.baseurl}}/assets/images/posts/light5.jpg)
+![friend6.jpg]({{site.baseurl}}/assets/images/posts/friend6.jpg)
 
