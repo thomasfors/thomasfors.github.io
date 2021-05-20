@@ -12,5 +12,4 @@ title: THOMASEVANGELIET
 ![7 ISRAEL.jpg]({{site.baseurl}}/assets/images/posts/7 ISRAEL.jpg)
 ![supper3.jpg]({{site.baseurl}}/assets/images/posts/supper3.jpg)
 ![gift5.jpg]({{site.baseurl}}/assets/images/posts/gift5.jpg)
-![OMEGA5.jpg]({{site.baseurl}}/assets/images/posts/OMEGA5.jpg)
-
+![OMEGA.jpg]({{site.baseurl}}/assets/images/posts/OMEGA.jpg)
