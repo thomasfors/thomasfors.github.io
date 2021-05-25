@@ -19,4 +19,5 @@ title: THOMASEVANGELIET
 ![solitude10.jpg]({{site.baseurl}}/assets/images/posts/solitude10.jpg)
 ![vila5.jpg]({{site.baseurl}}/assets/images/posts/vila5.jpg)
 ![ett-4.jpg]({{site.baseurl}}/assets/images/posts/ett-4.jpg)
+![clothes9.jpg]({{site.baseurl}}/assets/images/posts/clothes9.jpg)
 
