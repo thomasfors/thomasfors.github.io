@@ -22,5 +22,5 @@ title: THOMASEVANGELIET
 ![clothes9.jpg]({{site.baseurl}}/assets/images/posts/clothes9.jpg)
 ![bread14.jpg]({{site.baseurl}}/assets/images/posts/bread14.jpg)
 ![SELF-6.jpg]({{site.baseurl}}/assets/images/posts/SELF-6.jpg)
-
+![computer9.jpg]({{site.baseurl}}/assets/images/posts/computer9.jpg)
 
