@@ -25,3 +25,5 @@ title: THOMASEVANGELIET
 ![computer9.jpg]({{site.baseurl}}/assets/images/posts/computer9.jpg)
 ![to-do-9.jpg]({{site.baseurl}}/assets/images/posts/to-do-9.jpg)
 ![tvåarton.jpg]({{site.baseurl}}/assets/images/posts/tvåarton.jpg)
+![SE2.jpg]({{site.baseurl}}/assets/images/posts/SE2.jpg)
+
