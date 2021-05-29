@@ -27,4 +27,5 @@ title: THOMASEVANGELIET
 ![tvåarton.jpg]({{site.baseurl}}/assets/images/posts/tvåarton.jpg)
 ![SE2.jpg]({{site.baseurl}}/assets/images/posts/SE2.jpg)
 ![WELLWELL4.jpg]({{site.baseurl}}/assets/images/posts/WELLWELL4.jpg)
+![BJÄLKE-13.jpg]({{site.baseurl}}/assets/images/posts/BJÄLKE-13.jpg)
 
