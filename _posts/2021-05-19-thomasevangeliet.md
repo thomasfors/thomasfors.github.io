@@ -3,6 +3,7 @@ layout: post
 published: true
 title: THOMASEVANGELIET
 ---
+![eld7.jpg]({{site.baseurl}}/assets/images/posts/eld7.jpg)
 ![1 SÖK.jpg]({{site.baseurl}}/assets/images/posts/1 SÖK.jpg)
 ![3-ONE.jpg]({{site.baseurl}}/assets/images/posts/3-ONE.jpg)
 ![4 LIE.jpg]({{site.baseurl}}/assets/images/posts/4 LIE.jpg)
@@ -29,4 +30,3 @@ title: THOMASEVANGELIET
 ![BJÄLKE.jpg]({{site.baseurl}}/assets/images/posts/BJÄLKE.jpg)
 ![WELLWELL4.jpg]({{site.baseurl}}/assets/images/posts/WELLWELL4.jpg)
 ![FIRE4.jpg]({{site.baseurl}}/assets/images/posts/FIRE4.jpg)
-
