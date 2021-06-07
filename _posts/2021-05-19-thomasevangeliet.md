@@ -12,7 +12,7 @@ title: THOMASEVANGELIET
 ![gift5.jpg]({{site.baseurl}}/assets/images/posts/gift5.jpg)
 ![OMEGA.jpg]({{site.baseurl}}/assets/images/posts/OMEGA.jpg)
 ![enenda5.jpg]({{site.baseurl}}/assets/images/posts/enenda5.jpg)
-![light5.jpg]({{site.baseurl}}/assets/images/posts/light5.jpg)
+![ljus.jpg]({{site.baseurl}}/assets/images/posts/ljus.jpg)
 ![friend6.jpg]({{site.baseurl}}/assets/images/posts/friend6.jpg)
 ![DRUCKNA.jpg]({{site.baseurl}}/assets/images/posts/DRUCKNA.jpg)
 ![BLUSEA.jpg]({{site.baseurl}}/assets/images/posts/BLUSEA.jpg)
