@@ -4,7 +4,7 @@ published: true
 title: THOMASEVANGELIET
 ---
 ![eld7.jpg]({{site.baseurl}}/assets/images/posts/eld7.jpg)
-![1 SÖK.jpg]({{site.baseurl}}/assets/images/posts/1 SÖK.jpg)
+![th.jpg]({{site.baseurl}}/assets/images/posts/th.jpg)
 ![3-ONE.jpg]({{site.baseurl}}/assets/images/posts/3-ONE.jpg)
 ![4 LIE.jpg]({{site.baseurl}}/assets/images/posts/4 LIE.jpg)
 ![7 ISRAEL.jpg]({{site.baseurl}}/assets/images/posts/7 ISRAEL.jpg)
