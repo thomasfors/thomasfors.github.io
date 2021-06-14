@@ -5,10 +5,6 @@ title: THOMASEVANGELIET
 ---
 ![eld7.jpg]({{site.baseurl}}/assets/images/posts/eld7.jpg)
 ![th.jpg]({{site.baseurl}}/assets/images/posts/th.jpg)
-![3-ONE.jpg]({{site.baseurl}}/assets/images/posts/3-ONE.jpg)
-![4 LIE.jpg]({{site.baseurl}}/assets/images/posts/4 LIE.jpg)
-![7 ISRAEL.jpg]({{site.baseurl}}/assets/images/posts/7 ISRAEL.jpg)
-![supper3.jpg]({{site.baseurl}}/assets/images/posts/supper3.jpg)
 ![gift5.jpg]({{site.baseurl}}/assets/images/posts/gift5.jpg)
 ![OMEGA.jpg]({{site.baseurl}}/assets/images/posts/OMEGA.jpg)
 ![enenda5.jpg]({{site.baseurl}}/assets/images/posts/enenda5.jpg)
