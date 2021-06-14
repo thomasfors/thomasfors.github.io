@@ -21,4 +21,6 @@ title: THOMASEVANGELIET
 ![SE2.jpg]({{site.baseurl}}/assets/images/posts/SE2.jpg)
 ![BJÄLKE.jpg]({{site.baseurl}}/assets/images/posts/BJÄLKE.jpg)
 ![WELLWELL4.jpg]({{site.baseurl}}/assets/images/posts/WELLWELL4.jpg)
+![7-ISRAEL.jpg]({{site.baseurl}}/assets/images/posts/7-ISRAEL.jpg)
+
 ![FIRE4.jpg]({{site.baseurl}}/assets/images/posts/FIRE4.jpg)
