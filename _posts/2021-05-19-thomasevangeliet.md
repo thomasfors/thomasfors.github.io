@@ -10,6 +10,7 @@ title: THOMASEVANGELIET
 ![ljus.jpg]({{site.baseurl}}/assets/images/posts/ljus.jpg)
 ![friend6.jpg]({{site.baseurl}}/assets/images/posts/friend6.jpg)
 ![DRUCKNA.jpg]({{site.baseurl}}/assets/images/posts/DRUCKNA.jpg)
+![work3.jpg]({{site.baseurl}}/assets/images/posts/work3.jpg)
 ![BLUSEA.jpg]({{site.baseurl}}/assets/images/posts/BLUSEA.jpg)
 ![i-sin-hand5.jpg]({{site.baseurl}}/assets/images/posts/i-sin-hand5.jpg)
 ![solitude10.jpg]({{site.baseurl}}/assets/images/posts/solitude10.jpg)
