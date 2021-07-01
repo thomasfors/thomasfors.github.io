@@ -3,7 +3,6 @@ layout: post
 published: true
 title: THOMASEVANGELIET
 ---
-![eld7.jpg]({{site.baseurl}}/assets/images/posts/eld7.jpg)
 ![th.jpg]({{site.baseurl}}/assets/images/posts/th.jpg)
 ![gift5.jpg]({{site.baseurl}}/assets/images/posts/gift5.jpg)
 ![OMEGA.jpg]({{site.baseurl}}/assets/images/posts/OMEGA.jpg)
