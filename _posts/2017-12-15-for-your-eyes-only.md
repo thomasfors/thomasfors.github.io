@@ -9,7 +9,6 @@ feature: ast (2).jpg
 ![thinking3.jpg]({{site.baseurl}}/assets/images/posts/thinking3.jpg)
 ![chariot22.jpg]({{site.baseurl}}/assets/images/posts/chariot22.jpg)
 ![response3.jpg]({{site.baseurl}}/assets/images/posts/response3.jpg)
-![ondska.jpg]({{site.baseurl}}/assets/images/posts/ondska.jpg)
 ![comfort9.jpg]({{site.baseurl}}/assets/images/posts/comfort9.jpg)
 ![rö.jpg]({{site.baseurl}}/assets/images/posts/rö.jpg)
 ![bullet7.jpg]({{site.baseurl}}/assets/images/posts/bullet7.jpg)
