@@ -18,8 +18,6 @@ feature: ast (2).jpg
 ![leaving8.jpg]({{site.baseurl}}/assets/images/posts/leaving8.jpg)
 ![together.jpg]({{site.baseurl}}/assets/images/posts/together.jpg)
 ![autumn10.jpg]({{site.baseurl}}/assets/images/posts/autumn10.jpg)
-![nanett7.jpg]({{site.baseurl}}/assets/images/posts/nanett7.jpg)
-![6-run.jpg]({{site.baseurl}}/assets/images/posts/6-run.jpg)
 ![mush10.jpg]({{site.baseurl}}/assets/images/posts/mush10.jpg)
 ![2021-10.jpg]({{site.baseurl}}/assets/images/posts/2021-10.jpg)
 ![mask6.jpg]({{site.baseurl}}/assets/images/posts/mask6.jpg)
