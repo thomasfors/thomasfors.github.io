@@ -22,7 +22,6 @@ title: THOMASEVANGELIET
 ![WELLWELL4.jpg]({{site.baseurl}}/assets/images/posts/WELLWELL4.jpg)
 ![7-ISRAEL.jpg]({{site.baseurl}}/assets/images/posts/7-ISRAEL.jpg)
 ![3-ONE.jpg]({{site.baseurl}}/assets/images/posts/3-ONE.jpg)
-![27-VILA.jpg]({{site.baseurl}}/assets/images/posts/27-VILA.jpg)
 ![8-SUPPER.jpg]({{site.baseurl}}/assets/images/posts/8-SUPPER.jpg)
 ![4-LIE.jpg]({{site.baseurl}}/assets/images/posts/4-LIE.jpg)
 ![FIRE4.jpg]({{site.baseurl}}/assets/images/posts/FIRE4.jpg)
