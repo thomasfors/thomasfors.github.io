@@ -17,7 +17,6 @@ feature: ast (2).jpg
 ![redroomxxx.jpg]({{site.baseurl}}/assets/images/posts/redroomxxx.jpg)
 ![horse.jpg]({{site.baseurl}}/assets/images/posts/horse.jpg)
 ![stage3,1.jpg]({{site.baseurl}}/assets/images/posts/stage3,1.jpg)
-![leaving8.jpg]({{site.baseurl}}/assets/images/posts/leaving8.jpg)
 ![together.jpg]({{site.baseurl}}/assets/images/posts/together.jpg)
 ![autumn10.jpg]({{site.baseurl}}/assets/images/posts/autumn10.jpg)
 ![mush10.jpg]({{site.baseurl}}/assets/images/posts/mush10.jpg)
