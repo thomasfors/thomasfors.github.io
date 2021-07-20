@@ -15,7 +15,6 @@ feature: ast (2).jpg
 ![rö.jpg]({{site.baseurl}}/assets/images/posts/rö.jpg)
 ![bullet7.jpg]({{site.baseurl}}/assets/images/posts/bullet7.jpg)
 ![redroomxxx.jpg]({{site.baseurl}}/assets/images/posts/redroomxxx.jpg)
-![train3.jpg]({{site.baseurl}}/assets/images/posts/train3.jpg)
 ![horse.jpg]({{site.baseurl}}/assets/images/posts/horse.jpg)
 ![stage3,1.jpg]({{site.baseurl}}/assets/images/posts/stage3,1.jpg)
 ![leaving8.jpg]({{site.baseurl}}/assets/images/posts/leaving8.jpg)
