@@ -6,6 +6,7 @@ feature: ast (2).jpg
 ---
 ![2021.jpg]({{site.baseurl}}/assets/images/posts/2021.jpg)
 ![car9.jpg]({{site.baseurl}}/assets/images/posts/car9.jpg)
+![trios4.jpg]({{site.baseurl}}/assets/images/posts/trios4.jpg)
 ![jump9-kopiera.jpg]({{site.baseurl}}/assets/images/posts/jump9-kopiera.jpg)
 ![thinking3.jpg]({{site.baseurl}}/assets/images/posts/thinking3.jpg)
 ![Q2.jpg]({{site.baseurl}}/assets/images/posts/Q2.jpg)
