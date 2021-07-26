@@ -19,7 +19,6 @@ title: THOMASEVANGELIET
 ![to-do-9.jpg]({{site.baseurl}}/assets/images/posts/to-do-9.jpg)
 ![fem.jpg]({{site.baseurl}}/assets/images/posts/fem.jpg)
 ![SE2.jpg]({{site.baseurl}}/assets/images/posts/SE2.jpg)
-![BJÄLKE.jpg]({{site.baseurl}}/assets/images/posts/BJÄLKE.jpg)
 ![WELLWELL4.jpg]({{site.baseurl}}/assets/images/posts/WELLWELL4.jpg)
 ![7-ISRAEL.jpg]({{site.baseurl}}/assets/images/posts/7-ISRAEL.jpg)
 ![3-ONE.jpg]({{site.baseurl}}/assets/images/posts/3-ONE.jpg)
