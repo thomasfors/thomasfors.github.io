@@ -21,7 +21,6 @@ title: THOMASEVANGELIET
 ![fem.jpg]({{site.baseurl}}/assets/images/posts/fem.jpg)
 ![SE2.jpg]({{site.baseurl}}/assets/images/posts/SE2.jpg)
 ![WELLWELL4.jpg]({{site.baseurl}}/assets/images/posts/WELLWELL4.jpg)
-![7-ISRAEL.jpg]({{site.baseurl}}/assets/images/posts/7-ISRAEL.jpg)
 ![3-ONE.jpg]({{site.baseurl}}/assets/images/posts/3-ONE.jpg)
 ![4-LIE.jpg]({{site.baseurl}}/assets/images/posts/4-LIE.jpg)
 ![gläntan4.jpg]({{site.baseurl}}/assets/images/posts/gläntan4.jpg)
