@@ -17,7 +17,7 @@ title: THOMASEVANGELIET
 ![ett-4.jpg]({{site.baseurl}}/assets/images/posts/ett-4.jpg)
 ![clothe2.jpg]({{site.baseurl}}/assets/images/posts/clothe2.jpg)
 ![to-do-9.jpg]({{site.baseurl}}/assets/images/posts/to-do-9.jpg)
-![tvåarton.jpg]({{site.baseurl}}/assets/images/posts/tvåarton.jpg)
+![fem.jpg]({{site.baseurl}}/assets/images/posts/fem.jpg)
 ![SE2.jpg]({{site.baseurl}}/assets/images/posts/SE2.jpg)
 ![BJÄLKE.jpg]({{site.baseurl}}/assets/images/posts/BJÄLKE.jpg)
 ![WELLWELL4.jpg]({{site.baseurl}}/assets/images/posts/WELLWELL4.jpg)
