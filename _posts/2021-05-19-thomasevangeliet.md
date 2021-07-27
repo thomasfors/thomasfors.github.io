@@ -13,7 +13,7 @@ title: THOMASEVANGELIET
 ![work3.jpg]({{site.baseurl}}/assets/images/posts/work3.jpg)
 ![BLUSEA.jpg]({{site.baseurl}}/assets/images/posts/BLUSEA.jpg)
 ![i-sin-hand5.jpg]({{site.baseurl}}/assets/images/posts/i-sin-hand5.jpg)
-![alone6.jpg]({{site.baseurl}}/assets/images/posts/alone6.jpg)
+![THOMAS-50.jpg]({{site.baseurl}}/assets/images/posts/THOMAS-50.jpg)
 ![vila5.jpg]({{site.baseurl}}/assets/images/posts/vila5.jpg)
 ![8-SUPPER-kopiera.jpg]({{site.baseurl}}/assets/images/posts/8-SUPPER-kopiera.jpg)
 ![ett-4.jpg]({{site.baseurl}}/assets/images/posts/ett-4.jpg)
