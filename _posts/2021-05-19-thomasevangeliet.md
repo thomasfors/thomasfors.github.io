@@ -20,7 +20,7 @@ title: THOMASEVANGELIET
 ![clothe2.jpg]({{site.baseurl}}/assets/images/posts/clothe2.jpg)
 ![to-do-9.jpg]({{site.baseurl}}/assets/images/posts/to-do-9.jpg)
 ![fem.jpg]({{site.baseurl}}/assets/images/posts/fem.jpg)
-![SE2.jpg]({{site.baseurl}}/assets/images/posts/SE2.jpg)
+![PRIDE-kopiera.jpg]({{site.baseurl}}/assets/images/posts/PRIDE-kopiera.jpg)
 ![brunn2.jpg]({{site.baseurl}}/assets/images/posts/brunn2.jpg)
 ![3-ONE.jpg]({{site.baseurl}}/assets/images/posts/3-ONE.jpg)
 ![4-LIE.jpg]({{site.baseurl}}/assets/images/posts/4-LIE.jpg)
