@@ -5,6 +5,7 @@ title: THOMASEVANGELIET
 ---
 ![th.jpg]({{site.baseurl}}/assets/images/posts/th.jpg)
 ![gift5.jpg]({{site.baseurl}}/assets/images/posts/gift5.jpg)
+![handmade6.jpg]({{site.baseurl}}/assets/images/posts/handmade6.jpg)
 ![YOU4.jpg]({{site.baseurl}}/assets/images/posts/YOU4.jpg)
 ![LJUS6.jpg]({{site.baseurl}}/assets/images/posts/LJUS6.jpg)
 ![omega4-Återställd.jpg]({{site.baseurl}}/assets/images/posts/omega4-Återställd.jpg)
