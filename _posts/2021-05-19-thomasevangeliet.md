@@ -7,6 +7,7 @@ title: THOMASEVANGELIET
 ![gift5.jpg]({{site.baseurl}}/assets/images/posts/gift5.jpg)
 ![handmade6.jpg]({{site.baseurl}}/assets/images/posts/handmade6.jpg)
 ![blind13.jpg]({{site.baseurl}}/assets/images/posts/blind13.jpg)
+![ARCHI25.jpg]({{site.baseurl}}/assets/images/posts/ARCHI25.jpg)
 ![YOU4.jpg]({{site.baseurl}}/assets/images/posts/YOU4.jpg)
 ![FANN-3.jpg]({{site.baseurl}}/assets/images/posts/FANN-3.jpg)
 ![LJUS6.jpg]({{site.baseurl}}/assets/images/posts/LJUS6.jpg)
