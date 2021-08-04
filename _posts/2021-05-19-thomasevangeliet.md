@@ -8,7 +8,7 @@ title: THOMASEVANGELIET
 ![handmade6.jpg]({{site.baseurl}}/assets/images/posts/handmade6.jpg)
 ![blind13.jpg]({{site.baseurl}}/assets/images/posts/blind13.jpg)
 ![ARCHI25.jpg]({{site.baseurl}}/assets/images/posts/ARCHI25.jpg)
-![YOU4.jpg]({{site.baseurl}}/assets/images/posts/YOU4.jpg)
+![KNOW.jpg]({{site.baseurl}}/assets/images/posts/KNOW.jpg)
 ![FANN-3.jpg]({{site.baseurl}}/assets/images/posts/FANN-3.jpg)
 ![LJUS6.jpg]({{site.baseurl}}/assets/images/posts/LJUS6.jpg)
 ![omega4-Återställd.jpg]({{site.baseurl}}/assets/images/posts/omega4-Återställd.jpg)
