@@ -19,6 +19,7 @@ title: THOMASEVANGELIET
 ![BLUSEA.jpg]({{site.baseurl}}/assets/images/posts/BLUSEA.jpg)
 ![i-sin-hand5.jpg]({{site.baseurl}}/assets/images/posts/i-sin-hand5.jpg)
 ![THOMAS-50.jpg]({{site.baseurl}}/assets/images/posts/THOMAS-50.jpg)
+![säng.jpg]({{site.baseurl}}/assets/images/posts/säng.jpg)
 ![vila5.jpg]({{site.baseurl}}/assets/images/posts/vila5.jpg)
 ![4-LIE.jpg]({{site.baseurl}}/assets/images/posts/4-LIE.jpg)
 ![8-SUPPER-kopiera.jpg]({{site.baseurl}}/assets/images/posts/8-SUPPER-kopiera.jpg)
