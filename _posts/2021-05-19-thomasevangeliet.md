@@ -15,7 +15,7 @@ title: THOMASEVANGELIET
 ![friend6.jpg]({{site.baseurl}}/assets/images/posts/friend6.jpg)
 ![DRUCKNA.jpg]({{site.baseurl}}/assets/images/posts/DRUCKNA.jpg)
 ![DAWN.jpg]({{site.baseurl}}/assets/images/posts/DAWN.jpg)
-![work3.jpg]({{site.baseurl}}/assets/images/posts/work3.jpg)
+![hummer3.jpg]({{site.baseurl}}/assets/images/posts/hummer3.jpg)
 ![BLUSEA.jpg]({{site.baseurl}}/assets/images/posts/BLUSEA.jpg)
 ![i-sin-hand5.jpg]({{site.baseurl}}/assets/images/posts/i-sin-hand5.jpg)
 ![THOMAS-50.jpg]({{site.baseurl}}/assets/images/posts/THOMAS-50.jpg)
