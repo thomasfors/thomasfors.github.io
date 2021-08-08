@@ -29,7 +29,5 @@ title: THOMASEVANGELIET
 ![rörelse.jpg]({{site.baseurl}}/assets/images/posts/rörelse.jpg)
 ![brunn2.jpg]({{site.baseurl}}/assets/images/posts/brunn2.jpg)
 ![3-ONE.jpg]({{site.baseurl}}/assets/images/posts/3-ONE.jpg)
-![gläntan4.jpg]({{site.baseurl}}/assets/images/posts/gläntan4.jpg)
 ![FIRE4.jpg]({{site.baseurl}}/assets/images/posts/FIRE4.jpg)
 ![18-SMÄDAR.jpg]({{site.baseurl}}/assets/images/posts/18-SMÄDAR.jpg)
-
