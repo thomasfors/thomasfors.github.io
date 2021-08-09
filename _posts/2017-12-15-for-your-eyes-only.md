@@ -13,6 +13,7 @@ feature: ast (2).jpg
 ![thinking3.jpg]({{site.baseurl}}/assets/images/posts/thinking3.jpg)
 ![möte3.jpg]({{site.baseurl}}/assets/images/posts/möte3.jpg)
 ![response3.jpg]({{site.baseurl}}/assets/images/posts/response3.jpg)
+![SUMMER.jpg]({{site.baseurl}}/assets/images/posts/SUMMER.jpg)
 ![zon.jpg]({{site.baseurl}}/assets/images/posts/zon.jpg)
 ![redroomxxx.jpg]({{site.baseurl}}/assets/images/posts/redroomxxx.jpg)
 ![horse.jpg]({{site.baseurl}}/assets/images/posts/horse.jpg)
