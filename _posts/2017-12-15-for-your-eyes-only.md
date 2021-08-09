@@ -20,6 +20,7 @@ feature: ast (2).jpg
 ![together.jpg]({{site.baseurl}}/assets/images/posts/together.jpg)
 ![bird.jpg]({{site.baseurl}}/assets/images/posts/bird.jpg)
 ![autumn10.jpg]({{site.baseurl}}/assets/images/posts/autumn10.jpg)
+![vi.jpg]({{site.baseurl}}/assets/images/posts/vi.jpg)
 ![2021-10.jpg]({{site.baseurl}}/assets/images/posts/2021-10.jpg)
 ![sex.jpg]({{site.baseurl}}/assets/images/posts/sex.jpg)
 ![HILMA.jpg]({{site.baseurl}}/assets/images/posts/HILMA.jpg)
