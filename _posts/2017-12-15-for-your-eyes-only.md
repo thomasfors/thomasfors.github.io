@@ -22,4 +22,4 @@ feature: ast (2).jpg
 ![autumn10.jpg]({{site.baseurl}}/assets/images/posts/autumn10.jpg)
 ![2021-10.jpg]({{site.baseurl}}/assets/images/posts/2021-10.jpg)
 ![sex.jpg]({{site.baseurl}}/assets/images/posts/sex.jpg)
-![HILMA8.jpg]({{site.baseurl}}/assets/images/posts/HILMA8.jpg)
+![HILMA.jpg]({{site.baseurl}}/assets/images/posts/HILMA.jpg)
