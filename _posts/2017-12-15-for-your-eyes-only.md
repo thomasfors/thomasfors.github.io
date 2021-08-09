@@ -9,7 +9,7 @@ feature: ast (2).jpg
 ![trios4.jpg]({{site.baseurl}}/assets/images/posts/trios4.jpg)
 ![chair5.jpg]({{site.baseurl}}/assets/images/posts/chair5.jpg)
 ![paris2.jpg]({{site.baseurl}}/assets/images/posts/paris2.jpg)
-![jump9-kopiera.jpg]({{site.baseurl}}/assets/images/posts/jump9-kopiera.jpg)
+![bad.jpg]({{site.baseurl}}/assets/images/posts/bad.jpg)
 ![thinking3.jpg]({{site.baseurl}}/assets/images/posts/thinking3.jpg)
 ![möte3.jpg]({{site.baseurl}}/assets/images/posts/möte3.jpg)
 ![CAT.jpg]({{site.baseurl}}/assets/images/posts/CAT.jpg)
@@ -26,4 +26,3 @@ feature: ast (2).jpg
 ![regret.jpg]({{site.baseurl}}/assets/images/posts/regret.jpg)
 ![HILMA.jpg]({{site.baseurl}}/assets/images/posts/HILMA.jpg)
 ![easter.jpg]({{site.baseurl}}/assets/images/posts/easter.jpg)
-
