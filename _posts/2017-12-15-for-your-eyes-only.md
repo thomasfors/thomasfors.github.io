@@ -23,4 +23,3 @@ feature: ast (2).jpg
 ![2021-10.jpg]({{site.baseurl}}/assets/images/posts/2021-10.jpg)
 ![sex.jpg]({{site.baseurl}}/assets/images/posts/sex.jpg)
 ![HILMA8.jpg]({{site.baseurl}}/assets/images/posts/HILMA8.jpg)
-![why-kopiera.jpg]({{site.baseurl}}/assets/images/posts/why-kopiera.jpg)
