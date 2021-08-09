@@ -12,6 +12,7 @@ feature: ast (2).jpg
 ![jump9-kopiera.jpg]({{site.baseurl}}/assets/images/posts/jump9-kopiera.jpg)
 ![thinking3.jpg]({{site.baseurl}}/assets/images/posts/thinking3.jpg)
 ![möte3.jpg]({{site.baseurl}}/assets/images/posts/möte3.jpg)
+![CAT.jpg]({{site.baseurl}}/assets/images/posts/CAT.jpg)
 ![response3.jpg]({{site.baseurl}}/assets/images/posts/response3.jpg)
 ![SUMMER.jpg]({{site.baseurl}}/assets/images/posts/SUMMER.jpg)
 ![zon.jpg]({{site.baseurl}}/assets/images/posts/zon.jpg)
