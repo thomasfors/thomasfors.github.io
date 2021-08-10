@@ -21,10 +21,10 @@ feature: ast (2).jpg
 ![bird.jpg]({{site.baseurl}}/assets/images/posts/bird.jpg)
 ![autumn10.jpg]({{site.baseurl}}/assets/images/posts/autumn10.jpg)
 ![vi.jpg]({{site.baseurl}}/assets/images/posts/vi.jpg)
+![gored.jpg]({{site.baseurl}}/assets/images/posts/gored.jpg)
 ![2021-10.jpg]({{site.baseurl}}/assets/images/posts/2021-10.jpg)
 ![sex.jpg]({{site.baseurl}}/assets/images/posts/sex.jpg)
 ![regret.jpg]({{site.baseurl}}/assets/images/posts/regret.jpg)
 ![HILMA.jpg]({{site.baseurl}}/assets/images/posts/HILMA.jpg)
 ![easter.jpg]({{site.baseurl}}/assets/images/posts/easter.jpg)
 ![W-DOLL12.jpg]({{site.baseurl}}/assets/images/posts/W-DOLL12.jpg)
-
