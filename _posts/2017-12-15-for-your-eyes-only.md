@@ -21,7 +21,7 @@ feature: ast (2).jpg
 ![bird.jpg]({{site.baseurl}}/assets/images/posts/bird.jpg)
 ![autumn10.jpg]({{site.baseurl}}/assets/images/posts/autumn10.jpg)
 ![vi.jpg]({{site.baseurl}}/assets/images/posts/vi.jpg)
-![gored.jpg]({{site.baseurl}}/assets/images/posts/gored.jpg)
+![vit4.jpg]({{site.baseurl}}/assets/images/posts/vit4.jpg)
 ![2021-10.jpg]({{site.baseurl}}/assets/images/posts/2021-10.jpg)
 ![sex.jpg]({{site.baseurl}}/assets/images/posts/sex.jpg)
 ![regret.jpg]({{site.baseurl}}/assets/images/posts/regret.jpg)
