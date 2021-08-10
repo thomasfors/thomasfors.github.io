@@ -12,7 +12,6 @@ title: THOMASEVANGELIET
 ![omega4-Återställd.jpg]({{site.baseurl}}/assets/images/posts/omega4-Återställd.jpg)
 ![friend6.jpg]({{site.baseurl}}/assets/images/posts/friend6.jpg)
 ![DRUCKNA.jpg]({{site.baseurl}}/assets/images/posts/DRUCKNA.jpg)
-![blind13.jpg]({{site.baseurl}}/assets/images/posts/blind13.jpg)
 ![DAWN.jpg]({{site.baseurl}}/assets/images/posts/DAWN.jpg)
 ![hummer3.jpg]({{site.baseurl}}/assets/images/posts/hummer3.jpg)
 ![BLUSEA.jpg]({{site.baseurl}}/assets/images/posts/BLUSEA.jpg)
