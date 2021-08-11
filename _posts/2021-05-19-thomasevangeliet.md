@@ -2,8 +2,9 @@
 layout: post
 published: true
 title: THOMASEVANGELIET
+feature: ''
 ---
-![th.jpg]({{site.baseurl}}/assets/images/posts/th.jpg)
+![THOMAS1.jpg]({{site.baseurl}}/assets/images/posts/THOMAS1.jpg)
 ![gift5.jpg]({{site.baseurl}}/assets/images/posts/gift5.jpg)
 ![handmade6.jpg]({{site.baseurl}}/assets/images/posts/handmade6.jpg)
 ![KNOW.jpg]({{site.baseurl}}/assets/images/posts/KNOW.jpg)
