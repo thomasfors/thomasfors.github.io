@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: for your eyes only
 ---
 [jessicaface.jpg]({{site.baseurl}}/assets/images/posts/jessicaface.jpg)
