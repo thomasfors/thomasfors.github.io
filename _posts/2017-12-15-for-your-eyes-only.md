@@ -3,7 +3,7 @@ layout: post
 published: true
 title: for your eyes only
 ---
-[jessicaface.jpg]({{site.baseurl}}/assets/images/posts/jessicaface.jpg)
+![jessicaface.jpg]({{site.baseurl}}/assets/images/posts/jessicaface.jpg)
 ![car9.jpg]({{site.baseurl}}/assets/images/posts/car9.jpg)
 ![trios4.jpg]({{site.baseurl}}/assets/images/posts/trios4.jpg)
 ![chair5.jpg]({{site.baseurl}}/assets/images/posts/chair5.jpg)
