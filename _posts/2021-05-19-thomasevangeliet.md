@@ -2,6 +2,7 @@
 layout: post
 published: true
 title: THOMASEVANGELIET
+feature: 1 frestelse
 ---
 ![THOMAS1.jpg]({{site.baseurl}}/assets/images/posts/THOMAS1.jpg)
 ![gift5.jpg]({{site.baseurl}}/assets/images/posts/gift5.jpg)
