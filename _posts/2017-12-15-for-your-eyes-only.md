@@ -2,6 +2,7 @@
 layout: post
 published: true
 title: for your eyes only
+feature: jessicaface.jpg
 ---
 ![jessicaface.jpg]({{site.baseurl}}/assets/images/posts/jessicaface.jpg)
 ![car9.jpg]({{site.baseurl}}/assets/images/posts/car9.jpg)
