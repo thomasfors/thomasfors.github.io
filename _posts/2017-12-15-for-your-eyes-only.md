@@ -25,6 +25,7 @@ feature: jessicaface.jpg
 ![2021-10.jpg]({{site.baseurl}}/assets/images/posts/2021-10.jpg)
 ![sex.jpg]({{site.baseurl}}/assets/images/posts/sex.jpg)
 ![regret.jpg]({{site.baseurl}}/assets/images/posts/regret.jpg)
+![AI.jpg]({{site.baseurl}}/assets/images/posts/AI.jpg)
 ![HILMA.jpg]({{site.baseurl}}/assets/images/posts/HILMA.jpg)
 ![easter.jpg]({{site.baseurl}}/assets/images/posts/easter.jpg)
 ![W-DOLL12.jpg]({{site.baseurl}}/assets/images/posts/W-DOLL12.jpg)
