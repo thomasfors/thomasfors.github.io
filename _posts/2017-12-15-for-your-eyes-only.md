@@ -9,7 +9,7 @@ feature: jessicaface.jpg
 ![trios4.jpg]({{site.baseurl}}/assets/images/posts/trios4.jpg)
 ![chair5.jpg]({{site.baseurl}}/assets/images/posts/chair5.jpg)
 ![paris2.jpg]({{site.baseurl}}/assets/images/posts/paris2.jpg)
-![bad.jpg]({{site.baseurl}}/assets/images/posts/bad.jpg)
+![HÖST.jpg]({{site.baseurl}}/assets/images/posts/HÖST.jpg)
 ![thinking3.jpg]({{site.baseurl}}/assets/images/posts/thinking3.jpg)
 ![möte3.jpg]({{site.baseurl}}/assets/images/posts/möte3.jpg)
 ![CAT.jpg]({{site.baseurl}}/assets/images/posts/CAT.jpg)
