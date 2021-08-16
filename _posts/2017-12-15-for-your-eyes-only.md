@@ -13,7 +13,7 @@ feature: jessicaface.jpg
 ![thinking3.jpg]({{site.baseurl}}/assets/images/posts/thinking3.jpg)
 ![möte3.jpg]({{site.baseurl}}/assets/images/posts/möte3.jpg)
 ![CAT.jpg]({{site.baseurl}}/assets/images/posts/CAT.jpg)
-![response3.jpg]({{site.baseurl}}/assets/images/posts/response3.jpg)
+![rough6.jpg]({{site.baseurl}}/assets/images/posts/rough6.jpg)
 ![SUMMER.jpg]({{site.baseurl}}/assets/images/posts/SUMMER.jpg)
 ![hotel.jpg]({{site.baseurl}}/assets/images/posts/hotel.jpg)
 ![jump10.jpg]({{site.baseurl}}/assets/images/posts/jump10.jpg)
@@ -27,4 +27,3 @@ feature: jessicaface.jpg
 ![regret.jpg]({{site.baseurl}}/assets/images/posts/regret.jpg)
 ![AI.jpg]({{site.baseurl}}/assets/images/posts/AI.jpg)
 ![HILMA.jpg]({{site.baseurl}}/assets/images/posts/HILMA.jpg)
-
