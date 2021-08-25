@@ -12,6 +12,7 @@ feature: jessicaface.jpg
 ![HÖST.jpg]({{site.baseurl}}/assets/images/posts/HÖST.jpg)
 ![thinking3.jpg]({{site.baseurl}}/assets/images/posts/thinking3.jpg)
 ![möte3.jpg]({{site.baseurl}}/assets/images/posts/möte3.jpg)
+![see-me.jpg]({{site.baseurl}}/assets/images/posts/see-me.jpg)
 ![CAT.jpg]({{site.baseurl}}/assets/images/posts/CAT.jpg)
 ![rough6.jpg]({{site.baseurl}}/assets/images/posts/rough6.jpg)
 ![catss3.jpg]({{site.baseurl}}/assets/images/posts/catss3.jpg)
