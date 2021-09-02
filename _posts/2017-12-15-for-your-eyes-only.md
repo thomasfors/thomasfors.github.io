@@ -14,6 +14,8 @@ feature: jessicaface.jpg
 ![möte3.jpg]({{site.baseurl}}/assets/images/posts/möte3.jpg)
 ![see-me.jpg]({{site.baseurl}}/assets/images/posts/see-me.jpg)
 ![way.jpg]({{site.baseurl}}/assets/images/posts/way.jpg)
+![night.jpg]({{site.baseurl}}/assets/images/posts/night.jpg)
+![love2.jpg]({{site.baseurl}}/assets/images/posts/love2.jpg)
 ![CAT.jpg]({{site.baseurl}}/assets/images/posts/CAT.jpg)
 ![rough6.jpg]({{site.baseurl}}/assets/images/posts/rough6.jpg)
 ![catss3.jpg]({{site.baseurl}}/assets/images/posts/catss3.jpg)
