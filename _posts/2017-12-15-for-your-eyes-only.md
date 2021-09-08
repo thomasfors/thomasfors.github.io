@@ -13,7 +13,6 @@ feature: jessicaface.jpg
 ![thinking3.jpg]({{site.baseurl}}/assets/images/posts/thinking3.jpg)
 ![möte3.jpg]({{site.baseurl}}/assets/images/posts/möte3.jpg)
 ![see-me.jpg]({{site.baseurl}}/assets/images/posts/see-me.jpg)
-![way.jpg]({{site.baseurl}}/assets/images/posts/way.jpg)
 ![night.jpg]({{site.baseurl}}/assets/images/posts/night.jpg)
 ![CAT.jpg]({{site.baseurl}}/assets/images/posts/CAT.jpg)
 ![hallå-hallå.jpg]({{site.baseurl}}/assets/images/posts/hallå-hallå.jpg)
