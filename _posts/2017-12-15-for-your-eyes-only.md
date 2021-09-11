@@ -13,6 +13,8 @@ feature: jessicaface.jpg
 ![see-me.jpg]({{site.baseurl}}/assets/images/posts/see-me.jpg)
 ![night.jpg]({{site.baseurl}}/assets/images/posts/night.jpg)
 ![CAT.jpg]({{site.baseurl}}/assets/images/posts/CAT.jpg)
+![6-virgio.jpg]({{site.baseurl}}/assets/images/posts/6-virgio.jpg)
+![mirror4-kopiera.jpg]({{site.baseurl}}/assets/images/posts/mirror4-kopiera.jpg)
 ![hallå-hallå.jpg]({{site.baseurl}}/assets/images/posts/hallå-hallå.jpg)
 ![rough6.jpg]({{site.baseurl}}/assets/images/posts/rough6.jpg)
 ![humus7.jpg]({{site.baseurl}}/assets/images/posts/humus7.jpg)
