@@ -18,7 +18,6 @@ feature: jessicaface.jpg
 ![mirror4-kopiera.jpg]({{site.baseurl}}/assets/images/posts/mirror4-kopiera.jpg)
 ![hallå-hallå.jpg]({{site.baseurl}}/assets/images/posts/hallå-hallå.jpg)
 ![rough6.jpg]({{site.baseurl}}/assets/images/posts/rough6.jpg)
-![humus7.jpg]({{site.baseurl}}/assets/images/posts/humus7.jpg)
 ![catss3.jpg]({{site.baseurl}}/assets/images/posts/catss3.jpg)
 ![SUMMER.jpg]({{site.baseurl}}/assets/images/posts/SUMMER.jpg)
 ![trust.jpg]({{site.baseurl}}/assets/images/posts/trust.jpg)
