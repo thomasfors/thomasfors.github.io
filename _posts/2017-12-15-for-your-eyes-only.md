@@ -10,6 +10,7 @@ feature: jessicaface.jpg
 ![chair5.jpg]({{site.baseurl}}/assets/images/posts/chair5.jpg)
 ![paris2.jpg]({{site.baseurl}}/assets/images/posts/paris2.jpg)
 ![HÖST.jpg]({{site.baseurl}}/assets/images/posts/HÖST.jpg)
+![blues3.jpg]({{site.baseurl}}/assets/images/posts/blues3.jpg)
 ![see-me.jpg]({{site.baseurl}}/assets/images/posts/see-me.jpg)
 ![night.jpg]({{site.baseurl}}/assets/images/posts/night.jpg)
 ![CAT.jpg]({{site.baseurl}}/assets/images/posts/CAT.jpg)
