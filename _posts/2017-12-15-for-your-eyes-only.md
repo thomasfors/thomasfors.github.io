@@ -20,6 +20,7 @@ feature: jessicaface.jpg
 ![rough6.jpg]({{site.baseurl}}/assets/images/posts/rough6.jpg)
 ![catss3.jpg]({{site.baseurl}}/assets/images/posts/catss3.jpg)
 ![free2.jpg]({{site.baseurl}}/assets/images/posts/free2.jpg)
+![bad3.jpg]({{site.baseurl}}/assets/images/posts/bad3.jpg)
 ![SUMMER.jpg]({{site.baseurl}}/assets/images/posts/SUMMER.jpg)
 ![trust.jpg]({{site.baseurl}}/assets/images/posts/trust.jpg)
 ![jump10.jpg]({{site.baseurl}}/assets/images/posts/jump10.jpg)
