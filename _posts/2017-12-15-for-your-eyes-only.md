@@ -24,6 +24,7 @@ feature: jessicaface.jpg
 ![trust.jpg]({{site.baseurl}}/assets/images/posts/trust.jpg)
 ![jump10.jpg]({{site.baseurl}}/assets/images/posts/jump10.jpg)
 ![TRACK6.jpg]({{site.baseurl}}/assets/images/posts/TRACK6.jpg)
+![sv.jpg]({{site.baseurl}}/assets/images/posts/sv.jpg)
 ![together.jpg]({{site.baseurl}}/assets/images/posts/together.jpg)
 ![bird.jpg]({{site.baseurl}}/assets/images/posts/bird.jpg)
 ![autumn10.jpg]({{site.baseurl}}/assets/images/posts/autumn10.jpg)
