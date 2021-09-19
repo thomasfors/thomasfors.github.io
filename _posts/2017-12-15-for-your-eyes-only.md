@@ -29,8 +29,6 @@ feature: jessicaface.jpg
 ![together.jpg]({{site.baseurl}}/assets/images/posts/together.jpg)
 ![bird.jpg]({{site.baseurl}}/assets/images/posts/bird.jpg)
 ![autumn10.jpg]({{site.baseurl}}/assets/images/posts/autumn10.jpg)
-![vi.jpg]({{site.baseurl}}/assets/images/posts/vi.jpg)
-![vit4.jpg]({{site.baseurl}}/assets/images/posts/vit4.jpg)
 ![2021-10.jpg]({{site.baseurl}}/assets/images/posts/2021-10.jpg)
 ![sex.jpg]({{site.baseurl}}/assets/images/posts/sex.jpg)
 ![regret.jpg]({{site.baseurl}}/assets/images/posts/regret.jpg)
