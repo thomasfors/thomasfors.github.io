@@ -12,6 +12,7 @@ feature: jessicaface.jpg
 ![HÖST.jpg]({{site.baseurl}}/assets/images/posts/HÖST.jpg)
 ![oktoberxx.jpg]({{site.baseurl}}/assets/images/posts/oktoberxx.jpg)
 ![see-me.jpg]({{site.baseurl}}/assets/images/posts/see-me.jpg)
+![ww.jpg]({{site.baseurl}}/assets/images/posts/ww.jpg)
 ![night.jpg]({{site.baseurl}}/assets/images/posts/night.jpg)
 ![CAT.jpg]({{site.baseurl}}/assets/images/posts/CAT.jpg)
 ![6-virgio.jpg]({{site.baseurl}}/assets/images/posts/6-virgio.jpg)
