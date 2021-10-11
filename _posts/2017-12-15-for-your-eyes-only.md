@@ -25,6 +25,7 @@ feature: jessicaface.jpg
 ![catss3.jpg]({{site.baseurl}}/assets/images/posts/catss3.jpg)
 ![free2.jpg]({{site.baseurl}}/assets/images/posts/free2.jpg)
 ![bad3.jpg]({{site.baseurl}}/assets/images/posts/bad3.jpg)
+![REMEMBER.jpg]({{site.baseurl}}/assets/images/posts/REMEMBER.jpg)
 ![SUMMER.jpg]({{site.baseurl}}/assets/images/posts/SUMMER.jpg)
 ![trust.jpg]({{site.baseurl}}/assets/images/posts/trust.jpg)
 ![together.jpg]({{site.baseurl}}/assets/images/posts/together.jpg)
