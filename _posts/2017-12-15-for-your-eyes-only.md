@@ -22,7 +22,6 @@ feature: jessicaface.jpg
 ![redred.jpg]({{site.baseurl}}/assets/images/posts/redred.jpg)
 ![hallå-hallå.jpg]({{site.baseurl}}/assets/images/posts/hallå-hallå.jpg)
 ![rough6.jpg]({{site.baseurl}}/assets/images/posts/rough6.jpg)
-![catss3.jpg]({{site.baseurl}}/assets/images/posts/catss3.jpg)
 ![free2.jpg]({{site.baseurl}}/assets/images/posts/free2.jpg)
 ![bad3.jpg]({{site.baseurl}}/assets/images/posts/bad3.jpg)
 ![REMEMBER.jpg]({{site.baseurl}}/assets/images/posts/REMEMBER.jpg)
