@@ -18,7 +18,6 @@ feature: jessicaface.jpg
 ![night.jpg]({{site.baseurl}}/assets/images/posts/night.jpg)
 ![CAT.jpg]({{site.baseurl}}/assets/images/posts/CAT.jpg)
 ![6-virgio.jpg]({{site.baseurl}}/assets/images/posts/6-virgio.jpg)
-![mirror4-kopiera.jpg]({{site.baseurl}}/assets/images/posts/mirror4-kopiera.jpg)
 ![bullet7.jpg]({{site.baseurl}}/assets/images/posts/bullet7.jpg)
 ![redred.jpg]({{site.baseurl}}/assets/images/posts/redred.jpg)
 ![hallå-hallå.jpg]({{site.baseurl}}/assets/images/posts/hallå-hallå.jpg)
