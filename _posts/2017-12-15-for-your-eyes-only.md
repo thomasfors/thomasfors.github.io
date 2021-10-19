@@ -6,7 +6,7 @@ feature: jessicaface.jpg
 ---
 ![jessicaface.jpg]({{site.baseurl}}/assets/images/posts/jessicaface.jpg)
 ![2021.jpg]({{site.baseurl}}/assets/images/posts/2021.jpg)
-![wintersaga6.jpg]({{site.baseurl}}/assets/images/posts/wintersaga6.jpg)
+![wintersaga7.jpg]({{site.baseurl}}/assets/images/posts/wintersaga7.jpg)
 ![autumn10.jpg]({{site.baseurl}}/assets/images/posts/autumn10.jpg)
 ![car9.jpg]({{site.baseurl}}/assets/images/posts/car9.jpg)
 ![trios4.jpg]({{site.baseurl}}/assets/images/posts/trios4.jpg)
