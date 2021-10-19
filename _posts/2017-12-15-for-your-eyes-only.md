@@ -23,7 +23,7 @@ feature: jessicaface.jpg
 ![hallå-hallå.jpg]({{site.baseurl}}/assets/images/posts/hallå-hallå.jpg)
 ![rough6.jpg]({{site.baseurl}}/assets/images/posts/rough6.jpg)
 ![free2.jpg]({{site.baseurl}}/assets/images/posts/free2.jpg)
-![bad3.jpg]({{site.baseurl}}/assets/images/posts/bad3.jpg)
+![bada.jpg]({{site.baseurl}}/assets/images/posts/bada.jpg)
 ![REMEMBER.jpg]({{site.baseurl}}/assets/images/posts/REMEMBER.jpg)
 ![SUMMER.jpg]({{site.baseurl}}/assets/images/posts/SUMMER.jpg)
 ![trust.jpg]({{site.baseurl}}/assets/images/posts/trust.jpg)
