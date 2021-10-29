@@ -7,6 +7,7 @@ feature: jessicaface.jpg
 ![jessicaface.jpg]({{site.baseurl}}/assets/images/posts/jessicaface.jpg)
 ![2021.jpg]({{site.baseurl}}/assets/images/posts/2021.jpg)
 ![nonfigurativ.jpg]({{site.baseurl}}/assets/images/posts/nonfigurativ.jpg)
+![nathali.jpg]({{site.baseurl}}/assets/images/posts/nathali.jpg)
 ![huvudlös5.jpg]({{site.baseurl}}/assets/images/posts/huvudlös5.jpg)
 ![autumn10.jpg]({{site.baseurl}}/assets/images/posts/autumn10.jpg)
 ![car9.jpg]({{site.baseurl}}/assets/images/posts/car9.jpg)
