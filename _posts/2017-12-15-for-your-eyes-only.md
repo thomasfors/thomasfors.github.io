@@ -8,7 +8,6 @@ feature: jessicaface.jpg
 ![2021.jpg]({{site.baseurl}}/assets/images/posts/2021.jpg)
 ![nonfigurativ.jpg]({{site.baseurl}}/assets/images/posts/nonfigurativ.jpg)
 ![huvudlös5.jpg]({{site.baseurl}}/assets/images/posts/huvudlös5.jpg)
-![wintersaga7.jpg]({{site.baseurl}}/assets/images/posts/wintersaga7.jpg)
 ![autumn10.jpg]({{site.baseurl}}/assets/images/posts/autumn10.jpg)
 ![car9.jpg]({{site.baseurl}}/assets/images/posts/car9.jpg)
 ![trios4.jpg]({{site.baseurl}}/assets/images/posts/trios4.jpg)
