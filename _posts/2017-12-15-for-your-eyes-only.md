@@ -12,7 +12,7 @@ feature: jessicaface.jpg
 ![see-me.jpg]({{site.baseurl}}/assets/images/posts/see-me.jpg)
 ![egg12.jpg]({{site.baseurl}}/assets/images/posts/egg12.jpg)
 ![CAT.jpg]({{site.baseurl}}/assets/images/posts/CAT.jpg)
-![6-virgio.jpg]({{site.baseurl}}/assets/images/posts/6-virgio.jpg)
+![work4.jpg]({{site.baseurl}}/assets/images/posts/work4.jpg)
 ![bullet7.jpg]({{site.baseurl}}/assets/images/posts/bullet7.jpg)
 ![redred.jpg]({{site.baseurl}}/assets/images/posts/redred.jpg)
 ![hallå-hallå.jpg]({{site.baseurl}}/assets/images/posts/hallå-hallå.jpg)
