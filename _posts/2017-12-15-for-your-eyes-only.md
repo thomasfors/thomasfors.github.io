@@ -9,6 +9,7 @@ feature: jessicaface.jpg
 ![nonfigurativ.jpg]({{site.baseurl}}/assets/images/posts/nonfigurativ.jpg)
 ![kristen-och.jpg]({{site.baseurl}}/assets/images/posts/kristen-och.jpg)
 ![nathali.jpg]({{site.baseurl}}/assets/images/posts/nathali.jpg)
+![SEA3.jpg]({{site.baseurl}}/assets/images/posts/SEA3.jpg)
 ![huvudlös5.jpg]({{site.baseurl}}/assets/images/posts/huvudlös5.jpg)
 ![see-me.jpg]({{site.baseurl}}/assets/images/posts/see-me.jpg)
 ![egg12.jpg]({{site.baseurl}}/assets/images/posts/egg12.jpg)
