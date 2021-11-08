@@ -10,7 +10,6 @@ feature: jessicaface.jpg
 ![kristen-och.jpg]({{site.baseurl}}/assets/images/posts/kristen-och.jpg)
 ![nathali.jpg]({{site.baseurl}}/assets/images/posts/nathali.jpg)
 ![SEA3.jpg]({{site.baseurl}}/assets/images/posts/SEA3.jpg)
-![huvudlös5.jpg]({{site.baseurl}}/assets/images/posts/huvudlös5.jpg)
 ![see-me.jpg]({{site.baseurl}}/assets/images/posts/see-me.jpg)
 ![rain2.jpg]({{site.baseurl}}/assets/images/posts/rain2.jpg)
 ![CAT.jpg]({{site.baseurl}}/assets/images/posts/CAT.jpg)
