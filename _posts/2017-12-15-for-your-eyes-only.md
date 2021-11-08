@@ -11,7 +11,6 @@ feature: jessicaface.jpg
 ![nathali.jpg]({{site.baseurl}}/assets/images/posts/nathali.jpg)
 ![SEA3.jpg]({{site.baseurl}}/assets/images/posts/SEA3.jpg)
 ![see-me.jpg]({{site.baseurl}}/assets/images/posts/see-me.jpg)
-![rain2.jpg]({{site.baseurl}}/assets/images/posts/rain2.jpg)
 ![CAT.jpg]({{site.baseurl}}/assets/images/posts/CAT.jpg)
 ![work4.jpg]({{site.baseurl}}/assets/images/posts/work4.jpg)
 ![bullet7.jpg]({{site.baseurl}}/assets/images/posts/bullet7.jpg)
