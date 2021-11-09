@@ -27,6 +27,5 @@ feature: jessicaface.jpg
 ![family2.jpg]({{site.baseurl}}/assets/images/posts/family2.jpg)
 ![bird.jpg]({{site.baseurl}}/assets/images/posts/bird.jpg)
 ![2021-10.jpg]({{site.baseurl}}/assets/images/posts/2021-10.jpg)
-![sex.jpg]({{site.baseurl}}/assets/images/posts/sex.jpg)
 ![regret.jpg]({{site.baseurl}}/assets/images/posts/regret.jpg)
 ![HILMA.jpg]({{site.baseurl}}/assets/images/posts/HILMA.jpg)
