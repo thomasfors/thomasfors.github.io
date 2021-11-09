@@ -19,6 +19,7 @@ feature: jessicaface.jpg
 ![rough6.jpg]({{site.baseurl}}/assets/images/posts/rough6.jpg)
 ![free2.jpg]({{site.baseurl}}/assets/images/posts/free2.jpg)
 ![bada.jpg]({{site.baseurl}}/assets/images/posts/bada.jpg)
+![blues4.jpg]({{site.baseurl}}/assets/images/posts/blues4.jpg)
 ![REMEMBER.jpg]({{site.baseurl}}/assets/images/posts/REMEMBER.jpg)
 ![SUMMER.jpg]({{site.baseurl}}/assets/images/posts/SUMMER.jpg)
 ![trust.jpg]({{site.baseurl}}/assets/images/posts/trust.jpg)
