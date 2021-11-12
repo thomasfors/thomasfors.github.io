@@ -16,7 +16,6 @@ feature: jessicaface.jpg
 ![work4.jpg]({{site.baseurl}}/assets/images/posts/work4.jpg)
 ![bullet7.jpg]({{site.baseurl}}/assets/images/posts/bullet7.jpg)
 ![redred.jpg]({{site.baseurl}}/assets/images/posts/redred.jpg)
-![hallå-hallå.jpg]({{site.baseurl}}/assets/images/posts/hallå-hallå.jpg)
 ![rough6.jpg]({{site.baseurl}}/assets/images/posts/rough6.jpg)
 ![dressing4.jpg]({{site.baseurl}}/assets/images/posts/dressing4.jpg)
 ![bada.jpg]({{site.baseurl}}/assets/images/posts/bada.jpg)
