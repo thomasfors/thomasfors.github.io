@@ -24,6 +24,7 @@ feature: jessicaface.jpg
 ![blues.jpg]({{site.baseurl}}/assets/images/posts/blues.jpg)
 ![trust.jpg]({{site.baseurl}}/assets/images/posts/trust.jpg)
 ![together.jpg]({{site.baseurl}}/assets/images/posts/together.jpg)
+![thinking-feeling.jpg]({{site.baseurl}}/assets/images/posts/thinking-feeling.jpg)
 ![family2.jpg]({{site.baseurl}}/assets/images/posts/family2.jpg)
 ![bird.jpg]({{site.baseurl}}/assets/images/posts/bird.jpg)
 ![2021-10.jpg]({{site.baseurl}}/assets/images/posts/2021-10.jpg)
