@@ -7,6 +7,7 @@ feature: jessicaface.jpg
 ![jessicaface.jpg]({{site.baseurl}}/assets/images/posts/jessicaface.jpg)
 ![2021.jpg]({{site.baseurl}}/assets/images/posts/2021.jpg)
 ![nonfigurativ.jpg]({{site.baseurl}}/assets/images/posts/nonfigurativ.jpg)
+![månenssken.jpg]({{site.baseurl}}/assets/images/posts/månenssken.jpg)
 ![nathali.jpg]({{site.baseurl}}/assets/images/posts/nathali.jpg)
 ![SEA3.jpg]({{site.baseurl}}/assets/images/posts/SEA3.jpg)
 ![FLIES.jpg]({{site.baseurl}}/assets/images/posts/FLIES.jpg)
