@@ -16,7 +16,6 @@ feature: jessicaface.jpg
 ![bullet7.jpg]({{site.baseurl}}/assets/images/posts/bullet7.jpg)
 ![redred.jpg]({{site.baseurl}}/assets/images/posts/redred.jpg)
 ![mothers-little-helper.jpg]({{site.baseurl}}/assets/images/posts/mothers-little-helper.jpg)
-![dressing4.jpg]({{site.baseurl}}/assets/images/posts/dressing4.jpg)
 ![bada.jpg]({{site.baseurl}}/assets/images/posts/bada.jpg)
 ![blues4.jpg]({{site.baseurl}}/assets/images/posts/blues4.jpg)
 ![SUMMER.jpg]({{site.baseurl}}/assets/images/posts/SUMMER.jpg)
