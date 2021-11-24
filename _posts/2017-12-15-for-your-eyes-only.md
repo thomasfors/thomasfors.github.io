@@ -12,7 +12,6 @@ feature: jessicaface.jpg
 ![SEA3.jpg]({{site.baseurl}}/assets/images/posts/SEA3.jpg)
 ![FLIES.jpg]({{site.baseurl}}/assets/images/posts/FLIES.jpg)
 ![see-me.jpg]({{site.baseurl}}/assets/images/posts/see-me.jpg)
-![CAT.jpg]({{site.baseurl}}/assets/images/posts/CAT.jpg)
 ![work4.jpg]({{site.baseurl}}/assets/images/posts/work4.jpg)
 ![bullet7.jpg]({{site.baseurl}}/assets/images/posts/bullet7.jpg)
 ![redred.jpg]({{site.baseurl}}/assets/images/posts/redred.jpg)
