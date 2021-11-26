@@ -29,5 +29,6 @@ feature: jessicaface.jpg
 ![bird.jpg]({{site.baseurl}}/assets/images/posts/bird.jpg)
 ![2021-10.jpg]({{site.baseurl}}/assets/images/posts/2021-10.jpg)
 ![regret.jpg]({{site.baseurl}}/assets/images/posts/regret.jpg)
+![lava2.jpg]({{site.baseurl}}/assets/images/posts/lava2.jpg)
 ![HILMA.jpg]({{site.baseurl}}/assets/images/posts/HILMA.jpg)
 ![strange2.jpg]({{site.baseurl}}/assets/images/posts/strange2.jpg)
