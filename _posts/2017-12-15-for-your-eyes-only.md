@@ -17,8 +17,6 @@ feature: jessicaface.jpg
 ![mothers-little-helper.jpg]({{site.baseurl}}/assets/images/posts/mothers-little-helper.jpg)
 ![bada.jpg]({{site.baseurl}}/assets/images/posts/bada.jpg)
 ![SUMMER.jpg]({{site.baseurl}}/assets/images/posts/SUMMER.jpg)
-![blues.jpg]({{site.baseurl}}/assets/images/posts/blues.jpg)
-![trust.jpg]({{site.baseurl}}/assets/images/posts/trust.jpg)
 ![together.jpg]({{site.baseurl}}/assets/images/posts/together.jpg)
 ![nöd-lust.jpg]({{site.baseurl}}/assets/images/posts/nöd-lust.jpg)
 ![thinking-feeling.jpg]({{site.baseurl}}/assets/images/posts/thinking-feeling.jpg)
