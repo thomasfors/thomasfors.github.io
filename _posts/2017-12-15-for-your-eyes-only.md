@@ -25,7 +25,7 @@ feature: jessicaface.jpg
 ![nöd-lust.jpg]({{site.baseurl}}/assets/images/posts/nöd-lust.jpg)
 ![thinking-feeling.jpg]({{site.baseurl}}/assets/images/posts/thinking-feeling.jpg)
 ![bänk2.jpg]({{site.baseurl}}/assets/images/posts/bänk2.jpg)
-![family2.jpg]({{site.baseurl}}/assets/images/posts/family2.jpg)
+![under-the-umbrella.jpg]({{site.baseurl}}/assets/images/posts/under-the-umbrella.jpg)
 ![bird.jpg]({{site.baseurl}}/assets/images/posts/bird.jpg)
 ![2021-10.jpg]({{site.baseurl}}/assets/images/posts/2021-10.jpg)
 ![regret.jpg]({{site.baseurl}}/assets/images/posts/regret.jpg)
