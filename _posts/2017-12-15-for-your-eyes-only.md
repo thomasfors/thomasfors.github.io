@@ -19,6 +19,7 @@ feature: jessicaface.jpg
 ![together.jpg]({{site.baseurl}}/assets/images/posts/together.jpg)
 ![nöd-lust.jpg]({{site.baseurl}}/assets/images/posts/nöd-lust.jpg)
 ![thinking-feeling.jpg]({{site.baseurl}}/assets/images/posts/thinking-feeling.jpg)
+![akvarium.jpg]({{site.baseurl}}/assets/images/posts/akvarium.jpg)
 ![cold-10.jpg]({{site.baseurl}}/assets/images/posts/cold-10.jpg)
 ![bänk2.jpg]({{site.baseurl}}/assets/images/posts/bänk2.jpg)
 ![under-the-umbrella.jpg]({{site.baseurl}}/assets/images/posts/under-the-umbrella.jpg)
