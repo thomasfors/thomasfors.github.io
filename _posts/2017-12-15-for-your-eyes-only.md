@@ -17,7 +17,7 @@ feature: jessicaface.jpg
 ![bada.jpg]({{site.baseurl}}/assets/images/posts/bada.jpg)
 ![SUMMER.jpg]({{site.baseurl}}/assets/images/posts/SUMMER.jpg)
 ![together.jpg]({{site.baseurl}}/assets/images/posts/together.jpg)
-![nöd-lust.jpg]({{site.baseurl}}/assets/images/posts/nöd-lust.jpg)
+![lust.jpg]({{site.baseurl}}/assets/images/posts/lust.jpg)
 ![thinking-feeling.jpg]({{site.baseurl}}/assets/images/posts/thinking-feeling.jpg)
 ![akvarium.jpg]({{site.baseurl}}/assets/images/posts/akvarium.jpg)
 ![cold-10.jpg]({{site.baseurl}}/assets/images/posts/cold-10.jpg)
