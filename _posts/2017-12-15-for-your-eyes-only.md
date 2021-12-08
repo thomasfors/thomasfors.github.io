@@ -12,7 +12,6 @@ feature: jessicaface.jpg
 ![FLIES2-(2).jpg]({{site.baseurl}}/assets/images/posts/FLIES2-(2).jpg)
 ![sea.jpg]({{site.baseurl}}/assets/images/posts/sea.jpg)
 ![see-me.jpg]({{site.baseurl}}/assets/images/posts/see-me.jpg)
-![wintergame.jpg]({{site.baseurl}}/assets/images/posts/wintergame.jpg)
 ![work4.jpg]({{site.baseurl}}/assets/images/posts/work4.jpg)
 ![mothers-little-helper.jpg]({{site.baseurl}}/assets/images/posts/mothers-little-helper.jpg)
 ![bada.jpg]({{site.baseurl}}/assets/images/posts/bada.jpg)
