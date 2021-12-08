@@ -25,6 +25,7 @@ feature: jessicaface.jpg
 ![bänk2.jpg]({{site.baseurl}}/assets/images/posts/bänk2.jpg)
 ![under-the-umbrella.jpg]({{site.baseurl}}/assets/images/posts/under-the-umbrella.jpg)
 ![bird.jpg]({{site.baseurl}}/assets/images/posts/bird.jpg)
+![älskar-dig.jpg]({{site.baseurl}}/assets/images/posts/älskar-dig.jpg)
 ![regret.jpg]({{site.baseurl}}/assets/images/posts/regret.jpg)
 ![HILMA.jpg]({{site.baseurl}}/assets/images/posts/HILMA.jpg)
 ![strange2.jpg]({{site.baseurl}}/assets/images/posts/strange2.jpg)
