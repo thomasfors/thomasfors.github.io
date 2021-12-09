@@ -26,5 +26,6 @@ feature: jessicaface.jpg
 ![bird.jpg]({{site.baseurl}}/assets/images/posts/bird.jpg)
 ![älskar-dig.jpg]({{site.baseurl}}/assets/images/posts/älskar-dig.jpg)
 ![regret.jpg]({{site.baseurl}}/assets/images/posts/regret.jpg)
+![why3.jpg]({{site.baseurl}}/assets/images/posts/why3.jpg)
 ![HILMA.jpg]({{site.baseurl}}/assets/images/posts/HILMA.jpg)
 ![strange2.jpg]({{site.baseurl}}/assets/images/posts/strange2.jpg)
