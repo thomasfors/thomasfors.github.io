@@ -5,9 +5,6 @@ title: for your eyes only
 feature: jessicaface.jpg
 ---
 ![jessicaface.jpg]({{site.baseurl}}/assets/images/posts/jessicaface.jpg)
-![work4.jpg]({{site.baseurl}}/assets/images/posts/work4.jpg)
-![mothers-little-helper.jpg]({{site.baseurl}}/assets/images/posts/mothers-little-helper.jpg)
-![bada.jpg]({{site.baseurl}}/assets/images/posts/bada.jpg)
 ![SUMMER.jpg]({{site.baseurl}}/assets/images/posts/SUMMER.jpg)
 ![together.jpg]({{site.baseurl}}/assets/images/posts/together.jpg)
 ![lust.jpg]({{site.baseurl}}/assets/images/posts/lust.jpg)
