@@ -9,7 +9,7 @@ feature: jessicaface.jpg
 ![together.jpg]({{site.baseurl}}/assets/images/posts/together.jpg)
 ![lust.jpg]({{site.baseurl}}/assets/images/posts/lust.jpg)
 ![thinking-feeling.jpg]({{site.baseurl}}/assets/images/posts/thinking-feeling.jpg)
-![akvarium.jpg]({{site.baseurl}}/assets/images/posts/akvarium.jpg)
+![magic9.jpg]({{site.baseurl}}/assets/images/posts/magic9.jpg)
 ![cold-10.jpg]({{site.baseurl}}/assets/images/posts/cold-10.jpg)
 ![judge4.jpg]({{site.baseurl}}/assets/images/posts/judge4.jpg)
 ![bänk2.jpg]({{site.baseurl}}/assets/images/posts/bänk2.jpg)
@@ -18,4 +18,3 @@ feature: jessicaface.jpg
 ![älskar-dig.jpg]({{site.baseurl}}/assets/images/posts/älskar-dig.jpg)
 ![regret.jpg]({{site.baseurl}}/assets/images/posts/regret.jpg)
 ![why3.jpg]({{site.baseurl}}/assets/images/posts/why3.jpg)
-
