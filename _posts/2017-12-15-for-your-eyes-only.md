@@ -10,6 +10,7 @@ feature: jessicaface.jpg
 ![lust.jpg]({{site.baseurl}}/assets/images/posts/lust.jpg)
 ![thinking-feeling.jpg]({{site.baseurl}}/assets/images/posts/thinking-feeling.jpg)
 ![magic9.jpg]({{site.baseurl}}/assets/images/posts/magic9.jpg)
+![puzzle.jpg]({{site.baseurl}}/assets/images/posts/puzzle.jpg)
 ![cold-10.jpg]({{site.baseurl}}/assets/images/posts/cold-10.jpg)
 ![judge4.jpg]({{site.baseurl}}/assets/images/posts/judge4.jpg)
 ![bänk2.jpg]({{site.baseurl}}/assets/images/posts/bänk2.jpg)
