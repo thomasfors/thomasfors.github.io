@@ -7,7 +7,7 @@ feature: jessicaface.jpg
 ![jessicaface.jpg]({{site.baseurl}}/assets/images/posts/jessicaface.jpg)
 ![SUMMER.jpg]({{site.baseurl}}/assets/images/posts/SUMMER.jpg)
 ![together.jpg]({{site.baseurl}}/assets/images/posts/together.jpg)
-![forbidden2.jpg]({{site.baseurl}}/assets/images/posts/forbidden2.jpg)
+![kizz4.jpg]({{site.baseurl}}/assets/images/posts/kizz4.jpg)
 ![lust.jpg]({{site.baseurl}}/assets/images/posts/lust.jpg)
 ![thinking-feeling.jpg]({{site.baseurl}}/assets/images/posts/thinking-feeling.jpg)
 ![magic9.jpg]({{site.baseurl}}/assets/images/posts/magic9.jpg)
