@@ -15,7 +15,7 @@ feature: jessicaface.jpg
 ![thinking-feeling.jpg]({{site.baseurl}}/assets/images/posts/thinking-feeling.jpg)
 ![magic9.jpg]({{site.baseurl}}/assets/images/posts/magic9.jpg)
 ![puzzle.jpg]({{site.baseurl}}/assets/images/posts/puzzle.jpg)
-![cold-10.jpg]({{site.baseurl}}/assets/images/posts/cold-10.jpg)
+![SKO4.jpg]({{site.baseurl}}/assets/images/posts/SKO4.jpg)
 ![judge4.jpg]({{site.baseurl}}/assets/images/posts/judge4.jpg)
 ![bänk2.jpg]({{site.baseurl}}/assets/images/posts/bänk2.jpg)
 ![under-the-umbrella.jpg]({{site.baseurl}}/assets/images/posts/under-the-umbrella.jpg)
