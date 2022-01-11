@@ -11,7 +11,7 @@ feature: jessicaface.jpg
 ![lust.jpg]({{site.baseurl}}/assets/images/posts/lust.jpg)
 ![havana.jpg]({{site.baseurl}}/assets/images/posts/havana.jpg)
 ![ängeln-i-rummet3.jpg]({{site.baseurl}}/assets/images/posts/ängeln-i-rummet3.jpg)
-![wacum.jpg]({{site.baseurl}}/assets/images/posts/wacum.jpg)
+![cleaner2.jpg]({{site.baseurl}}/assets/images/posts/cleaner2.jpg)
 ![thinking-feeling.jpg]({{site.baseurl}}/assets/images/posts/thinking-feeling.jpg)
 ![magic9.jpg]({{site.baseurl}}/assets/images/posts/magic9.jpg)
 ![puzzle.jpg]({{site.baseurl}}/assets/images/posts/puzzle.jpg)
