@@ -24,3 +24,5 @@ feature: jessicaface.jpg
 ![älskar-dig.jpg]({{site.baseurl}}/assets/images/posts/älskar-dig.jpg)
 ![regret.jpg]({{site.baseurl}}/assets/images/posts/regret.jpg)
 ![why3.jpg]({{site.baseurl}}/assets/images/posts/why3.jpg)
+![blue-room2.jpg]({{site.baseurl}}/assets/images/posts/blue-room2.jpg)
+
