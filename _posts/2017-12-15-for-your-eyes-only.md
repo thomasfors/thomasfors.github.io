@@ -16,7 +16,6 @@ feature: jessicaface.jpg
 ![cleaner2.jpg]({{site.baseurl}}/assets/images/posts/cleaner2.jpg)
 ![thinking-feeling.jpg]({{site.baseurl}}/assets/images/posts/thinking-feeling.jpg)
 ![magic9.jpg]({{site.baseurl}}/assets/images/posts/magic9.jpg)
-![puzzle.jpg]({{site.baseurl}}/assets/images/posts/puzzle.jpg)
 ![SKO4.jpg]({{site.baseurl}}/assets/images/posts/SKO4.jpg)
 ![judge4.jpg]({{site.baseurl}}/assets/images/posts/judge4.jpg)
 ![sell.jpg]({{site.baseurl}}/assets/images/posts/sell.jpg)
@@ -28,4 +27,3 @@ feature: jessicaface.jpg
 ![why3.jpg]({{site.baseurl}}/assets/images/posts/why3.jpg)
 ![blue-room2.jpg]({{site.baseurl}}/assets/images/posts/blue-room2.jpg)
 ![last-supper56.jpg]({{site.baseurl}}/assets/images/posts/last-supper56.jpg)
-
