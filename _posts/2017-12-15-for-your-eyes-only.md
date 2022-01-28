@@ -7,6 +7,7 @@ feature: jessicaface.jpg
 ![jessicaface.jpg]({{site.baseurl}}/assets/images/posts/jessicaface.jpg)
 ![prästkrage.jpg]({{site.baseurl}}/assets/images/posts/prästkrage.jpg)
 ![SUMMER.jpg]({{site.baseurl}}/assets/images/posts/SUMMER.jpg)
+![möte4.jpg]({{site.baseurl}}/assets/images/posts/möte4.jpg)
 ![together.jpg]({{site.baseurl}}/assets/images/posts/together.jpg)
 ![kizz4.jpg]({{site.baseurl}}/assets/images/posts/kizz4.jpg)
 ![REMEMBER.jpg]({{site.baseurl}}/assets/images/posts/REMEMBER.jpg)
