@@ -15,7 +15,6 @@ feature: jessicaface.jpg
 ![you-and-me.jpg]({{site.baseurl}}/assets/images/posts/you-and-me.jpg)
 ![REMEMBER.jpg]({{site.baseurl}}/assets/images/posts/REMEMBER.jpg)
 ![tower6.jpg]({{site.baseurl}}/assets/images/posts/tower6.jpg)
-
 ![ko3.jpg]({{site.baseurl}}/assets/images/posts/ko3.jpg)
 ![lust.jpg]({{site.baseurl}}/assets/images/posts/lust.jpg)
 ![havana.jpg]({{site.baseurl}}/assets/images/posts/havana.jpg)
