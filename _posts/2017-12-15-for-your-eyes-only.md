@@ -24,6 +24,7 @@ feature: jessicaface.jpg
 ![cleaner2.jpg]({{site.baseurl}}/assets/images/posts/cleaner2.jpg)
 ![thinking-feeling.jpg]({{site.baseurl}}/assets/images/posts/thinking-feeling.jpg)
 ![magic9.jpg]({{site.baseurl}}/assets/images/posts/magic9.jpg)
+![trappstädning1.jpg]({{site.baseurl}}/assets/images/posts/trappstädning1.jpg)
 ![SKO4.jpg]({{site.baseurl}}/assets/images/posts/SKO4.jpg)
 ![judge4.jpg]({{site.baseurl}}/assets/images/posts/judge4.jpg)
 ![sell.jpg]({{site.baseurl}}/assets/images/posts/sell.jpg)
