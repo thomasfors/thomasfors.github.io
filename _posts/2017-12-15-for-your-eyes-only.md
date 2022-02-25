@@ -32,7 +32,7 @@ feature: jessicaface.jpg
 ![under-the-umbrella.jpg]({{site.baseurl}}/assets/images/posts/under-the-umbrella.jpg)
 ![bird.jpg]({{site.baseurl}}/assets/images/posts/bird.jpg)
 ![älskar-dig.jpg]({{site.baseurl}}/assets/images/posts/älskar-dig.jpg)
-![regret.jpg]({{site.baseurl}}/assets/images/posts/regret.jpg)
+![längta-.jpg]({{site.baseurl}}/assets/images/posts/längta-.jpg)
 ![why3.jpg]({{site.baseurl}}/assets/images/posts/why3.jpg)
 ![blue-room2.jpg]({{site.baseurl}}/assets/images/posts/blue-room2.jpg)
 ![last-supper56.jpg]({{site.baseurl}}/assets/images/posts/last-supper56.jpg)
