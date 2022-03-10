@@ -22,6 +22,7 @@ feature: jessicaface.jpg
 ![attention.jpg]({{site.baseurl}}/assets/images/posts/attention.jpg)
 ![havana.jpg]({{site.baseurl}}/assets/images/posts/havana.jpg)
 ![ängeln-i-rummet3.jpg]({{site.baseurl}}/assets/images/posts/ängeln-i-rummet3.jpg)
+![square89.jpg]({{site.baseurl}}/assets/images/posts/square89.jpg)
 ![cleaner2.jpg]({{site.baseurl}}/assets/images/posts/cleaner2.jpg)
 ![thinking-feeling.jpg]({{site.baseurl}}/assets/images/posts/thinking-feeling.jpg)
 ![magic9.jpg]({{site.baseurl}}/assets/images/posts/magic9.jpg)
