@@ -35,6 +35,7 @@ feature: jessicaface.jpg
 ![bird.jpg]({{site.baseurl}}/assets/images/posts/bird.jpg)
 ![älskar-dig.jpg]({{site.baseurl}}/assets/images/posts/älskar-dig.jpg)
 ![längta-.jpg]({{site.baseurl}}/assets/images/posts/längta-.jpg)
+![8-tak.jpg]({{site.baseurl}}/assets/images/posts/8-tak.jpg)
 ![why3.jpg]({{site.baseurl}}/assets/images/posts/why3.jpg)
 ![blue-room2.jpg]({{site.baseurl}}/assets/images/posts/blue-room2.jpg)
 ![last-supper56.jpg]({{site.baseurl}}/assets/images/posts/last-supper56.jpg)
