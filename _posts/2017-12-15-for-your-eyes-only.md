@@ -40,4 +40,5 @@ feature: jessicaface.jpg
 ![blue-room2.jpg]({{site.baseurl}}/assets/images/posts/blue-room2.jpg)
 ![last-supper56.jpg]({{site.baseurl}}/assets/images/posts/last-supper56.jpg)
 ![duo3.jpg]({{site.baseurl}}/assets/images/posts/duo3.jpg)
+![8-rebecka.jpg]({{site.baseurl}}/assets/images/posts/8-rebecka.jpg)
 
