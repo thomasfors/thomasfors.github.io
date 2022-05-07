@@ -19,7 +19,6 @@ feature: säng.jpg
 ![säng.jpg]({{site.baseurl}}/assets/images/posts/säng.jpg)
 ![nick8.jpg]({{site.baseurl}}/assets/images/posts/nick8.jpg)
 ![ARCHI25.jpg]({{site.baseurl}}/assets/images/posts/ARCHI25.jpg)
-![8-SUPPER-kopiera.jpg]({{site.baseurl}}/assets/images/posts/8-SUPPER-kopiera.jpg)
 ![ett-4.jpg]({{site.baseurl}}/assets/images/posts/ett-4.jpg)
 ![clothe2.jpg]({{site.baseurl}}/assets/images/posts/clothe2.jpg)
 ![to-do-9.jpg]({{site.baseurl}}/assets/images/posts/to-do-9.jpg)
