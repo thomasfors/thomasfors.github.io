@@ -11,7 +11,6 @@ feature: säng.jpg
 ![FANN-3.jpg]({{site.baseurl}}/assets/images/posts/FANN-3.jpg)
 ![LJUS6.jpg]({{site.baseurl}}/assets/images/posts/LJUS6.jpg)
 ![DRUCKNA.jpg]({{site.baseurl}}/assets/images/posts/DRUCKNA.jpg)
-![DAWN.jpg]({{site.baseurl}}/assets/images/posts/DAWN.jpg)
 ![blind13.jpg]({{site.baseurl}}/assets/images/posts/blind13.jpg)
 ![hummer3.jpg]({{site.baseurl}}/assets/images/posts/hummer3.jpg)
 ![BLUSEA.jpg]({{site.baseurl}}/assets/images/posts/BLUSEA.jpg)
