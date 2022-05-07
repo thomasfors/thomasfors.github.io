@@ -10,8 +10,6 @@ feature: säng.jpg
 ![KNOW.jpg]({{site.baseurl}}/assets/images/posts/KNOW.jpg)
 ![FANN-3.jpg]({{site.baseurl}}/assets/images/posts/FANN-3.jpg)
 ![LJUS6.jpg]({{site.baseurl}}/assets/images/posts/LJUS6.jpg)
-![omega4-Återställd.jpg]({{site.baseurl}}/assets/images/posts/omega4-Återställd.jpg)
-![friend6.jpg]({{site.baseurl}}/assets/images/posts/friend6.jpg)
 ![DRUCKNA.jpg]({{site.baseurl}}/assets/images/posts/DRUCKNA.jpg)
 ![DAWN.jpg]({{site.baseurl}}/assets/images/posts/DAWN.jpg)
 ![blind13.jpg]({{site.baseurl}}/assets/images/posts/blind13.jpg)
