@@ -34,6 +34,7 @@ feature: jessicaface.jpg
 ![bänk2.jpg]({{site.baseurl}}/assets/images/posts/bänk2.jpg)
 ![under-the-umbrella.jpg]({{site.baseurl}}/assets/images/posts/under-the-umbrella.jpg)
 ![bird.jpg]({{site.baseurl}}/assets/images/posts/bird.jpg)
+![betrayed-for-nothing.jpg]({{site.baseurl}}/assets/images/posts/betrayed-for-nothing.jpg)
 ![älskar-dig.jpg]({{site.baseurl}}/assets/images/posts/älskar-dig.jpg)
 ![längta-.jpg]({{site.baseurl}}/assets/images/posts/längta-.jpg)
 ![8-tak.jpg]({{site.baseurl}}/assets/images/posts/8-tak.jpg)
