@@ -27,6 +27,7 @@ feature: jessicaface.jpg
 ![thinking-feeling.jpg]({{site.baseurl}}/assets/images/posts/thinking-feeling.jpg)
 ![magic9.jpg]({{site.baseurl}}/assets/images/posts/magic9.jpg)
 ![trappstädning1.jpg]({{site.baseurl}}/assets/images/posts/trappstädning1.jpg)
+![system-failure2.jpg]({{site.baseurl}}/assets/images/posts/system-failure2.jpg)
 ![SKO4.jpg]({{site.baseurl}}/assets/images/posts/SKO4.jpg)
 ![judge4.jpg]({{site.baseurl}}/assets/images/posts/judge4.jpg)
 ![sell.jpg]({{site.baseurl}}/assets/images/posts/sell.jpg)
@@ -41,4 +42,3 @@ feature: jessicaface.jpg
 ![last-supper56.jpg]({{site.baseurl}}/assets/images/posts/last-supper56.jpg)
 ![duo3.jpg]({{site.baseurl}}/assets/images/posts/duo3.jpg)
 ![8-rebecka.jpg]({{site.baseurl}}/assets/images/posts/8-rebecka.jpg)
-
