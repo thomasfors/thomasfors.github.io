@@ -27,7 +27,6 @@ feature: jessicaface.jpg
 ![thinking-feeling.jpg]({{site.baseurl}}/assets/images/posts/thinking-feeling.jpg)
 ![nouve5-Återställd.jpg]({{site.baseurl}}/assets/images/posts/nouve5-Återställd.jpg)
 ![trappstädning1.jpg]({{site.baseurl}}/assets/images/posts/trappstädning1.jpg)
-![system-failure2.jpg]({{site.baseurl}}/assets/images/posts/system-failure2.jpg)
 ![SKO4.jpg]({{site.baseurl}}/assets/images/posts/SKO4.jpg)
 ![häcksaxar4.jpg]({{site.baseurl}}/assets/images/posts/häcksaxar4.jpg)
 ![judge4.jpg]({{site.baseurl}}/assets/images/posts/judge4.jpg)
