@@ -22,7 +22,7 @@ feature: jessicaface.jpg
 ![3-attention.jpg]({{site.baseurl}}/assets/images/posts/3-attention.jpg)
 ![havana.jpg]({{site.baseurl}}/assets/images/posts/havana.jpg)
 ![ängeln-i-rummet3.jpg]({{site.baseurl}}/assets/images/posts/ängeln-i-rummet3.jpg)
-![square89.jpg]({{site.baseurl}}/assets/images/posts/square89.jpg)
+![butterfly-no-more.jpg]({{site.baseurl}}/assets/images/posts/butterfly-no-more.jpg)
 ![cleaner2.jpg]({{site.baseurl}}/assets/images/posts/cleaner2.jpg)
 ![thinking-feeling.jpg]({{site.baseurl}}/assets/images/posts/thinking-feeling.jpg)
 ![nouve5-Återställd.jpg]({{site.baseurl}}/assets/images/posts/nouve5-Återställd.jpg)
