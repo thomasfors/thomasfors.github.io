@@ -31,7 +31,6 @@ feature: jessicaface.jpg
 ![SKO4.jpg]({{site.baseurl}}/assets/images/posts/SKO4.jpg)
 ![häcksaxar4.jpg]({{site.baseurl}}/assets/images/posts/häcksaxar4.jpg)
 ![judge4.jpg]({{site.baseurl}}/assets/images/posts/judge4.jpg)
-![sell.jpg]({{site.baseurl}}/assets/images/posts/sell.jpg)
 ![bänk2.jpg]({{site.baseurl}}/assets/images/posts/bänk2.jpg)
 ![under-the-umbrella.jpg]({{site.baseurl}}/assets/images/posts/under-the-umbrella.jpg)
 ![bird.jpg]({{site.baseurl}}/assets/images/posts/bird.jpg)
