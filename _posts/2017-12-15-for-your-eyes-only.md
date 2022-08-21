@@ -28,7 +28,6 @@ feature: jessicaface.jpg
 ![butterfly-no-more.jpg]({{site.baseurl}}/assets/images/posts/butterfly-no-more.jpg)
 ![cleaner2.jpg]({{site.baseurl}}/assets/images/posts/cleaner2.jpg)
 ![thinking-feeling.jpg]({{site.baseurl}}/assets/images/posts/thinking-feeling.jpg)
-![nouve5-Återställd.jpg]({{site.baseurl}}/assets/images/posts/nouve5-Återställd.jpg)
 ![trappstädning1.jpg]({{site.baseurl}}/assets/images/posts/trappstädning1.jpg)
 ![SKO4.jpg]({{site.baseurl}}/assets/images/posts/SKO4.jpg)
 ![häcksaxar4.jpg]({{site.baseurl}}/assets/images/posts/häcksaxar4.jpg)
