@@ -23,6 +23,7 @@ feature: jessicaface.jpg
 ![lego.jpg]({{site.baseurl}}/assets/images/posts/lego.jpg)
 ![3-attention.jpg]({{site.baseurl}}/assets/images/posts/3-attention.jpg)
 ![havana.jpg]({{site.baseurl}}/assets/images/posts/havana.jpg)
+![history.jpg]({{site.baseurl}}/assets/images/posts/history.jpg)
 ![ängeln-i-rummet3.jpg]({{site.baseurl}}/assets/images/posts/ängeln-i-rummet3.jpg)
 ![butterfly-no-more.jpg]({{site.baseurl}}/assets/images/posts/butterfly-no-more.jpg)
 ![cleaner2.jpg]({{site.baseurl}}/assets/images/posts/cleaner2.jpg)
