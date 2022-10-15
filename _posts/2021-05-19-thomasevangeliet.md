@@ -23,5 +23,4 @@ feature: säng.jpg
 ![clothe2.jpg]({{site.baseurl}}/assets/images/posts/clothe2.jpg)
 ![to-do-9.jpg]({{site.baseurl}}/assets/images/posts/to-do-9.jpg)
 ![rörelse.jpg]({{site.baseurl}}/assets/images/posts/rörelse.jpg)
-![brunn2.jpg]({{site.baseurl}}/assets/images/posts/brunn2.jpg)
 ![FIRE4.jpg]({{site.baseurl}}/assets/images/posts/FIRE4.jpg)
