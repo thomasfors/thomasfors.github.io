@@ -39,7 +39,6 @@ feature: jessicaface.jpg
 ![bird.jpg]({{site.baseurl}}/assets/images/posts/bird.jpg)
 ![romantic-love.jpg]({{site.baseurl}}/assets/images/posts/romantic-love.jpg)
 ![betrayed-for-nothing.jpg]({{site.baseurl}}/assets/images/posts/betrayed-for-nothing.jpg)
-![älskar-dig.jpg]({{site.baseurl}}/assets/images/posts/älskar-dig.jpg)
 ![längta-.jpg]({{site.baseurl}}/assets/images/posts/längta-.jpg)
 ![8-tak.jpg]({{site.baseurl}}/assets/images/posts/8-tak.jpg)
 ![why3.jpg]({{site.baseurl}}/assets/images/posts/why3.jpg)
