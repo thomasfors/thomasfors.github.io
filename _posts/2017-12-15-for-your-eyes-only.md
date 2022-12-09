@@ -8,7 +8,6 @@ feature: jessicaface.jpg
 ![prästkrage.jpg]({{site.baseurl}}/assets/images/posts/prästkrage.jpg)
 ![SUMMER.jpg]({{site.baseurl}}/assets/images/posts/SUMMER.jpg)
 ![wish-you-were-here.jpg]({{site.baseurl}}/assets/images/posts/wish-you-were-here.jpg)
-![symbios-psykos.jpg]({{site.baseurl}}/assets/images/posts/symbios-psykos.jpg)
 ![möte4.jpg]({{site.baseurl}}/assets/images/posts/möte4.jpg)
 ![together.jpg]({{site.baseurl}}/assets/images/posts/together.jpg)
 ![kizz4.jpg]({{site.baseurl}}/assets/images/posts/kizz4.jpg)
