@@ -37,6 +37,7 @@ feature: jessicaface.jpg
 ![under-the-umbrella.jpg]({{site.baseurl}}/assets/images/posts/under-the-umbrella.jpg)
 ![bird.jpg]({{site.baseurl}}/assets/images/posts/bird.jpg)
 ![romantic-love.jpg]({{site.baseurl}}/assets/images/posts/romantic-love.jpg)
+![shadow3.jpg]({{site.baseurl}}/assets/images/posts/shadow3.jpg)
 ![goosegirl1.jpg]({{site.baseurl}}/assets/images/posts/goosegirl1.jpg)
 ![betrayed-for-nothing.jpg]({{site.baseurl}}/assets/images/posts/betrayed-for-nothing.jpg)
 ![längta-.jpg]({{site.baseurl}}/assets/images/posts/längta-.jpg)
