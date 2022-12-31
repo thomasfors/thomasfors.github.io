@@ -14,6 +14,7 @@ feature: jessicaface.jpg
 ![jail1.jpg]({{site.baseurl}}/assets/images/posts/jail1.jpg)
 ![happy-ever-after.jpg]({{site.baseurl}}/assets/images/posts/happy-ever-after.jpg)
 ![admire2.jpg]({{site.baseurl}}/assets/images/posts/admire2.jpg)
+![symbios4.jpg]({{site.baseurl}}/assets/images/posts/symbios4.jpg)
 ![you-and-me.jpg]({{site.baseurl}}/assets/images/posts/you-and-me.jpg)
 ![REMEMBER.jpg]({{site.baseurl}}/assets/images/posts/REMEMBER.jpg)
 ![tower6.jpg]({{site.baseurl}}/assets/images/posts/tower6.jpg)
