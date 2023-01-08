@@ -6,7 +6,6 @@ feature: jessicaface.jpg
 ---
 ![jessicaface.jpg]({{site.baseurl}}/assets/images/posts/jessicaface.jpg)
 ![obscure2.jpg]({{site.baseurl}}/assets/images/posts/obscure2.jpg)
-![SUMMER.jpg]({{site.baseurl}}/assets/images/posts/SUMMER.jpg)
 ![wish-you-were-here.jpg]({{site.baseurl}}/assets/images/posts/wish-you-were-here.jpg)
 ![möte4.jpg]({{site.baseurl}}/assets/images/posts/möte4.jpg)
 ![together.jpg]({{site.baseurl}}/assets/images/posts/together.jpg)
@@ -21,6 +20,7 @@ feature: jessicaface.jpg
 ![ko3.jpg]({{site.baseurl}}/assets/images/posts/ko3.jpg)
 ![lust.jpg]({{site.baseurl}}/assets/images/posts/lust.jpg)
 ![tråd.jpg]({{site.baseurl}}/assets/images/posts/tråd.jpg)
+![boring2.jpg]({{site.baseurl}}/assets/images/posts/boring2.jpg)
 ![lego.jpg]({{site.baseurl}}/assets/images/posts/lego.jpg)
 ![3-attention.jpg]({{site.baseurl}}/assets/images/posts/3-attention.jpg)
 ![havana.jpg]({{site.baseurl}}/assets/images/posts/havana.jpg)
