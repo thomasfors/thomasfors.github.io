@@ -21,8 +21,6 @@ feature: jessicaface.jpg
 ![lust.jpg]({{site.baseurl}}/assets/images/posts/lust.jpg)
 ![tråd.jpg]({{site.baseurl}}/assets/images/posts/tråd.jpg)
 ![boring2.jpg]({{site.baseurl}}/assets/images/posts/boring2.jpg)
-![lego.jpg]({{site.baseurl}}/assets/images/posts/lego.jpg)
-![3-attention.jpg]({{site.baseurl}}/assets/images/posts/3-attention.jpg)
 ![domestic.jpg]({{site.baseurl}}/assets/images/posts/domestic.jpg)
 ![havana.jpg]({{site.baseurl}}/assets/images/posts/havana.jpg)
 ![ängeln-i-rummet3.jpg]({{site.baseurl}}/assets/images/posts/ängeln-i-rummet3.jpg)
