@@ -19,6 +19,7 @@ feature: jessicaface.jpg
 ![wash8.jpg]({{site.baseurl}}/assets/images/posts/wash8.jpg)
 ![korsetten-och-stilletten.jpg]({{site.baseurl}}/assets/images/posts/korsetten-och-stilletten.jpg)
 ![lust.jpg]({{site.baseurl}}/assets/images/posts/lust.jpg)
+![kizz2.jpg]({{site.baseurl}}/assets/images/posts/kizz2.jpg)
 ![tråd.jpg]({{site.baseurl}}/assets/images/posts/tråd.jpg)
 ![boring2.jpg]({{site.baseurl}}/assets/images/posts/boring2.jpg)
 ![domestic.jpg]({{site.baseurl}}/assets/images/posts/domestic.jpg)
