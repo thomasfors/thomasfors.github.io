@@ -27,7 +27,6 @@ feature: jessicaface.jpg
 ![ängeln-i-rummet3.jpg]({{site.baseurl}}/assets/images/posts/ängeln-i-rummet3.jpg)
 ![broken5.jpg]({{site.baseurl}}/assets/images/posts/broken5.jpg)
 ![thinking-feeling.jpg]({{site.baseurl}}/assets/images/posts/thinking-feeling.jpg)
-![trappstädning1.jpg]({{site.baseurl}}/assets/images/posts/trappstädning1.jpg)
 ![drama2-(2).jpg]({{site.baseurl}}/assets/images/posts/drama2-(2).jpg)
 ![judge4.jpg]({{site.baseurl}}/assets/images/posts/judge4.jpg)
 ![butterfly-no-more.jpg]({{site.baseurl}}/assets/images/posts/butterfly-no-more.jpg)
