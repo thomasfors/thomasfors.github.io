@@ -30,6 +30,7 @@ feature: jessicaface.jpg
 ![trappstädning1.jpg]({{site.baseurl}}/assets/images/posts/trappstädning1.jpg)
 ![drama2-(2).jpg]({{site.baseurl}}/assets/images/posts/drama2-(2).jpg)
 ![judge4.jpg]({{site.baseurl}}/assets/images/posts/judge4.jpg)
+![butterfly-no-more.jpg]({{site.baseurl}}/assets/images/posts/butterfly-no-more.jpg)
 ![bänk2.jpg]({{site.baseurl}}/assets/images/posts/bänk2.jpg)
 ![under-the-umbrella.jpg]({{site.baseurl}}/assets/images/posts/under-the-umbrella.jpg)
 ![bird.jpg]({{site.baseurl}}/assets/images/posts/bird.jpg)
