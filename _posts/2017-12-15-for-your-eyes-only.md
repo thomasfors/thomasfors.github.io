@@ -31,7 +31,6 @@ feature: jessicaface.jpg
 ![thinking-feeling.jpg]({{site.baseurl}}/assets/images/posts/thinking-feeling.jpg)
 ![trap2.jpg]({{site.baseurl}}/assets/images/posts/trap2.jpg)
 ![drama2-(2).jpg]({{site.baseurl}}/assets/images/posts/drama2-(2).jpg)
-![dogsen2.jpg]({{site.baseurl}}/assets/images/posts/dogsen2.jpg)
 ![judge4.jpg]({{site.baseurl}}/assets/images/posts/judge4.jpg)
 ![butterfly-no-more.jpg]({{site.baseurl}}/assets/images/posts/butterfly-no-more.jpg)
 ![crozz9.jpg]({{site.baseurl}}/assets/images/posts/crozz9.jpg)
