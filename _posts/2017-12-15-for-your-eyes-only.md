@@ -10,6 +10,7 @@ feature: jessicaface.jpg
 ![möte4.jpg]({{site.baseurl}}/assets/images/posts/möte4.jpg)
 ![together.jpg]({{site.baseurl}}/assets/images/posts/together.jpg)
 ![kizzz.jpg]({{site.baseurl}}/assets/images/posts/kizzz.jpg)
+![afton3.jpg]({{site.baseurl}}/assets/images/posts/afton3.jpg)
 ![happy-ever-after.jpg]({{site.baseurl}}/assets/images/posts/happy-ever-after.jpg)
 ![admire2.jpg]({{site.baseurl}}/assets/images/posts/admire2.jpg)
 ![you-and-me.jpg]({{site.baseurl}}/assets/images/posts/you-and-me.jpg)
