@@ -36,6 +36,7 @@ feature: jessicaface.jpg
 ![under-the-umbrella.jpg]({{site.baseurl}}/assets/images/posts/under-the-umbrella.jpg)
 ![bird.jpg]({{site.baseurl}}/assets/images/posts/bird.jpg)
 ![alt-sunset.jpg]({{site.baseurl}}/assets/images/posts/alt-sunset.jpg)
+![love6002.jpg]({{site.baseurl}}/assets/images/posts/love6002.jpg)
 ![need5.jpg]({{site.baseurl}}/assets/images/posts/need5.jpg)
 ![CHINA.jpg]({{site.baseurl}}/assets/images/posts/CHINA.jpg)
 ![goosegirl1.jpg]({{site.baseurl}}/assets/images/posts/goosegirl1.jpg)
