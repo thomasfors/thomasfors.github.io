@@ -36,7 +36,6 @@ feature: jessicaface.jpg
 ![goosegirl1.jpg]({{site.baseurl}}/assets/images/posts/goosegirl1.jpg)
 ![längta-.jpg]({{site.baseurl}}/assets/images/posts/längta-.jpg)
 ![försoningen.jpg]({{site.baseurl}}/assets/images/posts/försoningen.jpg)
-![bridge2.jpg]({{site.baseurl}}/assets/images/posts/bridge2.jpg)
 ![last-supper56.jpg]({{site.baseurl}}/assets/images/posts/last-supper56.jpg)
 ![ROMANTIKEN.jpg]({{site.baseurl}}/assets/images/posts/ROMANTIKEN.jpg)
 ![pure-love.jpg]({{site.baseurl}}/assets/images/posts/pure-love.jpg)
