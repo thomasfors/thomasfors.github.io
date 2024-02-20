@@ -13,7 +13,6 @@ feature: jessicaface.jpg
 ![happy-ever-after.jpg]({{site.baseurl}}/assets/images/posts/happy-ever-after.jpg)
 ![admire2.jpg]({{site.baseurl}}/assets/images/posts/admire2.jpg)
 ![you-and-me.jpg]({{site.baseurl}}/assets/images/posts/you-and-me.jpg)
-![REMEMBER.jpg]({{site.baseurl}}/assets/images/posts/REMEMBER.jpg)
 ![tower6.jpg]({{site.baseurl}}/assets/images/posts/tower6.jpg)
 ![wash8.jpg]({{site.baseurl}}/assets/images/posts/wash8.jpg)
 ![korsetten-och-stilletten.jpg]({{site.baseurl}}/assets/images/posts/korsetten-och-stilletten.jpg)
