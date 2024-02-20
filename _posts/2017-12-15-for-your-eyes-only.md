@@ -35,8 +35,6 @@ feature: jessicaface.jpg
 ![CHINA.jpg]({{site.baseurl}}/assets/images/posts/CHINA.jpg)
 ![goosegirl1.jpg]({{site.baseurl}}/assets/images/posts/goosegirl1.jpg)
 ![längta-.jpg]({{site.baseurl}}/assets/images/posts/längta-.jpg)
-![8-tak.jpg]({{site.baseurl}}/assets/images/posts/8-tak.jpg)
-![why3.jpg]({{site.baseurl}}/assets/images/posts/why3.jpg)
 ![försoningen.jpg]({{site.baseurl}}/assets/images/posts/försoningen.jpg)
 ![bridge2.jpg]({{site.baseurl}}/assets/images/posts/bridge2.jpg)
 ![last-supper56.jpg]({{site.baseurl}}/assets/images/posts/last-supper56.jpg)
