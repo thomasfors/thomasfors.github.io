@@ -18,7 +18,6 @@ feature: jessicaface.jpg
 ![tråd.jpg]({{site.baseurl}}/assets/images/posts/tråd.jpg)
 ![boring2.jpg]({{site.baseurl}}/assets/images/posts/boring2.jpg)
 ![domestic.jpg]({{site.baseurl}}/assets/images/posts/domestic.jpg)
-![cleaner2.jpg]({{site.baseurl}}/assets/images/posts/cleaner2.jpg)
 ![havana.jpg]({{site.baseurl}}/assets/images/posts/havana.jpg)
 ![roma.jpg]({{site.baseurl}}/assets/images/posts/roma.jpg)
 ![ängeln-i-rummet3.jpg]({{site.baseurl}}/assets/images/posts/ängeln-i-rummet3.jpg)
