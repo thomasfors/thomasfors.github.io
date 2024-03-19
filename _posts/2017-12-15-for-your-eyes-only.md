@@ -21,7 +21,6 @@ feature: jessicaface.jpg
 ![havana.jpg]({{site.baseurl}}/assets/images/posts/havana.jpg)
 ![roma.jpg]({{site.baseurl}}/assets/images/posts/roma.jpg)
 ![ängeln-i-rummet3.jpg]({{site.baseurl}}/assets/images/posts/ängeln-i-rummet3.jpg)
-![little-white-lies.jpg]({{site.baseurl}}/assets/images/posts/little-white-lies.jpg)
 ![thinking-feeling.jpg]({{site.baseurl}}/assets/images/posts/thinking-feeling.jpg)
 ![judge4.jpg]({{site.baseurl}}/assets/images/posts/judge4.jpg)
 ![butterfly-no-more.jpg]({{site.baseurl}}/assets/images/posts/butterfly-no-more.jpg)
