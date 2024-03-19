@@ -29,7 +29,6 @@ feature: jessicaface.jpg
 ![judge4.jpg]({{site.baseurl}}/assets/images/posts/judge4.jpg)
 ![butterfly-no-more.jpg]({{site.baseurl}}/assets/images/posts/butterfly-no-more.jpg)
 ![crozz9.jpg]({{site.baseurl}}/assets/images/posts/crozz9.jpg)
-![symbiosen.jpg]({{site.baseurl}}/assets/images/posts/symbiosen.jpg)
 ![under-the-umbrella.jpg]({{site.baseurl}}/assets/images/posts/under-the-umbrella.jpg)
 ![bird.jpg]({{site.baseurl}}/assets/images/posts/bird.jpg)
 ![alt-sunset.jpg]({{site.baseurl}}/assets/images/posts/alt-sunset.jpg)
@@ -41,4 +40,3 @@ feature: jessicaface.jpg
 ![ROMANTIKEN.jpg]({{site.baseurl}}/assets/images/posts/ROMANTIKEN.jpg)
 ![8-rebecka.jpg]({{site.baseurl}}/assets/images/posts/8-rebecka.jpg)
 ![unconditional.jpg]({{site.baseurl}}/assets/images/posts/unconditional.jpg)
-
