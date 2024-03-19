@@ -29,7 +29,6 @@ feature: jessicaface.jpg
 ![bird.jpg]({{site.baseurl}}/assets/images/posts/bird.jpg)
 ![alt-sunset.jpg]({{site.baseurl}}/assets/images/posts/alt-sunset.jpg)
 ![goosegirl1.jpg]({{site.baseurl}}/assets/images/posts/goosegirl1.jpg)
-![längta-.jpg]({{site.baseurl}}/assets/images/posts/längta-.jpg)
 ![försoningen.jpg]({{site.baseurl}}/assets/images/posts/försoningen.jpg)
 ![last-supper56.jpg]({{site.baseurl}}/assets/images/posts/last-supper56.jpg)
 ![ROMANTIKEN.jpg]({{site.baseurl}}/assets/images/posts/ROMANTIKEN.jpg)
