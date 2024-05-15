@@ -29,7 +29,6 @@ feature: jessicaface.jpg
 ![crozz9.jpg]({{site.baseurl}}/assets/images/posts/crozz9.jpg)
 ![under-the-umbrella.jpg]({{site.baseurl}}/assets/images/posts/under-the-umbrella.jpg)
 ![bird.jpg]({{site.baseurl}}/assets/images/posts/bird.jpg)
-![the-other.jpg]({{site.baseurl}}/assets/images/posts/the-other.jpg)
 ![alt-sunset.jpg]({{site.baseurl}}/assets/images/posts/alt-sunset.jpg)
 ![goosegirl1.jpg]({{site.baseurl}}/assets/images/posts/goosegirl1.jpg)
 ![försoningen.jpg]({{site.baseurl}}/assets/images/posts/försoningen.jpg)
