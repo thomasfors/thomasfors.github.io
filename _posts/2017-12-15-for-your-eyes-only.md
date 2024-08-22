@@ -25,6 +25,7 @@ feature: jessicaface.jpg
 ![thinking-feeling.jpg]({{site.baseurl}}/assets/images/posts/thinking-feeling.jpg)
 ![divine-kopiera.jpg]({{site.baseurl}}/assets/images/posts/divine-kopiera.jpg)
 ![judge4.jpg]({{site.baseurl}}/assets/images/posts/judge4.jpg)
+![alone.jpg]({{site.baseurl}}/assets/images/posts/alone.jpg)
 ![abandon.jpg]({{site.baseurl}}/assets/images/posts/abandon.jpg)
 ![butterfly-no-more.jpg]({{site.baseurl}}/assets/images/posts/butterfly-no-more.jpg)
 ![crozz9.jpg]({{site.baseurl}}/assets/images/posts/crozz9.jpg)
