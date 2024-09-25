@@ -25,6 +25,7 @@ feature: jessicaface.jpg
 ![ängeln-i-rummet3.jpg]({{site.baseurl}}/assets/images/posts/ängeln-i-rummet3.jpg)
 ![thinking-feeling.jpg]({{site.baseurl}}/assets/images/posts/thinking-feeling.jpg)
 ![divine-kopiera.jpg]({{site.baseurl}}/assets/images/posts/divine-kopiera.jpg)
+![pig5.jpg]({{site.baseurl}}/assets/images/posts/pig5.jpg)
 ![judge4.jpg]({{site.baseurl}}/assets/images/posts/judge4.jpg)
 ![alone.jpg]({{site.baseurl}}/assets/images/posts/alone.jpg)
 ![abandon.jpg]({{site.baseurl}}/assets/images/posts/abandon.jpg)
