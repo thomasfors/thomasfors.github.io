@@ -23,6 +23,7 @@ feature: jessicaface.jpg
 ![havana.jpg]({{site.baseurl}}/assets/images/posts/havana.jpg)
 ![roma.jpg]({{site.baseurl}}/assets/images/posts/roma.jpg)
 ![ängeln-i-rummet3.jpg]({{site.baseurl}}/assets/images/posts/ängeln-i-rummet3.jpg)
+![ATONEMENT.jpg]({{site.baseurl}}/assets/images/posts/ATONEMENT.jpg)
 ![thinking-feeling.jpg]({{site.baseurl}}/assets/images/posts/thinking-feeling.jpg)
 ![divine-kopiera.jpg]({{site.baseurl}}/assets/images/posts/divine-kopiera.jpg)
 ![pig5.jpg]({{site.baseurl}}/assets/images/posts/pig5.jpg)
@@ -39,4 +40,3 @@ feature: jessicaface.jpg
 ![last-supper56.jpg]({{site.baseurl}}/assets/images/posts/last-supper56.jpg)
 ![ROMANTIKEN.jpg]({{site.baseurl}}/assets/images/posts/ROMANTIKEN.jpg)
 ![alone3.jpg]({{site.baseurl}}/assets/images/posts/alone3.jpg)
-
