@@ -36,6 +36,7 @@ feature: jessicaface.jpg
 ![fear2408.jpg]({{site.baseurl}}/assets/images/posts/fear2408.jpg)
 ![alt-sunset.jpg]({{site.baseurl}}/assets/images/posts/alt-sunset.jpg)
 ![goosegirl1.jpg]({{site.baseurl}}/assets/images/posts/goosegirl1.jpg)
-![försoningen.jpg]({{site.baseurl}}/assets/images/posts/försoningen.jpg)
 ![last-supper56.jpg]({{site.baseurl}}/assets/images/posts/last-supper56.jpg)
 ![ROMANTIKEN.jpg]({{site.baseurl}}/assets/images/posts/ROMANTIKEN.jpg)
+![alone3.jpg]({{site.baseurl}}/assets/images/posts/alone3.jpg)
+
