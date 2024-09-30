@@ -27,6 +27,7 @@ feature: jessicaface.jpg
 ![thinking-feeling.jpg]({{site.baseurl}}/assets/images/posts/thinking-feeling.jpg)
 ![divine-kopiera.jpg]({{site.baseurl}}/assets/images/posts/divine-kopiera.jpg)
 ![pig5.jpg]({{site.baseurl}}/assets/images/posts/pig5.jpg)
+![art-(22).jpg]({{site.baseurl}}/assets/images/posts/art-(22).jpg)
 ![svart.jpg]({{site.baseurl}}/assets/images/posts/svart.jpg)
 ![judge4.jpg]({{site.baseurl}}/assets/images/posts/judge4.jpg)
 ![alone.jpg]({{site.baseurl}}/assets/images/posts/alone.jpg)
