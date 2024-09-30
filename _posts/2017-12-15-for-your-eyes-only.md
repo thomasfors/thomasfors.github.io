@@ -42,3 +42,5 @@ feature: jessicaface.jpg
 ![last-supper56.jpg]({{site.baseurl}}/assets/images/posts/last-supper56.jpg)
 ![ROMANTIKEN.jpg]({{site.baseurl}}/assets/images/posts/ROMANTIKEN.jpg)
 ![alone3.jpg]({{site.baseurl}}/assets/images/posts/alone3.jpg)
+![as-you-are-511.jpg]({{site.baseurl}}/assets/images/posts/as-you-are-511.jpg)
+
