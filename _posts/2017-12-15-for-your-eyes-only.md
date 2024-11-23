@@ -23,7 +23,7 @@ feature: jessicaface.jpg
 ![havana.jpg]({{site.baseurl}}/assets/images/posts/havana.jpg)
 ![roma.jpg]({{site.baseurl}}/assets/images/posts/roma.jpg)
 ![ängeln-i-rummet3.jpg]({{site.baseurl}}/assets/images/posts/ängeln-i-rummet3.jpg)
-![spekteklet.jpg]({{site.baseurl}}/assets/images/posts/spekteklet.jpg)
+![good-housekeeping2.jpg]({{site.baseurl}}/assets/images/posts/good-housekeeping2.jpg)
 ![ATONEMENT.jpg]({{site.baseurl}}/assets/images/posts/ATONEMENT.jpg)
 ![thinking-feeling.jpg]({{site.baseurl}}/assets/images/posts/thinking-feeling.jpg)
 ![judge4.jpg]({{site.baseurl}}/assets/images/posts/judge4.jpg)
