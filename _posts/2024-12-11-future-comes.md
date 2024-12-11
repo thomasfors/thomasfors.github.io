@@ -2,6 +2,7 @@
 layout: post
 published: true
 title: future comes
+feature: klima 370.jpg
 ---
 ## A New Post
 
