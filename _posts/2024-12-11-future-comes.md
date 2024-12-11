@@ -19,6 +19,9 @@ feature: future comes34.jpg
 ![10,1 imigrant.jpg]({{site.baseurl}}/assets/images/posts/10,1 imigrant.jpg)
 ![10,2 sweden.jpg]({{site.baseurl}}/assets/images/posts/10,2 sweden.jpg)
 ![kök8.jpg]({{site.baseurl}}/assets/images/posts/kök8.jpg)
+![empati3.jpg]({{site.baseurl}}/assets/images/posts/empati3.jpg)
+![clothesxxx.jpg]({{site.baseurl}}/assets/images/posts/clothesxxx.jpg)
+![consume.jpg]({{site.baseurl}}/assets/images/posts/consume.jpg)
 
 
 
