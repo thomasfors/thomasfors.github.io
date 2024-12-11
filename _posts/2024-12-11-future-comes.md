@@ -14,5 +14,11 @@ feature: future comes34.jpg
 ![11 do.jpg]({{site.baseurl}}/assets/images/posts/11 do.jpg)
 ![12 home.jpg]({{site.baseurl}}/assets/images/posts/12 home.jpg)
 ![12,1 my backyard.jpg]({{site.baseurl}}/assets/images/posts/12,1 my backyard.jpg)
+![13 see me.jpg]({{site.baseurl}}/assets/images/posts/13 see me.jpg)
+![15 eller.jpg]({{site.baseurl}}/assets/images/posts/15 eller.jpg)
+![10,1 imigrant.jpg]({{site.baseurl}}/assets/images/posts/10,1 imigrant.jpg)
+![10,2 sweden.jpg]({{site.baseurl}}/assets/images/posts/10,2 sweden.jpg)
+![kök8.jpg]({{site.baseurl}}/assets/images/posts/kök8.jpg)
+
 
 
