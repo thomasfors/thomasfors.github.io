@@ -22,6 +22,17 @@ feature: future comes34.jpg
 ![empati3.jpg]({{site.baseurl}}/assets/images/posts/empati3.jpg)
 ![clothesxxx.jpg]({{site.baseurl}}/assets/images/posts/clothesxxx.jpg)
 ![consume.jpg]({{site.baseurl}}/assets/images/posts/consume.jpg)
+![3 out of time.jpg]({{site.baseurl}}/assets/images/posts/3 out of time.jpg)
+![5.4 no planet b.jpg]({{site.baseurl}}/assets/images/posts/5.4 no planet b.jpg)
+![4 we are nature.jpg]({{site.baseurl}}/assets/images/posts/4 we are nature.jpg)
+![5 horrifying.jpg]({{site.baseurl}}/assets/images/posts/5 horrifying.jpg)
+![3,1 danger.jpg]({{site.baseurl}}/assets/images/posts/3,1 danger.jpg)
+![8 consolation.jpg]({{site.baseurl}}/assets/images/posts/8 consolation.jpg)
+![6,1 escape.jpg]({{site.baseurl}}/assets/images/posts/6,1 escape.jpg)
+![7 last ship.jpg]({{site.baseurl}}/assets/images/posts/7 last ship.jpg)
+![hissigt2.jpg]({{site.baseurl}}/assets/images/posts/hissigt2.jpg)
+![1 fruktar intet.jpg]({{site.baseurl}}/assets/images/posts/1 fruktar intet.jpg)
+
 
 
 
