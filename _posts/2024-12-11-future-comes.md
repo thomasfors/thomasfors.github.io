@@ -8,6 +8,7 @@ feature: future comes34.jpg
 ![morgonpromenad.jpg]({{site.baseurl}}/assets/images/posts/morgonpromenad.jpg)
 ![spaceros5.jpg]({{site.baseurl}}/assets/images/posts/spaceros5.jpg)
 ![stupido.jpg]({{site.baseurl}}/assets/images/posts/stupido.jpg)
+![sins.jpg]({{site.baseurl}}/assets/images/posts/sins.jpg)
 ![INJUSTICE kopiera.jpg]({{site.baseurl}}/assets/images/posts/INJUSTICE kopiera.jpg)
 ![falsehood.jpg]({{site.baseurl}}/assets/images/posts/falsehood.jpg)
 ![10 bry sig.jpg]({{site.baseurl}}/assets/images/posts/10 bry sig.jpg)
@@ -32,7 +33,3 @@ feature: future comes34.jpg
 ![7 last ship.jpg]({{site.baseurl}}/assets/images/posts/7 last ship.jpg)
 ![hissigt2.jpg]({{site.baseurl}}/assets/images/posts/hissigt2.jpg)
 ![1 fruktar intet.jpg]({{site.baseurl}}/assets/images/posts/1 fruktar intet.jpg)
-
-
-
-
