@@ -7,6 +7,7 @@ feature: future comes34.jpg
 ![future comes34.jpg]({{site.baseurl}}/assets/images/posts/future comes34.jpg)
 ![morgonpromenad.jpg]({{site.baseurl}}/assets/images/posts/morgonpromenad.jpg)
 ![spaceros5.jpg]({{site.baseurl}}/assets/images/posts/spaceros5.jpg)
+![witness.jpg]({{site.baseurl}}/assets/images/posts/witness.jpg)
 ![stupido.jpg]({{site.baseurl}}/assets/images/posts/stupido.jpg)
 ![alie-atack12.jpg]({{site.baseurl}}/assets/images/posts/alie-atack12.jpg)
 ![sins.jpg]({{site.baseurl}}/assets/images/posts/sins.jpg)
