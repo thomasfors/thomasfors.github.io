@@ -12,6 +12,7 @@ feature: future comes34.jpg
 ![alie-atack12.jpg]({{site.baseurl}}/assets/images/posts/alie-atack12.jpg)
 ![rebbrobb3.jpg]({{site.baseurl}}/assets/images/posts/rebbrobb3.jpg)
 ![VICTIM.jpg]({{site.baseurl}}/assets/images/posts/VICTIM.jpg)
+![fond62.jpg]({{site.baseurl}}/assets/images/posts/fond62.jpg)
 ![sins.jpg]({{site.baseurl}}/assets/images/posts/sins.jpg)
 ![INJUSTICE kopiera.jpg]({{site.baseurl}}/assets/images/posts/INJUSTICE kopiera.jpg)
 ![falsehood.jpg]({{site.baseurl}}/assets/images/posts/falsehood.jpg)
