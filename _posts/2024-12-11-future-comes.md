@@ -9,6 +9,7 @@ feature: future comes34.jpg
 ![spaceros5.jpg]({{site.baseurl}}/assets/images/posts/spaceros5.jpg)
 ![the-observer.jpg]({{site.baseurl}}/assets/images/posts/the-observer.jpg)
 ![stupido.jpg]({{site.baseurl}}/assets/images/posts/stupido.jpg)
+![crowd.jpg]({{site.baseurl}}/assets/images/posts/crowd.jpg)
 ![alie-atack12.jpg]({{site.baseurl}}/assets/images/posts/alie-atack12.jpg)
 ![rebbrobb3.jpg]({{site.baseurl}}/assets/images/posts/rebbrobb3.jpg)
 ![VICTIM.jpg]({{site.baseurl}}/assets/images/posts/VICTIM.jpg)
