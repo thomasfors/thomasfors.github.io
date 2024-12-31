@@ -30,6 +30,7 @@ feature: jessicaface.jpg
 ![judge4.jpg]({{site.baseurl}}/assets/images/posts/judge4.jpg)
 ![alone.jpg]({{site.baseurl}}/assets/images/posts/alone.jpg)
 ![abandon.jpg]({{site.baseurl}}/assets/images/posts/abandon.jpg)
+![state of mind.jpg]({{site.baseurl}}/assets/images/posts/state of mind.jpg)
 ![travel7.jpg]({{site.baseurl}}/assets/images/posts/travel7.jpg)
 ![butterfly-no-more.jpg]({{site.baseurl}}/assets/images/posts/butterfly-no-more.jpg)
 ![crozz9.jpg]({{site.baseurl}}/assets/images/posts/crozz9.jpg)
