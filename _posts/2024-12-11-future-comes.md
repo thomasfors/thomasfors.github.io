@@ -38,6 +38,7 @@ feature: future comes34.jpg
 ![4 we are nature.jpg]({{site.baseurl}}/assets/images/posts/4 we are nature.jpg)
 ![5 horrifying.jpg]({{site.baseurl}}/assets/images/posts/5 horrifying.jpg)
 ![3,1 danger.jpg]({{site.baseurl}}/assets/images/posts/3,1 danger.jpg)
+![flod4.jpg]({{site.baseurl}}/assets/images/posts/flod4.jpg)
 ![8 consolation.jpg]({{site.baseurl}}/assets/images/posts/8 consolation.jpg)
 ![6,1 escape.jpg]({{site.baseurl}}/assets/images/posts/6,1 escape.jpg)
 ![7 last ship.jpg]({{site.baseurl}}/assets/images/posts/7 last ship.jpg)
