@@ -12,6 +12,7 @@ feature: future comes34.jpg
 ![stupido.jpg]({{site.baseurl}}/assets/images/posts/stupido.jpg)
 ![crowd.jpg]({{site.baseurl}}/assets/images/posts/crowd.jpg)
 ![alie-atack12.jpg]({{site.baseurl}}/assets/images/posts/alie-atack12.jpg)
+![rebbalias.jpg]({{site.baseurl}}/assets/images/posts/rebbalias.jpg)
 ![real2.jpg]({{site.baseurl}}/assets/images/posts/real2.jpg)
 ![dream-24.jpg]({{site.baseurl}}/assets/images/posts/dream-24.jpg)
 ![rebbrobb3.jpg]({{site.baseurl}}/assets/images/posts/rebbrobb3.jpg)
