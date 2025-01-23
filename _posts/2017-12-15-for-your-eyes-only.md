@@ -9,7 +9,6 @@ feature: jessicaface.jpg
 ![obscure2.jpg]({{site.baseurl}}/assets/images/posts/obscure2.jpg)
 ![möte4.jpg]({{site.baseurl}}/assets/images/posts/möte4.jpg)
 ![happy-ever-after.jpg]({{site.baseurl}}/assets/images/posts/happy-ever-after.jpg)
-![rebbrobb3.jpg]({{site.baseurl}}/assets/images/posts/rebbrobb3.jpg)
 ![you-and-me.jpg]({{site.baseurl}}/assets/images/posts/you-and-me.jpg)
 ![tower6.jpg]({{site.baseurl}}/assets/images/posts/tower6.jpg)
 ![wash8.jpg]({{site.baseurl}}/assets/images/posts/wash8.jpg)
