@@ -25,6 +25,7 @@ feature: jessicaface.jpg
 ![ängeln-i-rummet3.jpg]({{site.baseurl}}/assets/images/posts/ängeln-i-rummet3.jpg)
 ![good-housekeeping2.jpg]({{site.baseurl}}/assets/images/posts/good-housekeeping2.jpg)
 ![ATONEMENT.jpg]({{site.baseurl}}/assets/images/posts/ATONEMENT.jpg)
+![change-24.jpg]({{site.baseurl}}/assets/images/posts/change-24.jpg)
 ![thinking-feeling.jpg]({{site.baseurl}}/assets/images/posts/thinking-feeling.jpg)
 ![judge4.jpg]({{site.baseurl}}/assets/images/posts/judge4.jpg)
 ![alone.jpg]({{site.baseurl}}/assets/images/posts/alone.jpg)
