@@ -17,6 +17,7 @@ feature: future comes34.jpg
 ![whorehause-5.jpg]({{site.baseurl}}/assets/images/posts/whorehause-5.jpg)
 ![VICTIM.jpg]({{site.baseurl}}/assets/images/posts/VICTIM.jpg)
 ![fond62.jpg]({{site.baseurl}}/assets/images/posts/fond62.jpg)
+![protect-it.jpg]({{site.baseurl}}/assets/images/posts/protect-it.jpg)
 ![INJUSTICE kopiera.jpg]({{site.baseurl}}/assets/images/posts/INJUSTICE kopiera.jpg)
 ![falsehood.jpg]({{site.baseurl}}/assets/images/posts/falsehood.jpg)
 ![root-cause.jpg]({{site.baseurl}}/assets/images/posts/root-cause.jpg)
