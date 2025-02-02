@@ -28,6 +28,7 @@ feature: jessicaface.jpg
 ![change-24.jpg]({{site.baseurl}}/assets/images/posts/change-24.jpg)
 ![thinking-feeling.jpg]({{site.baseurl}}/assets/images/posts/thinking-feeling.jpg)
 ![dark-thought.jpg]({{site.baseurl}}/assets/images/posts/dark-thought.jpg)
+![red-rose-5.jpg]({{site.baseurl}}/assets/images/posts/red-rose-5.jpg)
 ![judge4.jpg]({{site.baseurl}}/assets/images/posts/judge4.jpg)
 ![alone.jpg]({{site.baseurl}}/assets/images/posts/alone.jpg)
 ![abandon.jpg]({{site.baseurl}}/assets/images/posts/abandon.jpg)
