@@ -18,6 +18,7 @@ feature: future comes34.jpg
 ![änglar-finns.jpg]({{site.baseurl}}/assets/images/posts/änglar-finns.jpg)
 ![TANZ-8.jpg]({{site.baseurl}}/assets/images/posts/TANZ-8.jpg)
 ![whorehause-5.jpg]({{site.baseurl}}/assets/images/posts/whorehause-5.jpg)
+![trashion.jpg]({{site.baseurl}}/assets/images/posts/trashion.jpg)
 ![VICTIM.jpg]({{site.baseurl}}/assets/images/posts/VICTIM.jpg)
 ![fond62.jpg]({{site.baseurl}}/assets/images/posts/fond62.jpg)
 ![circus-10.jpg]({{site.baseurl}}/assets/images/posts/circus-10.jpg)
