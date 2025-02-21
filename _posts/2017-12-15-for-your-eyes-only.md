@@ -25,8 +25,6 @@ feature: jessicaface.jpg
 ![ängeln-i-rummet3.jpg]({{site.baseurl}}/assets/images/posts/ängeln-i-rummet3.jpg)
 ![good-housekeeping2.jpg]({{site.baseurl}}/assets/images/posts/good-housekeeping2.jpg)
 ![thinking-feeling.jpg]({{site.baseurl}}/assets/images/posts/thinking-feeling.jpg)
-![dark-thought.jpg]({{site.baseurl}}/assets/images/posts/dark-thought.jpg)
-![red-rose-5.jpg]({{site.baseurl}}/assets/images/posts/red-rose-5.jpg)
 ![judge4.jpg]({{site.baseurl}}/assets/images/posts/judge4.jpg)
 ![elektra9.jpg]({{site.baseurl}}/assets/images/posts/elektra9.jpg)
 ![alone.jpg]({{site.baseurl}}/assets/images/posts/alone.jpg)
