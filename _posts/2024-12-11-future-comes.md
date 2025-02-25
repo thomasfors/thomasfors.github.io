@@ -14,7 +14,6 @@ feature: future comes34.jpg
 ![rebbrobb3.jpg]({{site.baseurl}}/assets/images/posts/rebbrobb3.jpg)
 ![rebecka-farmer66.jpg]({{site.baseurl}}/assets/images/posts/rebecka-farmer66.jpg)
 ![gul3.jpg]({{site.baseurl}}/![LAZY.jpg]({{site.baseurl}}/assets/images/posts/LAZY.jpg)
-/images/posts/gul3.jpg)
 ![pagan.jpg]({{site.baseurl}}/assets/images/posts/pagan.jpg)
 ![änglar-finns.jpg]({{site.baseurl}}/assets/images/posts/änglar-finns.jpg)
 ![not my circus46.jpg]({{site.baseurl}}/assets/images/posts/not my circus46.jpg)
