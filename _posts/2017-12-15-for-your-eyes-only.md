@@ -15,7 +15,6 @@ feature: jessicaface.jpg
 ![10-OBEY.jpg]({{site.baseurl}}/assets/images/posts/10-OBEY.jpg)
 ![sharia.jpg]({{site.baseurl}}/assets/images/posts/sharia.jpg)
 ![laundry.jpg]({{site.baseurl}}/assets/images/posts/laundry.jpg)
-![10.jpg]({{site.baseurl}}/assets/images/posts/10.jpg)
 ![lust.jpg]({{site.baseurl}}/assets/images/posts/lust.jpg)
 ![tråd.jpg]({{site.baseurl}}/assets/images/posts/tråd.jpg)
 ![boring2.jpg]({{site.baseurl}}/assets/images/posts/boring2.jpg)
