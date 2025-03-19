@@ -28,6 +28,7 @@ feature: jessicaface.jpg
 ![judge4.jpg]({{site.baseurl}}/assets/images/posts/judge4.jpg)
 ![under-the-umbrella.jpg]({{site.baseurl}}/assets/images/posts/under-the-umbrella.jpg)
 ![bird.jpg]({{site.baseurl}}/assets/images/posts/bird.jpg)
+![solitud2.jpg]({{site.baseurl}}/assets/images/posts/solitud2.jpg)
 ![alt-sunset.jpg]({{site.baseurl}}/assets/images/posts/alt-sunset.jpg)
 ![goosegirl1.jpg]({{site.baseurl}}/assets/images/posts/goosegirl1.jpg)
 ![last-supper56.jpg]({{site.baseurl}}/assets/images/posts/last-supper56.jpg)
