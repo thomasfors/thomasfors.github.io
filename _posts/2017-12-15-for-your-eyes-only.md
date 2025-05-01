@@ -21,6 +21,7 @@ feature: jessicaface.jpg
 ![domestic.jpg]({{site.baseurl}}/assets/images/posts/domestic.jpg)
 ![fear3452.jpg]({{site.baseurl}}/assets/images/posts/fear3452.jpg)
 ![havana.jpg]({{site.baseurl}}/assets/images/posts/havana.jpg)
+![trappstädning1.jpg]({{site.baseurl}}/assets/images/posts/trappstädning1.jpg)
 ![roma.jpg]({{site.baseurl}}/assets/images/posts/roma.jpg)
 ![ängeln-i-rummet3.jpg]({{site.baseurl}}/assets/images/posts/ängeln-i-rummet3.jpg)
 ![good-housekeeping2.jpg]({{site.baseurl}}/assets/images/posts/good-housekeeping2.jpg)
