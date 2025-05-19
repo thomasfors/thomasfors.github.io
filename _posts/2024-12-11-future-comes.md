@@ -9,6 +9,7 @@ feature: future comes34.jpg
 ![spaceros5.jpg]({{site.baseurl}}/assets/images/posts/spaceros5.jpg)
 ![the-observer.jpg]({{site.baseurl}}/assets/images/posts/the-observer.jpg)
 ![et-phone-home.jpg]({{site.baseurl}}/assets/images/posts/et-phone-home.jpg)
+![absolutely.jpg]({{site.baseurl}}/assets/images/posts/absolutely.jpg)
 ![lat.jpg]({{site.baseurl}}/assets/images/posts/lat.jpg)
 ![close.jpg]({{site.baseurl}}/assets/images/posts/close.jpg)
 ![dream-24.jpg]({{site.baseurl}}/assets/images/posts/dream-24.jpg)
