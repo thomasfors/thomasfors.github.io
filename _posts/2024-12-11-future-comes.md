@@ -21,7 +21,6 @@ feature: future comes34.jpg
 ![whorehause-5.jpg]({{site.baseurl}}/assets/images/posts/whorehause-5.jpg)
 ![time.jpg]({{site.baseurl}}/assets/images/posts/time.jpg)
 ![labor-day-3.jpg]({{site.baseurl}}/assets/images/posts/labor-day-3.jpg)
-![VICTIM.jpg]({{site.baseurl}}/assets/images/posts/VICTIM.jpg)
 ![fond62.jpg]({{site.baseurl}}/assets/images/posts/fond62.jpg)
 ![CIRCUS-11.jpg]({{site.baseurl}}/assets/images/posts/CIRCUS-11.jpg)
 ![citywar-67.jpg]({{site.baseurl}}/assets/images/posts/citywar-67.jpg)
