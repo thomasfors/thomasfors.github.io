@@ -18,7 +18,6 @@ feature: future comes34.jpg
 ![not my circus46.jpg]({{site.baseurl}}/assets/images/posts/not my circus46.jpg)
 ![änglar-finns.jpg]({{site.baseurl}}/assets/images/posts/änglar-finns.jpg)
 ![TANZ-8.jpg]({{site.baseurl}}/assets/images/posts/TANZ-8.jpg)
-![marmorhaus.jpg]({{site.baseurl}}/assets/images/posts/marmorhaus.jpg)
 ![whorehause-5.jpg]({{site.baseurl}}/assets/images/posts/whorehause-5.jpg)
 ![time.jpg]({{site.baseurl}}/assets/images/posts/time.jpg)
 ![labor-day-3.jpg]({{site.baseurl}}/assets/images/posts/labor-day-3.jpg)
