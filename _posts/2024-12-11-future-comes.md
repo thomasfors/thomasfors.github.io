@@ -11,7 +11,6 @@ feature: future comes34.jpg
 ![et-phone-home.jpg]({{site.baseurl}}/assets/images/posts/et-phone-home.jpg)
 ![absolutely.jpg]({{site.baseurl}}/assets/images/posts/absolutely.jpg)
 ![lat.jpg]({{site.baseurl}}/assets/images/posts/lat.jpg)
-![close.jpg]({{site.baseurl}}/assets/images/posts/close.jpg)
 ![dream-24.jpg]({{site.baseurl}}/assets/images/posts/dream-24.jpg)
 ![rebbrobb3.jpg]({{site.baseurl}}/assets/images/posts/rebbrobb3.jpg)
 ![why56.jpg]({{site.baseurl}}/assets/images/posts/why56.jpg)
