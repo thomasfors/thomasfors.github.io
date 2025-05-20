@@ -6,7 +6,7 @@ feature: future comes34.jpg
 ---
 ![future comes34.jpg]({{site.baseurl}}/assets/images/posts/future comes34.jpg)
 ![morgonpromenad.jpg]({{site.baseurl}}/assets/images/posts/morgonpromenad.jpg)
-![spaceros5.jpg]({{site.baseurl}}/assets/images/posts/spaceros5.jpg)
+![out-of-here.jpg]({{site.baseurl}}/assets/images/posts/out-of-here.jpg)
 ![the-observer.jpg]({{site.baseurl}}/assets/images/posts/the-observer.jpg)
 ![et-phone-home.jpg]({{site.baseurl}}/assets/images/posts/et-phone-home.jpg)
 ![absolutely.jpg]({{site.baseurl}}/assets/images/posts/absolutely.jpg)
