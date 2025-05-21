@@ -11,7 +11,6 @@ feature: jessicaface.jpg
 ![happy-ever-after.jpg]({{site.baseurl}}/assets/images/posts/happy-ever-after.jpg)
 ![you-and-me.jpg]({{site.baseurl}}/assets/images/posts/you-and-me.jpg)
 ![tower6.jpg]({{site.baseurl}}/assets/images/posts/tower6.jpg)
-![wash8.jpg]({{site.baseurl}}/assets/images/posts/wash8.jpg)
 ![10-OBEY.jpg]({{site.baseurl}}/assets/images/posts/10-OBEY.jpg)
 ![sharia.jpg]({{site.baseurl}}/assets/images/posts/sharia.jpg)
 ![laundry.jpg]({{site.baseurl}}/assets/images/posts/laundry.jpg)
