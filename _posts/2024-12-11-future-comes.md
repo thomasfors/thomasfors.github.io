@@ -26,6 +26,7 @@ feature: future comes34.jpg
 ![citywar-67.jpg]({{site.baseurl}}/assets/images/posts/citywar-67.jpg)
 ![protect-it.jpg]({{site.baseurl}}/assets/images/posts/protect-it.jpg)
 ![INJUSTICE kopiera.jpg]({{site.baseurl}}/assets/images/posts/INJUSTICE kopiera.jpg)
+![art deco 26.jpg]({{site.baseurl}}/assets/images/posts/art deco 26.jpg)
 ![teater89.jpg]({{site.baseurl}}/assets/images/posts/teater89.jpg)
 ![falsehood.jpg]({{site.baseurl}}/assets/images/posts/falsehood.jpg)
 ![root-cause.jpg]({{site.baseurl}}/assets/images/posts/root-cause.jpg)
