@@ -16,6 +16,8 @@ feature: future comes34.jpg
 ![änglar-finns.jpg]({{site.baseurl}}/assets/images/posts/änglar-finns.jpg)
 ![TANZ-8.jpg]({{site.baseurl}}/assets/images/posts/TANZ-8.jpg)
 ![whorehause-5.jpg]({{site.baseurl}}/assets/images/posts/whorehause-5.jpg)
+![badlife.jpg]({{site.baseurl}}/assets/images/posts/badlife.jpg)
+![Gods-lover-2.jpg]({{site.baseurl}}/assets/images/posts/Gods-lover-2.jpg)
 ![time.jpg]({{site.baseurl}}/assets/images/posts/time.jpg)
 ![labor-day-3.jpg]({{site.baseurl}}/assets/images/posts/labor-day-3.jpg)
 ![fond62.jpg]({{site.baseurl}}/assets/images/posts/fond62.jpg)
