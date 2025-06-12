@@ -19,6 +19,7 @@ feature: future comes34.jpg
 ![badlife.jpg]({{site.baseurl}}/assets/images/posts/badlife.jpg)
 ![Gods-lover-2.jpg]({{site.baseurl}}/assets/images/posts/Gods-lover-2.jpg)
 ![labor-day-3.jpg]({{site.baseurl}}/assets/images/posts/labor-day-3.jpg)
+![border-meeting-21.jpg]({{site.baseurl}}/assets/images/posts/border-meeting-21.jpg)
 ![fond62.jpg]({{site.baseurl}}/assets/images/posts/fond62.jpg)
 ![CIRCUS-11.jpg]({{site.baseurl}}/assets/images/posts/CIRCUS-11.jpg)
 ![INJUSTICE kopiera.jpg]({{site.baseurl}}/assets/images/posts/INJUSTICE kopiera.jpg)
