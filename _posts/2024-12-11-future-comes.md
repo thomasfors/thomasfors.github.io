@@ -16,6 +16,7 @@ feature: future comes34.jpg
 ![why56.jpg]({{site.baseurl}}/assets/images/posts/why56.jpg)
 ![so-help-us.jpg]({{site.baseurl}}/assets/images/posts/so-help-us.jpg)
 ![not my circus46.jpg]({{site.baseurl}}/assets/images/posts/not my circus46.jpg)
+![center.jpg]({{site.baseurl}}/assets/images/posts/center.jpg)
 ![love-you-anyway.jpg]({{site.baseurl}}/assets/images/posts/love-you-anyway.jpg)
 ![änglar-finns.jpg]({{site.baseurl}}/assets/images/posts/änglar-finns.jpg)
 ![TANZ-8.jpg]({{site.baseurl}}/assets/images/posts/TANZ-8.jpg)
