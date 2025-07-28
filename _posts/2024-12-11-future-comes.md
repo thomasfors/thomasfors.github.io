@@ -19,6 +19,7 @@ feature: future comes34.jpg
 ![center.jpg]({{site.baseurl}}/assets/images/posts/center.jpg)
 ![TANZ-8.jpg]({{site.baseurl}}/assets/images/posts/TANZ-8.jpg)
 ![whorehause-5.jpg]({{site.baseurl}}/assets/images/posts/whorehause-5.jpg)
+![big-sister-see-you.jpg]({{site.baseurl}}/assets/images/posts/big-sister-see-you.jpg)
 ![badlife.jpg]({{site.baseurl}}/assets/images/posts/badlife.jpg)
 ![Gods-lover-2.jpg]({{site.baseurl}}/assets/images/posts/Gods-lover-2.jpg)
 ![labor-day-3.jpg]({{site.baseurl}}/assets/images/posts/labor-day-3.jpg)
