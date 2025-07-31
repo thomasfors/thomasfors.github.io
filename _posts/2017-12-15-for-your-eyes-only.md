@@ -12,6 +12,7 @@ feature: jessicaface.jpg
 ![you-and-me.jpg]({{site.baseurl}}/assets/images/posts/you-and-me.jpg)
 ![tower6.jpg]({{site.baseurl}}/assets/images/posts/tower6.jpg)
 ![10-OBEY.jpg]({{site.baseurl}}/assets/images/posts/10-OBEY.jpg)
+![auktion2.jpg]({{site.baseurl}}/assets/images/posts/auktion2.jpg)
 ![sharia.jpg]({{site.baseurl}}/assets/images/posts/sharia.jpg)
 ![laundry.jpg]({{site.baseurl}}/assets/images/posts/laundry.jpg)
 ![lust.jpg]({{site.baseurl}}/assets/images/posts/lust.jpg)
