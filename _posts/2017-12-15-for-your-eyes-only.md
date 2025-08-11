@@ -20,6 +20,7 @@ feature: jessicaface.jpg
 ![fear3452.jpg]({{site.baseurl}}/assets/images/posts/fear3452.jpg)
 ![havana.jpg]({{site.baseurl}}/assets/images/posts/havana.jpg)
 ![roma.jpg]({{site.baseurl}}/assets/images/posts/roma.jpg)
+![another.jpg]({{site.baseurl}}/assets/images/posts/another.jpg)
 ![ängeln-i-rummet3.jpg]({{site.baseurl}}/assets/images/posts/ängeln-i-rummet3.jpg)
 ![good-housekeeping2.jpg]({{site.baseurl}}/assets/images/posts/good-housekeeping2.jpg)
 ![thinking-feeling.jpg]({{site.baseurl}}/assets/images/posts/thinking-feeling.jpg)
