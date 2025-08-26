@@ -9,8 +9,6 @@ feature: future comes34.jpg
 ![the-observer.jpg]({{site.baseurl}}/assets/images/posts/the-observer.jpg)
 ![et-phone-home.jpg]({{site.baseurl}}/assets/images/posts/et-phone-home.jpg)
 ![dream-24.jpg]({{site.baseurl}}/assets/images/posts/dream-24.jpg)
-![hammarkullen.jpg]({{site.baseurl}}/assets/images/posts/hammarkullen.jpg)
-![why56.jpg]({{site.baseurl}}/assets/images/posts/why56.jpg)
 ![so-help-us.jpg]({{site.baseurl}}/assets/images/posts/so-help-us.jpg)
 ![not my circus46.jpg]({{site.baseurl}}/assets/images/posts/not my circus46.jpg)
 ![center.jpg]({{site.baseurl}}/assets/images/posts/center.jpg)
