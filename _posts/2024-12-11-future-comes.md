@@ -4,8 +4,6 @@ published: true
 title: future comes
 feature: future comes34.jpg
 ---
-![stadtmitte.jpg]({{site.baseurl}}/assets/images/posts/stadtmitte.jpg)
-![rebb.jpg]({{site.baseurl}}/assets/images/posts/rebb.jpg)
 ![future comes34.jpg]({{site.baseurl}}/assets/images/posts/future comes34.jpg)
 ![morgonpromenad.jpg]({{site.baseurl}}/assets/images/posts/morgonpromenad.jpg)
 ![out-of-here.jpg]({{site.baseurl}}/assets/images/posts/out-of-here.jpg)
