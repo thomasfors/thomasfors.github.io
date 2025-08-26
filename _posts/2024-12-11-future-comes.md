@@ -5,6 +5,7 @@ title: future comes
 feature: future comes34.jpg
 ---
 ![future comes34.jpg]({{site.baseurl}}/assets/images/posts/future comes34.jpg)
+![korsväg5.jpg]({{site.baseurl}}/assets/images/posts/korsväg5.jpg)
 ![morgonpromenad.jpg]({{site.baseurl}}/assets/images/posts/morgonpromenad.jpg)
 ![the-observer.jpg]({{site.baseurl}}/assets/images/posts/the-observer.jpg)
 ![et-phone-home.jpg]({{site.baseurl}}/assets/images/posts/et-phone-home.jpg)
