@@ -13,6 +13,7 @@ feature: future comes34.jpg
 ![so-help-us.jpg]({{site.baseurl}}/assets/images/posts/so-help-us.jpg)
 ![not my circus46.jpg]({{site.baseurl}}/assets/images/posts/not my circus46.jpg)
 ![center.jpg]({{site.baseurl}}/assets/images/posts/center.jpg)
+![fönsterplats8.jpg]({{site.baseurl}}/assets/images/posts/fönsterplats8.jpg)
 ![TANZ-8.jpg]({{site.baseurl}}/assets/images/posts/TANZ-8.jpg)
 ![big-sister-see-you.jpg]({{site.baseurl}}/assets/images/posts/big-sister-see-you.jpg)
 ![badlife.jpg]({{site.baseurl}}/assets/images/posts/badlife.jpg)
