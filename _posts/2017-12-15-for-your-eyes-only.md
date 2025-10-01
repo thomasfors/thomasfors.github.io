@@ -16,7 +16,6 @@ feature: jessicaface.jpg
 ![lust.jpg]({{site.baseurl}}/assets/images/posts/lust.jpg)
 ![tråd.jpg]({{site.baseurl}}/assets/images/posts/tråd.jpg)
 ![domestic.jpg]({{site.baseurl}}/assets/images/posts/domestic.jpg)
-![fear3452.jpg]({{site.baseurl}}/assets/images/posts/fear3452.jpg)
 ![havana.jpg]({{site.baseurl}}/assets/images/posts/havana.jpg)
 ![roma.jpg]({{site.baseurl}}/assets/images/posts/roma.jpg)
 ![another.jpg]({{site.baseurl}}/assets/images/posts/another.jpg)
