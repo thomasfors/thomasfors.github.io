@@ -43,7 +43,5 @@ feature: future comes34.jpg
 ![3,1 danger.jpg]({{site.baseurl}}/assets/images/posts/3,1 danger.jpg)
 ![flod4.jpg]({{site.baseurl}}/assets/images/posts/flod4.jpg)
 ![8 consolation.jpg]({{site.baseurl}}/assets/images/posts/8 consolation.jpg)
-![6,1 escape.jpg]({{site.baseurl}}/assets/images/posts/6,1 escape.jpg)
-![7 last ship.jpg]({{site.baseurl}}/assets/images/posts/7 last ship.jpg)
 ![hissigt2.jpg]({{site.baseurl}}/assets/images/posts/hissigt2.jpg)
-![1 fruktar intet.jpg]({{site.baseurl}}/assets/images/posts/1 fruktar intet.jpg)
+
