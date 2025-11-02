@@ -14,6 +14,7 @@ feature: jessicaface.jpg
 ![you-and-me.jpg]({{site.baseurl}}/assets/images/posts/you-and-me.jpg)
 ![sharia.jpg]({{site.baseurl}}/assets/images/posts/sharia.jpg)
 ![laundry.jpg]({{site.baseurl}}/assets/images/posts/laundry.jpg)
+![cage.jpg]({{site.baseurl}}/assets/images/posts/cage.jpg)
 ![lust.jpg]({{site.baseurl}}/assets/images/posts/lust.jpg)
 ![tråd.jpg]({{site.baseurl}}/assets/images/posts/tråd.jpg)
 ![domestic.jpg]({{site.baseurl}}/assets/images/posts/domestic.jpg)
