@@ -13,7 +13,7 @@ feature: future comes34.jpg
 ![so-help-us.jpg]({{site.baseurl}}/assets/images/posts/so-help-us.jpg)
 ![not my circus46.jpg]({{site.baseurl}}/assets/images/posts/not my circus46.jpg)
 ![rebbenatolia.jpg]({{site.baseurl}}/assets/images/posts/rebbenatolia.jpg)
-![center.jpg]({{site.baseurl}}/assets/images/posts/center.jpg)
+![symbol.jpg]({{site.baseurl}}/assets/images/posts/symbol.jpg)
 ![Reunion 1.jpg]({{site.baseurl}}/assets/images/posts/Reunion 1.jpg)
 ![fönsterplats8.jpg]({{site.baseurl}}/assets/images/posts/fönsterplats8.jpg)
 ![TANZ-8.jpg]({{site.baseurl}}/assets/images/posts/TANZ-8.jpg)
