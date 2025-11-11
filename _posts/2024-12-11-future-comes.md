@@ -26,7 +26,6 @@ feature: future comes34.jpg
 ![mackensen.jpg]({{site.baseurl}}/assets/images/posts/mackensen.jpg)
 ![INJUSTICE kopiera.jpg]({{site.baseurl}}/assets/images/posts/INJUSTICE kopiera.jpg)
 ![falsehood.jpg]({{site.baseurl}}/assets/images/posts/falsehood.jpg)
-![root-cause.jpg]({{site.baseurl}}/assets/images/posts/root-cause.jpg)
 ![10 bry sig.jpg]({{site.baseurl}}/assets/images/posts/10 bry sig.jpg)
 ![11 do.jpg]({{site.baseurl}}/assets/images/posts/11 do.jpg)
 ![12 home.jpg]({{site.baseurl}}/assets/images/posts/12 home.jpg)
