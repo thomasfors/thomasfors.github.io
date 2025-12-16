@@ -11,6 +11,7 @@ feature: future comes34.jpg
 ![dream-24.jpg]({{site.baseurl}}/assets/images/posts/dream-24.jpg)
 ![modern-slavery.jpg]({{site.baseurl}}/assets/images/posts/modern-slavery.jpg)
 ![so-help-us.jpg]({{site.baseurl}}/assets/images/posts/so-help-us.jpg)
+![fan-club.jpg]({{site.baseurl}}/assets/images/posts/fan-club.jpg)
 ![not my circus46.jpg]({{site.baseurl}}/assets/images/posts/not my circus46.jpg)
 ![rebbenatolia.jpg]({{site.baseurl}}/assets/images/posts/rebbenatolia.jpg)
 ![symbol.jpg]({{site.baseurl}}/assets/images/posts/symbol.jpg)
