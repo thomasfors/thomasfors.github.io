@@ -8,6 +8,7 @@ feature: jessicaface.jpg
 ![fel.jpg]({{site.baseurl}}/assets/images/posts/fel.jpg)
 ![obscure2.jpg]({{site.baseurl}}/assets/images/posts/obscure2.jpg)
 ![enquire.jpg]({{site.baseurl}}/assets/images/posts/enquire.jpg)
+![absolutely.jpg]({{site.baseurl}}/assets/images/posts/absolutely.jpg)
 ![not enough2.jpg]({{site.baseurl}}/assets/images/posts/not enough2.jpg)
 ![möte4.jpg]({{site.baseurl}}/assets/images/posts/möte4.jpg)
 ![happy-ever-after.jpg]({{site.baseurl}}/assets/images/posts/happy-ever-after.jpg)
