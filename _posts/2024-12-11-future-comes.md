@@ -14,6 +14,7 @@ feature: future comes34.jpg
 ![fan-club.jpg]({{site.baseurl}}/assets/images/posts/fan-club.jpg)
 ![not my circus46.jpg]({{site.baseurl}}/assets/images/posts/not my circus46.jpg)
 ![Clare-Crockett.jpg]({{site.baseurl}}/assets/images/posts/Clare-Crockett.jpg)
+![lucia-25.jpg]({{site.baseurl}}/assets/images/posts/lucia-25.jpg)
 ![rebbenatolia.jpg]({{site.baseurl}}/assets/images/posts/rebbenatolia.jpg)
 ![symbol.jpg]({{site.baseurl}}/assets/images/posts/symbol.jpg)
 ![Reunion 1.jpg]({{site.baseurl}}/assets/images/posts/Reunion 1.jpg)
