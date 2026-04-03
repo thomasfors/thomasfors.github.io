@@ -1,3 +1,6 @@
 [build]
-  command = ""
+  command = "echo 'skip build'"
   publish = "."
+
+[build.environment]
+  NPM_FLAGS = "--version"
