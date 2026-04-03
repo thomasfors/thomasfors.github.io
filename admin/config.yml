@@ -2,6 +2,7 @@ backend:
   name: github
   repo: thomasfors/thomasfors.github.io
   branch: master
+  client_id: Ov23liySJg98z97Wj4RW
 
 media_folder: "assets/uploads"
 public_folder: "/assets/uploads"
