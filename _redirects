@@ -1,3 +1,10 @@
 /admin /admin/index.html 200
 /admin/* /admin/index.html 200
 /.netlify/*  /.netlify/:splat  200
+
+
+/.netlify/identity/*  /.netlify/identity/:splat  200
+/.netlify/functions/* /.netlify/functions/:splat 200
+
+/admin /admin/index.html 200
+/admin/* /admin/index.html 200
