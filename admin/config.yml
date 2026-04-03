@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: thomasfors/thomasfors.github.io
   branch: master
 
 media_folder: "assets/uploads"
