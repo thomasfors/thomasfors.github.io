@@ -1,25 +1,3 @@
 backend:
-  name: github
-  repo: thomasfors/thomasfors.github.io
+  name: git-gateway
   branch: master
-  client_id: Ov23liySJg98z97Wj4RW
-
-media_folder: "assets/uploads"
-public_folder: "/assets/uploads"
-
-collections:
-  - name: "posts"
-    label: "Posts"
-    folder: "_posts"
-    create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    fields:
-      - label: "Title"
-        name: "title"
-        widget: "string"
-      - label: "Date"
-        name: "date"
-        widget: "datetime"
-      - label: "Body"
-        name: "body"
-        widget: "markdown"
