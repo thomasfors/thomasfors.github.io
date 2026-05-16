@@ -1,0 +1,18 @@
+[Unit]
+Description=Thomas Fors gallery site
+After=network.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/opt/thomasfors.se
+Environment=PORT=3002
+Environment=MEDIA_DIR=/srv/thomasfors-media
+Environment=ADMIN_PASSWORD=change-this-password
+Environment=COOKIE_SECRET=change-this-long-random-secret
+ExecStart=/usr/bin/npm start
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

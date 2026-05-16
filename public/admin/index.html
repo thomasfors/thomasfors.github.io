@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="sv">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Administration - Thomas Fors</title>
+    <link rel="stylesheet" href="/assets/css/site.css">
+  </head>
+  <body>
+    <header class="hero hero--small">
+      <a class="back-link" href="/">Visa sidan</a>
+      <h1>Administration</h1>
+    </header>
+
+    <main class="page admin-layout">
+      <section id="login-panel" class="login-card">
+        <h2>Logga in</h2>
+        <form id="login-form">
+          <label class="form-row">
+            Lösenord
+            <input id="password" type="password" autocomplete="current-password" required>
+          </label>
+          <button type="submit">Logga in</button>
+        </form>
+      </section>
+
+      <section id="admin-panel" class="hidden">
+        <div class="admin-toolbar">
+          <div>
+            <h2>Bildserier</h2>
+            <p class="status">Skapa bildserier och ladda upp bilder.</p>
+          </div>
+          <button id="logout-button" class="secondary" type="button">Logga ut</button>
+        </div>
+
+        <form id="create-gallery-form" class="login-card">
+          <label class="form-row">
+            Ny bildserie
+            <input id="new-gallery-title" type="text" required>
+          </label>
+          <button type="submit">Skapa bildserie</button>
+        </form>
+
+        <div id="admin-status" class="status" role="status"></div>
+        <div id="admin-gallery-list" class="admin-gallery-list"></div>
+      </section>
+    </main>
+
+    <script src="/admin/admin.js"></script>
+  </body>
+</html>

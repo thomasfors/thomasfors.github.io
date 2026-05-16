@@ -1,0 +1,290 @@
+:root {
+  color-scheme: light;
+  --background: #f5f1ea;
+  --panel: #fffaf2;
+  --text: #191714;
+  --muted: #756f66;
+  --line: #ded6c8;
+  --accent: #111;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--background);
+  color: var(--text);
+  font-family: Georgia, "Times New Roman", serif;
+}
+
+a {
+  color: inherit;
+}
+
+button,
+input,
+select {
+  font: inherit;
+}
+
+.hero {
+  display: grid;
+  min-height: 45vh;
+  place-items: center;
+  padding: 48px 20px;
+  text-align: center;
+}
+
+.hero--small {
+  align-content: center;
+  gap: 16px;
+  min-height: 220px;
+}
+
+.hero h1 {
+  margin: 0;
+  font-size: clamp(3rem, 12vw, 9rem);
+  font-weight: 400;
+  letter-spacing: -0.08em;
+  line-height: 0.9;
+}
+
+.hero--small h1 {
+  font-size: clamp(2.5rem, 8vw, 6rem);
+}
+
+.eyebrow,
+.empty,
+.status {
+  color: var(--muted);
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.page {
+  margin: 0 auto;
+  max-width: 1180px;
+  padding: 0 20px 64px;
+}
+
+.section-heading,
+.admin-toolbar,
+.admin-gallery-header,
+.image-actions {
+  align-items: center;
+  display: flex;
+  gap: 16px;
+  justify-content: space-between;
+}
+
+.section-heading h2 {
+  font-size: 1rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.admin-link,
+.back-link,
+.button,
+button {
+  background: var(--accent);
+  border: 1px solid var(--accent);
+  border-radius: 999px;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  padding: 10px 16px;
+  text-decoration: none;
+}
+
+.button--secondary,
+button.secondary {
+  background: transparent;
+  color: var(--text);
+}
+
+.gallery-grid,
+.image-grid {
+  display: grid;
+  gap: 18px;
+  grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+}
+
+.gallery-card,
+.admin-card,
+.login-card {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 24px;
+  overflow: hidden;
+}
+
+.gallery-card {
+  display: block;
+  text-decoration: none;
+}
+
+.gallery-card img,
+.image-card img,
+.admin-image img {
+  aspect-ratio: 4 / 3;
+  background: #e3dccf;
+  display: block;
+  height: auto;
+  object-fit: cover;
+  width: 100%;
+}
+
+.gallery-card h3,
+.admin-card h3 {
+  font-size: 1.35rem;
+  font-weight: 400;
+  margin: 16px;
+}
+
+.gallery-card p,
+.admin-card p {
+  color: var(--muted);
+  margin: -8px 16px 16px;
+}
+
+.image-card {
+  background: transparent;
+  border: 0;
+  cursor: zoom-in;
+  padding: 0;
+}
+
+.lightbox {
+  background: rgba(10, 9, 8, 0.94);
+  border: 0;
+  height: 100%;
+  max-height: none;
+  max-width: none;
+  padding: 24px;
+  width: 100%;
+}
+
+.lightbox img {
+  display: block;
+  margin: 48px auto 0;
+  max-height: calc(100vh - 96px);
+  max-width: 100%;
+}
+
+.lightbox-close {
+  position: fixed;
+  right: 24px;
+  top: 24px;
+}
+
+.admin-layout {
+  display: grid;
+  gap: 32px;
+}
+
+.login-card,
+.admin-card {
+  margin: 12px 0;
+  padding: 20px;
+}
+
+.form-row {
+  display: grid;
+  gap: 8px;
+  margin-bottom: 14px;
+}
+
+.field-help {
+  color: var(--muted);
+  display: none;
+  font-size: 0.82rem;
+}
+
+.form-row:focus-within .field-help {
+  display: inline;
+}
+
+.field-help strong {
+  color: var(--text);
+}
+
+input,
+select {
+  background: #fff;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  padding: 12px;
+  width: 100%;
+}
+
+.upload-button {
+  background: var(--accent);
+  border: 1px solid var(--accent);
+  border-radius: 999px;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  padding: 10px 16px;
+}
+
+.admin-layout button,
+.admin-layout .button,
+.admin-layout .upload-button {
+  margin: 4px;
+}
+
+.upload-button input {
+  height: 1px;
+  opacity: 0;
+  overflow: hidden;
+  position: absolute;
+  width: 1px;
+}
+
+.admin-gallery-list {
+  display: grid;
+  gap: 16px;
+}
+
+.admin-images {
+  display: grid;
+  gap: 12px;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  margin-top: 16px;
+}
+
+.admin-image {
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  overflow: hidden;
+}
+
+.admin-image div {
+  display: grid;
+  gap: 8px;
+  padding: 10px;
+}
+
+.delete-gallery-zone {
+  border-top: 1px solid var(--line);
+  margin-top: 20px;
+  padding-top: 16px;
+  text-align: right;
+}
+
+.hidden {
+  display: none !important;
+}
+
+@media (max-width: 640px) {
+  .section-heading,
+  .admin-toolbar,
+  .admin-gallery-header,
+  .image-actions {
+    align-items: stretch;
+    flex-direction: column;
+  }
+}

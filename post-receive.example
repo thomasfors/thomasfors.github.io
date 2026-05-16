@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+APP_DIR="/opt/thomasfors.se"
+BARE_REPO="/root/repos/thomasfors.se"
+BRANCH="main"
+SERVICE="thomasfors.service"
+
+mkdir -p "$APP_DIR"
+
+git --work-tree="$APP_DIR" --git-dir="$BARE_REPO" checkout -f "$BRANCH"
+
+cd "$APP_DIR"
+npm install --omit=dev
+
+systemctl restart "$SERVICE"

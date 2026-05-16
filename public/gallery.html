@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en-us" class="no-js">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Gallery by Thomas Fors">
+    <title>Gallery - Thomas Fors</title>
+    <link rel="stylesheet" href="/assets/css/main.css">
+    <link rel="stylesheet" href="/assets/css/public-overrides.css">
+  </head>
+  <body class="public-page gallery-page">
+    <input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+
+    <nav class="sidebar sidebar--right" id="gallery-sidebar">
+      <div class="sidebar-item">
+        <a href="/">Thomas Fors</a>
+      </div>
+      <ul id="gallery-nav" class="sidebar-recentPosts"></ul>
+    </nav>
+
+    <article class="postWrapper">
+      <h1 id="gallery-title" class="gallery-title">Gallery</h1>
+      <div id="slideshow" aria-live="polite"></div>
+    </article>
+
+    <div id="previous" aria-label="Previous image" role="button" tabindex="0"></div>
+    <div id="next" aria-label="Next image" role="button" tabindex="0"></div>
+
+    <label for="sidebar-checkbox" class="sidebar-toggle-wrapper">
+      <span class="sidebar-toggle"></span>
+    </label>
+
+    <dialog id="lightbox" class="lightbox">
+      <button id="lightbox-close" class="lightbox-close" type="button">Close</button>
+      <img id="lightbox-image" alt="">
+    </dialog>
+
+    <script src="/assets/js/site.js"></script>
+  </body>
+</html>
